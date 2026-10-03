@@ -195,6 +195,9 @@ public class BrushSelection : MonoBehaviour
         if (cam == null)
             cam = Camera.main;
 
+        if (cam == null || Mouse.current == null)
+            return;
+
         Gizmos.color = Color.red;
         Debug.DrawLine(cam.ScreenToWorldPoint(Mouse.current.position.ReadValue()), brushCenter);
         Gizmos.DrawWireSphere(brushCenter, diameter / 14 * cam.orthographicSize);
