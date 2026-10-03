@@ -1,0 +1,15 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="TranslucentUIFX.Runtime.csproj" />
+  <Project Path="TranslucentUIFX.Editor.csproj" />
+  <Project Path="Unity.PlayerPrefsEditor.Editor.csproj" />
+  <Project Path="Nobi.UiRoundedCorners.csproj" />
+  <Project Path="TranslucentUIFX.Tests.Editor.csproj" />
+  <Project Path="AdjustPivot.Editor.csproj" />
+  <Project Path="Unity.PlayerPrefsEditor.EditorResources.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="TranslucentUIFX.Demo.csproj" />
+  <Project Path="UnityFx.Outline.URP.csproj" />
+  <Project Path="NeumorphismUI.csproj" />
+  <Project Path="Unity.PlayerPrefsEditor.Samples.SampleScene.csproj" />
+</Solution>

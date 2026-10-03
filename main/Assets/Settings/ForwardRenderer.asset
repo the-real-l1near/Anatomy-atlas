@@ -1,0 +1,201 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7811637325585049897
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f62c9c65cf3354c93be831c8bc075510, type: 3}
+  m_Name: Screen Space Ambient Occlusion
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  m_Settings:
+    AOMethod: 1
+    Downsample: 1
+    AfterOpaque: 1
+    Source: 1
+    NormalSamples: 2
+    Intensity: 0.3
+    DirectLightingStrength: 0.302
+    Radius: 0.4
+    Samples: 2
+    BlurQuality: 0
+    Falloff: 100
+    SampleCount: -1
+--- !u!114 &-6522239898390174913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8e1eeeaa7fba944fb8e39c0af65b268, type: 3}
+  m_Name: TranslucentImageBlurSource
+  m_EditorClassIdentifier: 
+  m_Active: 1
+--- !u!114 &-5323997600571710902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52e2e32e102e44abeb72209e7ce030c3, type: 3}
+  m_Name: KawaseBlur
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  settings:
+    renderPassEvent: 450
+    blurMaterial: {fileID: 2100000, guid: a00afda211f274f6ca6cce958e4e13a5, type: 2}
+    blurPasses: 4
+    downsample: 2
+    copyToFramebuffer: 0
+    targetName: _blurTexture
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de640fe3d0db1804a85f9fc8f5cadab6, type: 3}
+  m_Name: ForwardRenderer
+  m_EditorClassIdentifier: 
+  debugShaders:
+    debugReplacementPS: {fileID: 4800000, guid: cf852408f2e174538bcd9b7fda1c5ae7, type: 3}
+    hdrDebugViewPS: {fileID: 4800000, guid: 573620ae32aec764abd4d728906d2587, type: 3}
+    probeVolumeSamplingDebugComputeShader: {fileID: 7200000, guid: 53626a513ea68ce47b59dc1299fe3959, type: 3}
+  probeVolumeResources:
+    probeVolumeDebugShader: {fileID: 0}
+    probeVolumeFragmentationDebugShader: {fileID: 0}
+    probeVolumeOffsetDebugShader: {fileID: 0}
+    probeVolumeSamplingDebugShader: {fileID: 0}
+    probeSamplingDebugMesh: {fileID: 0}
+    probeSamplingDebugTexture: {fileID: 0}
+    probeVolumeBlendStatesCS: {fileID: 0}
+  m_RendererFeatures:
+  - {fileID: 4236891733512084713}
+  - {fileID: 4469481740963245135}
+  - {fileID: -7811637325585049897}
+  - {fileID: 6637682115405940271}
+  m_RendererFeatureMap: e9dcc6679576cc3a4f6c358cf6c9063ed716527e3d7d97932f06bc4cb7c81d5cl
+  xrSystemData: {fileID: 11400000, guid: 60e1133243b97e347b653163a8c01b64, type: 2}
+  postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
+  m_AssetVersion: 3
+  m_PrepassLayerMask:
+    serializedVersion: 2
+    m_Bits: 2147483647
+  m_OpaqueLayerMask:
+    serializedVersion: 2
+    m_Bits: 2147483647
+  m_TransparentLayerMask:
+    serializedVersion: 2
+    m_Bits: 2147483647
+  m_DefaultStencilState:
+    overrideStencilState: 0
+    stencilReference: 0
+    stencilCompareFunction: 8
+    passOperation: 0
+    failOperation: 0
+    zFailOperation: 0
+  m_ShadowTransparentReceive: 1
+  m_RenderingMode: 0
+  m_DepthPrimingMode: 0
+  m_CopyDepthMode: 0
+  m_DepthAttachmentFormat: 0
+  m_DepthTextureFormat: 0
+  m_AccurateGbufferNormals: 0
+  m_IntermediateTextureMode: 1
+  m_TileOnlyMode: 0
+--- !u!114 &4236891733512084713
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd37d03d18ee9584d881763c34816b35, type: 3}
+  m_Name: SelectedOutline
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  _outlineResources: {fileID: 11400000, guid: 231d88937a104094b8e4e0fdb8d2e77b, type: 2}
+  _outlineLayers: {fileID: 0}
+  _outlineSettings:
+    _outlineSettings: {fileID: 0}
+    _outlineColor: {r: 0.96862745, g: 0.59607846, b: 0.02745098, a: 1}
+    _outlineWidth: 2
+    _outlineIntensity: 2
+    _outlineAlphaCutoff: 0.9
+    _outlineMode: 0
+    _filterMode: 1
+    _layerMask:
+      serializedVersion: 2
+      m_Bits: 128
+    _renderingLayerMask: 1
+  _renderPassEvent: 500
+  _shaderPassNames: []
+--- !u!114 &4469481740963245135
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd37d03d18ee9584d881763c34816b35, type: 3}
+  m_Name: HighlightedOutline
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  _outlineResources: {fileID: 11400000, guid: 231d88937a104094b8e4e0fdb8d2e77b, type: 2}
+  _outlineLayers: {fileID: 0}
+  _outlineSettings:
+    _outlineSettings: {fileID: 0}
+    _outlineColor: {r: 0.9528302, g: 0.6626884, b: 0.05842829, a: 0.3137255}
+    _outlineWidth: 2
+    _outlineIntensity: 2
+    _outlineAlphaCutoff: 0.9
+    _outlineMode: 0
+    _filterMode: 1
+    _layerMask:
+      serializedVersion: 2
+      m_Bits: 8192
+    _renderingLayerMask: 1
+  _renderPassEvent: 500
+  _shaderPassNames: []
+--- !u!114 &6637682115405940271
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e43b324988d8404d96409a253b2c441, type: 3}
+  m_Name: Translucent Renderer Feature
+  m_EditorClassIdentifier: TranslucentUIFX.Runtime::TranslucentUIFX.TranslucentRendererFeature
+  m_Active: 1
+  settings:
+    injectionPoint: 0
+    captureLayer: 0
+    backdropMipLevels: 4
+    blurPasses: 4
+    kernelSpread: 1
+    dither: 0.5
+    matchCameraFormat: 1
+    captureFormat: 48
+    updateMode: 0
+    updateIntervalFrames: 3

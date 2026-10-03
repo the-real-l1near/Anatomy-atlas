@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 423a14b7a496d4cb1bca5d807cfd237a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 371772
+  packageName: 'Translucent UI FX: Liquid Glass & Smart Fusion for URP'
+  packageVersion: 3.2.1
+  assetPath: Assets/Translucent UI FX/Demo/Materials/Fusion Warm.mat
+  uploadId: 1002296

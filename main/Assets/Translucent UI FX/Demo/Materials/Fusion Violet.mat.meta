@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2c51ba32a7b243b3ad2e15b5eb3df48
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 371772
+  packageName: 'Translucent UI FX: Liquid Glass & Smart Fusion for URP'
+  packageVersion: 3.2.1
+  assetPath: Assets/Translucent UI FX/Demo/Materials/Fusion Violet.mat
+  uploadId: 1002296

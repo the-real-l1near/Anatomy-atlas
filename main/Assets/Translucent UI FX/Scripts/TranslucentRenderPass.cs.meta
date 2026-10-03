@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c3435c9964c6c4ab98e3fe36d1d02994
+AssetOrigin:
+  serializedVersion: 1
+  productId: 371772
+  packageName: 'Translucent UI FX: Liquid Glass & Smart Fusion for URP'
+  packageVersion: 3.2.1
+  assetPath: Assets/Translucent UI FX/Scripts/TranslucentRenderPass.cs
+  uploadId: 1002296

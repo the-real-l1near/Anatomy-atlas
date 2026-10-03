@@ -1,0 +1,17 @@
+Translucent UI FX — Third-Party Notices
+
+Inter font
+Copyright (c) 2016-2020 The Inter Project Authors.
+"Inter" is a Reserved Font Name.
+Source: https://github.com/rsms/inter
+License: SIL Open Font License, Version 1.1.
+
+Files: Demo/Resources/Inter-Regular.otf and the generated demo font atlas
+Demo/Resources/Inter-Regular SDF.asset. The original font and generated atlas
+are used to display text in the included demos. The full copyright notice
+and license are included in Demo/Resources/Inter-LICENSE.txt.
+
+Unity dependencies
+Universal Render Pipeline, Unity UI/TextMesh Pro, and the demo's Input System
+are installed separately through Unity Package Manager. Their package source
+is not redistributed by this asset; their notices remain in those packages.

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ce4bb36231ad54cfd94940a124183737
+AssetOrigin:
+  serializedVersion: 1
+  productId: 371772
+  packageName: 'Translucent UI FX: Liquid Glass & Smart Fusion for URP'
+  packageVersion: 3.2.1
+  assetPath: Assets/Translucent UI FX/Scripts/GlassCameraOverride.cs
+  uploadId: 1002296

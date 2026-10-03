@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a499093c994454b51b9695559121fc02
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 371772
+  packageName: 'Translucent UI FX: Liquid Glass & Smart Fusion for URP'
+  packageVersion: 3.2.1
+  assetPath: Assets/Translucent UI FX/Demo/Materials/Fusion Cyan.mat
+  uploadId: 1002296

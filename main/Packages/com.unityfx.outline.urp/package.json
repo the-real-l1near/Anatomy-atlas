@@ -1,0 +1,33 @@
+{
+  "name": "com.unityfx.outline.urp",
+  "version": "0.5.0-local.2",
+  "displayName": "Outline toolkit (URP)",
+  "description": "UnityFx.Outline URP integration maintained locally for Z-Anatomy with Unity 6.3 / URP 17.3 RenderGraph support.",
+  "unity": "6000.3",
+  "dependencies": {
+    "com.unityfx.outline": "0.8.5",
+    "com.unity.render-pipelines.universal": "17.3.0"
+  },
+  "keywords": [
+    "UnityFx",
+    "UnityFx.Outline",
+    "UnityFx.Outline.URP",
+    "Outline",
+    "URP",
+    "RenderGraph"
+  ],
+  "category": "UnityFx",
+  "author": {
+    "name": "Arvtesh",
+    "email": "arvtesh@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Arvtesh/UnityFx.Outline",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arvtesh/UnityFx.Outline.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Arvtesh/UnityFx.Outline/issues"
+  }
+}

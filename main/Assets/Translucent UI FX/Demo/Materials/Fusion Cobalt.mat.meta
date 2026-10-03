@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c4c2c8bf709b47c68e137d8826dc3e3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 371772
+  packageName: 'Translucent UI FX: Liquid Glass & Smart Fusion for URP'
+  packageVersion: 3.2.1
+  assetPath: Assets/Translucent UI FX/Demo/Materials/Fusion Cobalt.mat
+  uploadId: 1002296

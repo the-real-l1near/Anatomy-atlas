@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 981a3d04dc9014aef88de3560cae4ceb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 371772
+  packageName: 'Translucent UI FX: Liquid Glass & Smart Fusion for URP'
+  packageVersion: 3.2.1
+  assetPath: Assets/Translucent UI FX/Resources/LiquidGlassBlurShader.mat
+  uploadId: 1002296

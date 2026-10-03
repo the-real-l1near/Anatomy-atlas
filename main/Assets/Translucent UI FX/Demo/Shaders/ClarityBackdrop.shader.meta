@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5a42d37c46d1443218be5f7c999ad343
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 371772
+  packageName: 'Translucent UI FX: Liquid Glass & Smart Fusion for URP'
+  packageVersion: 3.2.1
+  assetPath: Assets/Translucent UI FX/Demo/Shaders/ClarityBackdrop.shader
+  uploadId: 1002296

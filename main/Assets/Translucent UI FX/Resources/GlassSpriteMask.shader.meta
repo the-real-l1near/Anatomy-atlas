@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6a20cf9528464485fac31e61e20ec4c2
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 371772
+  packageName: 'Translucent UI FX: Liquid Glass & Smart Fusion for URP'
+  packageVersion: 3.2.1
+  assetPath: Assets/Translucent UI FX/Resources/GlassSpriteMask.shader
+  uploadId: 1002296

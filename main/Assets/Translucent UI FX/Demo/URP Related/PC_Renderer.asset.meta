@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4b6617d43f24450084b93715e9204a9c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 371772
+  packageName: 'Translucent UI FX: Liquid Glass & Smart Fusion for URP'
+  packageVersion: 3.2.1
+  assetPath: Assets/Translucent UI FX/Demo/URP Related/PC_Renderer.asset
+  uploadId: 1002296

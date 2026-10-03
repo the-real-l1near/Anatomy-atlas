@@ -1,0 +1,26 @@
+{
+  "name": "TranslucentUIFX.Tests.Editor",
+  "rootNamespace": "TranslucentUIFX.Tests.Editor",
+  "references": [
+    "TranslucentUIFX.Runtime",
+    "TranslucentUIFX.Editor",
+    "UnityEngine.UI",
+    "TranslucentUIFX.Demo",
+    "Unity.RenderPipelines.Universal.Runtime",
+    "Unity.RenderPipelines.Core.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
