@@ -133,12 +133,7 @@ public class CameraController : MonoBehaviour
         // MOVE
         if ((Mouse.current.middleButton.isPressed || ActionControl.draggingMoveIcon) && !lerping && !movementIsBlocked)//&& IsPointInCameraView())
         {
-            Vector3 A = cam.ScreenToWorldPoint(new Vector3(Mouse.current.position.ReadValue().x, Mouse.current.position.ReadValue().y, 0));
-            Vector3 B = cam.ScreenToWorldPoint(new Vector3(lastMousePosition.x, lastMousePosition.y, 0));
-            Vector3 mouseDirection = B - A;
-
-            cameraCenter.Translate(mouseDirection, Space.World);
-            trans.Translate(mouseDirection, Space.World);
+            ApplyPanBetweenScreenPositions(Mouse.current.position.ReadValue(), lastMousePosition);
         }
 
         lastMousePosition = Mouse.current.position.ReadValue();
@@ -146,33 +141,64 @@ public class CameraController : MonoBehaviour
         // ROTATE
         if ((Mouse.current.rightButton.isPressed || ActionControl.draggingGizmo || ActionControl.draggingRotateIcon) && !lerping)
         {
-            var mouseDelta = Mouse.current.delta;
-
-            x += mouseDelta.x.ReadValue() * xSpeed * rotationVelocity * 0.001f;
-
-            if (z != 0)
-            {
-                if (y == 90)
-                    x = -z;
-                else
-                    x = z;
-                z = 0;
-            }
-
-            y -= mouseDelta.y.ReadValue() * ySpeed * rotationVelocity * 0.001f;
-
-            if (ActionControl.limitRotation)
-                y = ClampAngle(y, yMinLimit, yMaxLimit);
-
-            if (mouseDelta.x.ReadValue() > 0 || mouseDelta.y.ReadValue() > 0)
-                GizmoBehaviour.instance.HasRotated();
-
-            var rotation = Quaternion.Euler(y, x, z);
-            var position = rotation * rotationOffset + pivot;
-
-            trans.rotation = rotation;
-            trans.position = position;
+            ApplyRotationDelta(Mouse.current.delta.ReadValue());
         }
+    }
+
+    public bool TryRotateByTouchDelta(Vector2 touchDelta)
+    {
+        if (ActionControl.blockedInput || lerping)
+            return false;
+
+        ApplyRotationDelta(touchDelta);
+        return true;
+    }
+
+    private void ApplyRotationDelta(Vector2 delta)
+    {
+        x += delta.x * xSpeed * rotationVelocity * 0.001f;
+
+        if (z != 0)
+        {
+            if (y == 90)
+                x = -z;
+            else
+                x = z;
+            z = 0;
+        }
+
+        y -= delta.y * ySpeed * rotationVelocity * 0.001f;
+
+        if (ActionControl.limitRotation)
+            y = ClampAngle(y, yMinLimit, yMaxLimit);
+
+        if (delta.x > 0 || delta.y > 0)
+            GizmoBehaviour.instance.HasRotated();
+
+        var rotation = Quaternion.Euler(y, x, z);
+        var position = rotation * rotationOffset + pivot;
+
+        trans.rotation = rotation;
+        trans.position = position;
+    }
+
+    public bool TryPanByTouchPositions(Vector2 previousPosition, Vector2 currentPosition)
+    {
+        if (ActionControl.blockedInput || lerping || movementIsBlocked)
+            return false;
+
+        ApplyPanBetweenScreenPositions(currentPosition, previousPosition);
+        return true;
+    }
+
+    private void ApplyPanBetweenScreenPositions(Vector2 currentPosition, Vector2 previousPosition)
+    {
+        Vector3 A = cam.ScreenToWorldPoint(new Vector3(currentPosition.x, currentPosition.y, 0));
+        Vector3 B = cam.ScreenToWorldPoint(new Vector3(previousPosition.x, previousPosition.y, 0));
+        Vector3 mouseDirection = B - A;
+
+        cameraCenter.Translate(mouseDirection, Space.World);
+        trans.Translate(mouseDirection, Space.World);
     }
 
     private float GetMouseScrollDelta()

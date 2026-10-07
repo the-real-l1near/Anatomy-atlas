@@ -59,15 +59,29 @@ public class BoxSelection : MonoBehaviour
             }
             return;
         }
-            
-        if(Mouse.current.leftButton.wasPressedThisFrame)
-        {
-            blocked = EventSystem.current.IsPointerOverGameObject();
-            initialPos = Mouse.current.position.ReadValue();
-        }
 
-        else if((Mouse.current.leftButton.isPressed) 
-            && Vector2.Distance(initialPos, Mouse.current.position.ReadValue()) > minDistanceToSelect && !blocked)
+        ProcessSelectionInput(
+            Mouse.current.leftButton.wasPressedThisFrame,
+            Mouse.current.leftButton.isPressed,
+            Mouse.current.leftButton.wasReleasedThisFrame,
+            Mouse.current.position.ReadValue(),
+            EventSystem.current.IsPointerOverGameObject());
+    }
+
+    public void ProcessTouchInput(bool wasPressed, bool isPressed, bool wasReleased, Vector2 position, bool pointerOverUI)
+    {
+        ProcessSelectionInput(wasPressed, isPressed, wasReleased, position, pointerOverUI);
+    }
+
+    private void ProcessSelectionInput(bool wasPressed, bool isPressed, bool wasReleased, Vector2 position, bool pointerOverUI)
+    {
+        if(wasPressed)
+        {
+            blocked = pointerOverUI;
+            initialPos = position;
+        }
+        else if(isPressed
+            && Vector2.Distance(initialPos, position) > minDistanceToSelect && !blocked)
         {
             if(imgObj == null)
             {
@@ -94,7 +108,7 @@ public class BoxSelection : MonoBehaviour
                     SelectedObjectsManagement.Instance.DeselectAllObjects();
             }
 
-            Vector2 mouseDirection = initialPos - Mouse.current.position.ReadValue();
+            Vector2 mouseDirection = initialPos - position;
             Vector2 newSize = mouseDirection / nonScaledCanvas.scaleFactor;
             newSize.x = Mathf.Abs(newSize.x);
             newSize.y = Mathf.Abs(newSize.y);
@@ -119,7 +133,7 @@ public class BoxSelection : MonoBehaviour
                 imgRect.pivot = new Vector2(1, 1);
 
 
-            boxCenter = cam.ScreenToWorldPoint(Mouse.current.position.ReadValue() + mouseDirection / 2);
+            boxCenter = cam.ScreenToWorldPoint(position + mouseDirection / 2);
             boxCenter = boxCenter + cam.transform.forward * cam.orthographicSize;
 
             boxSize = mouseDirection / nonScaledCanvas.scaleFactor * cam.aspect * cam.orthographicSize / 2100;
@@ -135,8 +149,8 @@ public class BoxSelection : MonoBehaviour
             line.endWidth = lineWidth * cam.orthographicSize;
 
         }
-        else if ((Mouse.current.leftButton.wasReleasedThisFrame) 
-            && Vector2.Distance(initialPos, Mouse.current.position.ReadValue()) > minDistanceToSelect)
+        else if (wasReleased
+            && Vector2.Distance(initialPos, position) > minDistanceToSelect)
         {
             if (SelectedObjectsManagement.Instance.selectedObjects.Count > 0 && !blocked)
             {
@@ -148,7 +162,7 @@ public class BoxSelection : MonoBehaviour
             if(!blocked)
                 TranslateObject.Instance.UpdateSelected();
             Lexicon.Instance.UpdateSelected();
-            blocked = !EventSystem.current.IsPointerOverGameObject();
+            blocked = !pointerOverUI;
             Clear();
         }
     }

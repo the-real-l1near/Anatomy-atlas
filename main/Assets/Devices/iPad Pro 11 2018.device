@@ -1,0 +1,14 @@
+{
+    "friendlyName": "iPad Pro 11-inch 2018",
+    "version": 1,
+    "screens": [
+        {
+            "width": 1668,
+            "height": 2388,
+            "dpi": 264.0
+        }
+    ],
+    "systemInfo": {
+        "operatingSystem": "iOS"
+    }
+}

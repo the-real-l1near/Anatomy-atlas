@@ -91,13 +91,28 @@ public class BrushSelection : MonoBehaviour
         }
 
 
-        if (Mouse.current.leftButton.wasPressedThisFrame)
+        ProcessSelectionInput(
+            Mouse.current.leftButton.wasPressedThisFrame,
+            Mouse.current.leftButton.isPressed,
+            Mouse.current.leftButton.wasReleasedThisFrame,
+            Mouse.current.position.ReadValue(),
+            EventSystem.current.IsPointerOverGameObject());
+    }
+
+    public void ProcessTouchInput(bool wasPressed, bool isPressed, bool wasReleased, Vector2 position, bool pointerOverUI)
+    {
+        ProcessSelectionInput(wasPressed, isPressed, wasReleased, position, pointerOverUI);
+    }
+
+    private void ProcessSelectionInput(bool wasPressed, bool isPressed, bool wasReleased, Vector2 position, bool pointerOverUI)
+    {
+        if (wasPressed)
         {
-            blocked = EventSystem.current.IsPointerOverGameObject();
+            blocked = pointerOverUI;
             selected = new List<GameObject>();
-            initialPos = Mouse.current.position.ReadValue();
+            initialPos = position;
         }
-        else if ((Mouse.current.leftButton.isPressed) && Vector2.Distance(initialPos, Mouse.current.position.ReadValue()) > minDistanceToSelect && !blocked)
+        else if (isPressed && Vector2.Distance(initialPos, position) > minDistanceToSelect && !blocked)
         {
             if(!imgObj.activeInHierarchy)
             {
@@ -106,14 +121,14 @@ public class BrushSelection : MonoBehaviour
                     SelectedObjectsManagement.Instance.DeselectAllObjects();
             }
 
-            var worldMousePos = cam.ScreenToWorldPoint(Mouse.current.position.ReadValue());
+            var worldMousePos = cam.ScreenToWorldPoint(position);
 
             brushCenter = worldMousePos;
 
             Vector3 A = worldMousePos - cam.transform.forward * 10f;
             Vector3 B = worldMousePos + cam.transform.forward * 10f;
 
-            imgRect.position = Mouse.current.position.ReadValue();
+            imgRect.position = position;
 
             direction = B - A;
 
@@ -139,9 +154,9 @@ public class BrushSelection : MonoBehaviour
 
             SetPoints(worldMousePos - cam.transform.forward * 20f);
         }
-        else if ((Mouse.current.leftButton.wasReleasedThisFrame) 
+        else if (wasReleased
             && imgObj.activeInHierarchy 
-            && Vector2.Distance(initialPos, Mouse.current.position.ReadValue()) > minDistanceToSelect)
+            && Vector2.Distance(initialPos, position) > minDistanceToSelect)
         {
             if(!blocked)
             {
@@ -155,7 +170,7 @@ public class BrushSelection : MonoBehaviour
                 Lexicon.Instance.UpdateSelected();
 
             }
-            blocked = !EventSystem.current.IsPointerOverGameObject();
+            blocked = !pointerOverUI;
         }
     }
 

@@ -5,7 +5,6 @@ using UnityEngine.UI;
 using TMPro;
 using System.Linq;
 
-
 public class ActionControl : MonoBehaviour
 {
     public static bool boxSelection = false;
@@ -28,64 +27,50 @@ public class ActionControl : MonoBehaviour
     public static bool draggingRotateIcon = false;
     public static bool blockedInput = false;
 
-
     private CameraController cam;
-
 
     public ExpandCollapseUI[] allExpandableTools;
     public NeumorphismUI.Neumorphism[] allNeumorpishmTools;
-
 
     public ToggleChangeColor boxSelectionButton;
     public ToggleChangeColor brushSelectionButton;
     public ToggleChangeColor lassoSelectionButton;
     public ToggleChangeColor scalpelButton;
 
-
     public BoxSelection boxSelectionScript;
-
 
     public BrushSelection brushSelectionScript;
     public static ActionControl Instance;
 
-
     public Button undoBtn;
     public Button redoBtn;
 
-
     public GameObject brushSelectionCanvas;
     public GameObject boxSelectionCanvas;
-
 
     public Image selectionOptionsImg;
     public Sprite boxSelectionSprite;
     public Sprite brushSelectionSprite;
     public Sprite lassoSelectionSprite;
 
-
     public RectTransform visibilityOptions;
-
 
     public Button upHierarchyBtn;
     public Button partialIsonationBtn;
     public Button[] buttonsEnabledOnObjectSelected;
-
 
     public GameObject ENOverlay;
     public GameObject ESOverlay;
     public GameObject FROverlay;
     public GameObject PTOverlay;
 
-
     public GameObject welcomeMessage;
     public Button enableTutorial;
-
 
     private void Awake()
     {
         Instance = this;
         creatingLocalNote = false;
-
 #if !UNITY_WEBGL
         if(!PlayerPrefs.HasKey("Welcome"))
         {
@@ -95,8 +80,8 @@ public class ActionControl : MonoBehaviour
         else
             enableTutorial.interactable = true;
 #endif
-    }
 
+    }
 
     private void Start()
     {
@@ -104,7 +89,6 @@ public class ActionControl : MonoBehaviour
         boxSelectionCanvas.SetActive(true);
         BoxSelectionClick();
     }
-
 
     public void ScalpelClick()
     {
@@ -115,10 +99,8 @@ public class ActionControl : MonoBehaviour
             BrushSelectionClick();
         else if (lassoSelection)
             LassoSelectionClick();
-
         scalpelButton.SetEnabledColor();
     }
-
 
     public void BrushSelectionUserClick()
     {
@@ -126,20 +108,17 @@ public class ActionControl : MonoBehaviour
         BrushSelectionClick();
     }
 
-
     public void BoxSelectionUserClick()
     {
         selectionGestureArmed = true;
         BoxSelectionClick();
     }
 
-
     public void LassoSelectionUserClick()
     {
         selectionGestureArmed = true;
         LassoSelectionClick();
     }
-
 
     public void BrushSelectionClick()
     {
@@ -160,7 +139,6 @@ public class ActionControl : MonoBehaviour
         }
     }
 
-
     public void BoxSelectionClick()
     {
         if(!boxSelection)
@@ -180,7 +158,6 @@ public class ActionControl : MonoBehaviour
         }
     }
 
-
     public void LassoSelectionClick()
     {
         if(!lassoSelection)
@@ -197,7 +174,6 @@ public class ActionControl : MonoBehaviour
         }
     }
 
-
     public void SelectAll()
     {
         SelectedObjectsManagement.Instance.RefreshActiveObjects();
@@ -207,13 +183,11 @@ public class ActionControl : MonoBehaviour
         AddCommand(new SelectCommand(SelectedObjectsManagement.Instance.selectedObjects), false);
     }
 
-
     public void DeleteSelection()
     {
         SelectedObjectsManagement.Instance.DeselectAllObjects();
         boxSelectionScript.ResetSelection();
     }
-
 
     public void DisableBrushSelection()
     {
@@ -222,18 +196,15 @@ public class ActionControl : MonoBehaviour
         brushSelectionScript.HideImage();
     }
 
-
     public void Isolate()
     {
         MeshManagement.Instance.IsolationClick();
     }
 
-
     public void PartiallyIsolate()
     {
         MeshManagement.Instance.PartialIsolationClick();
     }
-
 
     public void CollapseAll()
     {
@@ -241,13 +212,11 @@ public class ActionControl : MonoBehaviour
         {
             item.Collapse();
         }
-
         foreach (var item in allNeumorpishmTools)
         {
             item.Collapse();
         }
     }
-
 
     public void ResetAll()
     {
@@ -278,7 +247,6 @@ public class ActionControl : MonoBehaviour
         MeshManagement.Instance.HideAllLabels();
     }
 
-
     public void AddCommand(ICommand command, bool execute)
     {
         if(CommandController.IsLastDifferent(command) && !command.IsEmpty())
@@ -290,7 +258,6 @@ public class ActionControl : MonoBehaviour
         }
     }
 
-
     public void Undo()
     {
         CommandController.UndoCommand();
@@ -299,7 +266,6 @@ public class ActionControl : MonoBehaviour
         Lexicon.Instance.UpdateTreeViewCheckboxes();
 
     }
-
 
     public void Redo()
     {
@@ -310,12 +276,10 @@ public class ActionControl : MonoBehaviour
 
     }
 
-
     public void UpdateButtons()
     {
         //Optimize this (Check which tags are active)
         bool isParentDisabled = !GlobalVariables.Instance.globalParent.activeInHierarchy;
-
         if (isParentDisabled)
             GlobalVariables.Instance.globalParent.SetActive(true);
 
@@ -328,7 +292,6 @@ public class ActionControl : MonoBehaviour
         else
             upHierarchyBtn.interactable = !SelectedObjectsManagement.Instance.lastParentSelected.parent.CompareTag("GlobalParent");
 
-
         if (isParentDisabled)
             GlobalVariables.Instance.globalParent.SetActive(false);
 
@@ -340,11 +303,9 @@ public class ActionControl : MonoBehaviour
             PanelsManagement.instance.CollapseOptionsPanel();
     }
 
-
     public bool IsPartialIsolationEnabled()
     {
         List<string> selectedTags = new List<string>();
-
         foreach (var item in SelectedObjectsManagement.Instance.selectedObjects)
         {
             if (!selectedTags.Contains(item.tag))
@@ -352,10 +313,7 @@ public class ActionControl : MonoBehaviour
                 selectedTags.Add(item.tag);
             }
         }
-
-
         List<string> actualTags = new List<string>();
-
         foreach (var item in SelectedObjectsManagement.Instance.activeObjects)
         {
             if (!actualTags.Contains(item.tag))
@@ -363,11 +321,8 @@ public class ActionControl : MonoBehaviour
                 actualTags.Add(item.tag);
             }
         }
-
-
         return selectedTags.Count == 1 && actualTags.Count > 1 && SelectedObjectsManagement.Instance.selectedObjects.Count > 0;
     }
-
 
     public void AddLocalNoteClick()
     {
@@ -378,14 +333,12 @@ public class ActionControl : MonoBehaviour
             ContextualMenu.Instance.contextObject.ObjectClicked();*/
     }
 
-
     public void AddGlobalNoteClick()
     {
         creatingGlobalNote = true;
         CameraController.instance.raycaster.enabled = false;
 
     }
-
 
     public void DrawClick()
     {
@@ -400,24 +353,20 @@ public class ActionControl : MonoBehaviour
             BoxSelectionClick();
     }
 
-
     public void CloseApp()
     {
         Application.Quit();
     }
-
 
     public void MinimizeApp()
     {
         BorderlessWindow.MinimizeWindow();
     }
 
-
     public void SetMoveDragOn() => draggingMoveIcon = true;
     public void SetRotateDragOn() => draggingRotateIcon = true;
     public void SetMoveDragOff() => draggingMoveIcon = false;
     public void SetRotateDragOff() => draggingRotateIcon = false;
-
 
     public void OpenHelpOverlay()
     {
@@ -426,27 +375,22 @@ public class ActionControl : MonoBehaviour
             case SystemLanguage.English:
                 ENOverlay.SetActive(true);
                 break;
-
             case SystemLanguage.Spanish:
                 ESOverlay.SetActive(true);
                 break;
-
             case SystemLanguage.Portuguese:
                 PTOverlay.SetActive(true);
                 break;
-
             case SystemLanguage.French:
                 FROverlay.SetActive(true);
                 break;
-
             default:
                 ENOverlay.SetActive(true);
                 break;
         }
-
         blockedInput = true;
-    }
 
+    }
 
     public void CloseHelpOverlay()
     {
@@ -465,4 +409,5 @@ public class ActionControl : MonoBehaviour
         blockedInput = false;
         enableTutorial.interactable = true;
     }
+
 }
