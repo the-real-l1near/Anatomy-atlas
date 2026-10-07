@@ -36,6 +36,15 @@ public class RaycastObject : MonoBehaviour
     private int touchId = -1;
     private bool touchStartedOverUI;
     private bool touchSelectionOwned;
+    private bool touchCameraOwned;
+    private Vector2 lastTouchPosition;
+    private bool touchPanOwned;
+    private int touchPanTouchId1 = -1;
+    private int touchPanTouchId2 = -1;
+    private bool touchPanTouch1StartedOverUI;
+    private bool touchPanTouch2StartedOverUI;
+    private Vector2 lastTouchCentroid;
+    private bool ignoreTouchInteractionUntilAllReleased;
     private BoxSelection touchBoxSelection;
     private BrushSelection touchBrushSelection;
     private LassoSelection touchLassoSelection;
@@ -222,9 +231,29 @@ public class RaycastObject : MonoBehaviour
     private void HandleTouchTap()
     {
         if (Touchscreen.current == null)
+        {
+            if (touchPanOwned || ignoreTouchInteractionUntilAllReleased)
+            {
+                ClearTouchGestureState();
+                ignoreTouchInteractionUntilAllReleased = false;
+            }
             return;
+        }
 
-        TouchControl touch = Touchscreen.current.primaryTouch;
+        Touchscreen touchscreen = Touchscreen.current;
+        int activeTouchCount = GetActiveTouchCount(touchscreen);
+
+        if (ignoreTouchInteractionUntilAllReleased)
+        {
+            if (activeTouchCount == 0)
+            {
+                ClearTouchGestureState();
+                ignoreTouchInteractionUntilAllReleased = false;
+            }
+            return;
+        }
+
+        TouchControl touch = touchscreen.primaryTouch;
 
         if (touch.press.wasPressedThisFrame)
         {
@@ -234,19 +263,51 @@ public class RaycastObject : MonoBehaviour
             touchStartedOverUI = EventSystem.current != null &&
                                  EventSystem.current.IsPointerOverGameObject(touchId);
             touchSelectionOwned = false;
+            touchCameraOwned = false;
+            touchPanOwned = false;
+            touchPanTouchId1 = -1;
+            touchPanTouchId2 = -1;
+            touchPanTouch1StartedOverUI = false;
+            touchPanTouch2StartedOverUI = false;
+            lastTouchCentroid = Vector2.zero;
+            lastTouchPosition = firstTouchPos;
             touchBoxSelection = null;
             touchBrushSelection = null;
             touchLassoSelection = null;
+        }
+
+        if (touchPanOwned)
+        {
+            UpdateTouchPan(touchscreen, activeTouchCount);
+            return;
+        }
+
+        if (activeTouchCount >= 2)
+        {
+            if (touchSelectionOwned)
+            {
+                // A claimed selection gesture keeps ownership; extra touches are ignored.
+            }
+            else if (activeTouchCount == 2 && TryBeginTouchPan(touchscreen))
+            {
+                return;
+            }
+            else
+            {
+                IgnoreTouchInteractionUntilAllReleased(activeTouchCount);
+                return;
+            }
         }
 
         if (!touchStarted)
             return;
 
         Vector2 touchPosition = touch.position.ReadValue();
+        bool selectionToolAvailable = false;
 
-        if (!touchSelectionOwned &&
+        if (!touchSelectionOwned && !touchCameraOwned &&
             (touch.press.isPressed || touch.press.wasReleasedThisFrame) &&
-            TryStartTouchSelection(touchPosition))
+            TryStartTouchSelection(touchPosition, out selectionToolAvailable))
         {
             touchSelectionOwned = true;
             ProcessTouchSelection(true, false, false, firstTouchPos);
@@ -257,6 +318,22 @@ public class RaycastObject : MonoBehaviour
             ProcessTouchSelection(false, true, false, touchPosition);
         }
 
+        if (!touchSelectionOwned && !touchCameraOwned && !selectionToolAvailable && !touchStartedOverUI &&
+            (touch.press.isPressed || touch.press.wasReleasedThisFrame) &&
+            Vector2.Distance(firstTouchPos, touchPosition) >= 10f)
+        {
+            if (CameraController.instance != null &&
+                CameraController.instance.TryRotateByTouchDelta(touchPosition - lastTouchPosition))
+                touchCameraOwned = true;
+        }
+        else if (touchCameraOwned && (touch.press.isPressed || touch.press.wasReleasedThisFrame))
+        {
+            if (CameraController.instance != null)
+                CameraController.instance.TryRotateByTouchDelta(touchPosition - lastTouchPosition);
+        }
+
+        lastTouchPosition = touchPosition;
+
         if (!touch.press.wasReleasedThisFrame)
             return;
 
@@ -265,6 +342,12 @@ public class RaycastObject : MonoBehaviour
         if (touchSelectionOwned)
         {
             ProcessTouchSelection(false, false, true, touchPosition);
+            ClearTouchSelectionOwnership();
+            return;
+        }
+
+        if (touchCameraOwned)
+        {
             ClearTouchSelectionOwnership();
             return;
         }
@@ -289,8 +372,163 @@ public class RaycastObject : MonoBehaviour
         ClearTouchSelectionOwnership();
     }
 
-    private bool TryStartTouchSelection(Vector2 touchPosition)
+    private int GetActiveTouchCount(Touchscreen touchscreen)
     {
+        int activeTouchCount = 0;
+        for (int i = 0; i < touchscreen.touches.Count; i++)
+        {
+            if (touchscreen.touches[i].isInProgress)
+                activeTouchCount++;
+        }
+
+        return activeTouchCount;
+    }
+
+    private bool TryBeginTouchPan(Touchscreen touchscreen)
+    {
+        if (!touchStarted || touchSelectionOwned ||
+            !TryGetTwoActiveTouches(touchscreen, out TouchControl firstTouch, out TouchControl secondTouch))
+            return false;
+
+        int primaryTouchId = touchId;
+        int firstTouchId = firstTouch.touchId.ReadValue();
+        int secondTouchId = secondTouch.touchId.ReadValue();
+
+        TouchControl trackedTouch;
+        TouchControl newTouch;
+        if (firstTouchId == primaryTouchId)
+        {
+            trackedTouch = firstTouch;
+            newTouch = secondTouch;
+        }
+        else if (secondTouchId == primaryTouchId)
+        {
+            trackedTouch = secondTouch;
+            newTouch = firstTouch;
+        }
+        else
+        {
+            return false;
+        }
+
+        if (newTouch.phase.ReadValue() != UnityEngine.InputSystem.TouchPhase.Began && !newTouch.press.wasPressedThisFrame)
+            return false;
+
+        int newTouchId = newTouch.touchId.ReadValue();
+        bool newTouchStartedOverUI = EventSystem.current != null &&
+                                     EventSystem.current.IsPointerOverGameObject(newTouchId);
+
+        touchPanTouchId1 = trackedTouch.touchId.ReadValue();
+        touchPanTouchId2 = newTouchId;
+        touchPanTouch1StartedOverUI = touchStartedOverUI;
+        touchPanTouch2StartedOverUI = newTouchStartedOverUI;
+
+        if (touchPanTouch1StartedOverUI || touchPanTouch2StartedOverUI)
+        {
+            ClearTouchPanState();
+            return false;
+        }
+
+        Vector2 firstPosition = trackedTouch.position.ReadValue();
+        Vector2 secondPosition = newTouch.position.ReadValue();
+        lastTouchCentroid = (firstPosition + secondPosition) * 0.5f;
+
+        touchPanOwned = true;
+        touchCameraOwned = false;
+        touchStarted = false;
+        touchSelectionOwned = false;
+        touchId = -1;
+        ClearTouchSelectionTool();
+        return true;
+    }
+
+    private bool TryGetTwoActiveTouches(Touchscreen touchscreen, out TouchControl firstTouch, out TouchControl secondTouch)
+    {
+        firstTouch = null;
+        secondTouch = null;
+        int activeTouchCount = 0;
+
+        for (int i = 0; i < touchscreen.touches.Count; i++)
+        {
+            TouchControl touch = touchscreen.touches[i];
+            if (!touch.isInProgress)
+                continue;
+
+            activeTouchCount++;
+            if (activeTouchCount == 1)
+                firstTouch = touch;
+            else if (activeTouchCount == 2)
+                secondTouch = touch;
+        }
+
+        return activeTouchCount == 2;
+    }
+
+    private void UpdateTouchPan(Touchscreen touchscreen, int activeTouchCount)
+    {
+        if (activeTouchCount != 2 ||
+            !TryGetActiveTouchById(touchscreen, touchPanTouchId1, out TouchControl firstTouch) ||
+            !TryGetActiveTouchById(touchscreen, touchPanTouchId2, out TouchControl secondTouch))
+        {
+            IgnoreTouchInteractionUntilAllReleased(activeTouchCount);
+            return;
+        }
+
+        Vector2 currentCentroid = (firstTouch.position.ReadValue() + secondTouch.position.ReadValue()) * 0.5f;
+        if (CameraController.instance != null)
+            CameraController.instance.TryPanByTouchPositions(lastTouchCentroid, currentCentroid);
+        lastTouchCentroid = currentCentroid;
+    }
+
+    private bool TryGetActiveTouchById(Touchscreen touchscreen, int requestedTouchId, out TouchControl result)
+    {
+        for (int i = 0; i < touchscreen.touches.Count; i++)
+        {
+            TouchControl touch = touchscreen.touches[i];
+            if (touch.isInProgress && touch.touchId.ReadValue() == requestedTouchId)
+            {
+                result = touch;
+                return true;
+            }
+        }
+
+        result = null;
+        return false;
+    }
+
+    private void IgnoreTouchInteractionUntilAllReleased(int activeTouchCount)
+    {
+        ClearTouchGestureState();
+        ignoreTouchInteractionUntilAllReleased = activeTouchCount > 0;
+    }
+
+    private void ClearTouchGestureState()
+    {
+        touchStarted = false;
+        firstTouchPos = Vector2.zero;
+        touchId = -1;
+        touchStartedOverUI = false;
+        touchSelectionOwned = false;
+        touchCameraOwned = false;
+        ClearTouchPanState();
+        lastTouchPosition = Vector2.zero;
+        ClearTouchSelectionTool();
+    }
+
+    private void ClearTouchPanState()
+    {
+        touchPanOwned = false;
+        touchPanTouchId1 = -1;
+        touchPanTouchId2 = -1;
+        touchPanTouch1StartedOverUI = false;
+        touchPanTouch2StartedOverUI = false;
+        lastTouchCentroid = Vector2.zero;
+    }
+
+    private bool TryStartTouchSelection(Vector2 touchPosition, out bool selectionToolAvailable)
+    {
+        selectionToolAvailable = false;
+
         if (!ActionControl.selectionGestureArmed || touchStartedOverUI || ActionControl.crossSectionsEnabled)
             return false;
 
@@ -328,6 +566,7 @@ public class RaycastObject : MonoBehaviour
             return false;
         }
 
+        selectionToolAvailable = true;
         return Vector2.Distance(firstTouchPos, touchPosition) > dragThreshold;
     }
 
@@ -348,8 +587,13 @@ public class RaycastObject : MonoBehaviour
     private void ClearTouchSelectionOwnership()
     {
         touchSelectionOwned = false;
+        touchCameraOwned = false;
+        touchStarted = false;
+        touchStartedOverUI = false;
         ClearTouchSelectionTool();
         touchId = -1;
+        lastTouchPosition = Vector2.zero;
+        ClearTouchPanState();
     }
 
     private void ClearTouchSelectionTool()
