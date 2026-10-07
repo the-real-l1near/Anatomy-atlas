@@ -34,6 +34,11 @@ public class RaycastObject : MonoBehaviour
     private bool touchStarted;
     private Vector2 firstTouchPos;
     private int touchId = -1;
+    private bool touchStartedOverUI;
+    private bool touchSelectionOwned;
+    private BoxSelection touchBoxSelection;
+    private BrushSelection touchBrushSelection;
+    private LassoSelection touchLassoSelection;
 
     private int layer_mask1;
     private int layer_mask2;
@@ -226,18 +231,47 @@ public class RaycastObject : MonoBehaviour
             touchStarted = true;
             firstTouchPos = touch.position.ReadValue();
             touchId = touch.touchId.ReadValue();
+            touchStartedOverUI = EventSystem.current != null &&
+                                 EventSystem.current.IsPointerOverGameObject(touchId);
+            touchSelectionOwned = false;
+            touchBoxSelection = null;
+            touchBrushSelection = null;
+            touchLassoSelection = null;
         }
 
-        if (!touchStarted || !touch.press.wasReleasedThisFrame)
+        if (!touchStarted)
             return;
 
         Vector2 touchPosition = touch.position.ReadValue();
 
+        if (!touchSelectionOwned &&
+            (touch.press.isPressed || touch.press.wasReleasedThisFrame) &&
+            TryStartTouchSelection(touchPosition))
+        {
+            touchSelectionOwned = true;
+            ProcessTouchSelection(true, false, false, firstTouchPos);
+            ProcessTouchSelection(false, true, false, touchPosition);
+        }
+        else if (touchSelectionOwned && touch.press.isPressed)
+        {
+            ProcessTouchSelection(false, true, false, touchPosition);
+        }
+
+        if (!touch.press.wasReleasedThisFrame)
+            return;
+
         touchStarted = false;
+
+        if (touchSelectionOwned)
+        {
+            ProcessTouchSelection(false, false, true, touchPosition);
+            ClearTouchSelectionOwnership();
+            return;
+        }
 
         if (Vector2.Distance(firstTouchPos, touchPosition) >= 10f)
         {
-            touchId = -1;
+            ClearTouchSelectionOwnership();
             return;
         }
 
@@ -246,13 +280,83 @@ public class RaycastObject : MonoBehaviour
 
         if (pointerOverUI)
         {
-            touchId = -1;
+            ClearTouchSelectionOwnership();
             return;
         }
 
         SelectAtPosition(touchPosition);
 
+        ClearTouchSelectionOwnership();
+    }
+
+    private bool TryStartTouchSelection(Vector2 touchPosition)
+    {
+        if (!ActionControl.selectionGestureArmed || touchStartedOverUI || ActionControl.crossSectionsEnabled)
+            return false;
+
+        float dragThreshold;
+        int activeToolCount = 0;
+
+        if (ActionControl.boxSelection)
+        {
+            activeToolCount++;
+            touchBoxSelection = ActionControl.Instance.boxSelectionScript;
+            dragThreshold = touchBoxSelection != null ? touchBoxSelection.minDistanceToSelect : float.NaN;
+        }
+        else
+        {
+            dragThreshold = float.NaN;
+        }
+
+        if (ActionControl.brushSelection)
+        {
+            activeToolCount++;
+            touchBrushSelection = BrushSelection.instance;
+            dragThreshold = touchBrushSelection != null ? touchBrushSelection.minDistanceToSelect : float.NaN;
+        }
+
+        if (ActionControl.lassoSelection)
+        {
+            activeToolCount++;
+            touchLassoSelection = LassoSelection.instance;
+            dragThreshold = touchLassoSelection != null ? 0f : float.NaN;
+        }
+
+        if (activeToolCount != 1 || float.IsNaN(dragThreshold))
+        {
+            ClearTouchSelectionTool();
+            return false;
+        }
+
+        return Vector2.Distance(firstTouchPos, touchPosition) > dragThreshold;
+    }
+
+    private void ProcessTouchSelection(bool wasPressed, bool isPressed, bool wasReleased, Vector2 position)
+    {
+        bool pointerOverUI = wasPressed
+            ? touchStartedOverUI
+            : EventSystem.current != null && EventSystem.current.IsPointerOverGameObject(touchId);
+
+        if (touchBoxSelection != null)
+            touchBoxSelection.ProcessTouchInput(wasPressed, isPressed, wasReleased, position, pointerOverUI);
+        else if (touchBrushSelection != null)
+            touchBrushSelection.ProcessTouchInput(wasPressed, isPressed, wasReleased, position, pointerOverUI);
+        else if (touchLassoSelection != null)
+            touchLassoSelection.ProcessTouchInput(wasPressed, isPressed, wasReleased, position, pointerOverUI);
+    }
+
+    private void ClearTouchSelectionOwnership()
+    {
+        touchSelectionOwned = false;
+        ClearTouchSelectionTool();
         touchId = -1;
+    }
+
+    private void ClearTouchSelectionTool()
+    {
+        touchBoxSelection = null;
+        touchBrushSelection = null;
+        touchLassoSelection = null;
     }
 
     private void SelectAtPosition(Vector2 screenPosition)

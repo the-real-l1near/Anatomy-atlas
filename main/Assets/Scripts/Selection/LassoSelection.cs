@@ -42,11 +42,26 @@ public class LassoSelection : MonoBehaviour
             return;
  
 
-        Vector3 mousePos = _cam.ScreenToWorldPoint(Mouse.current.position.ReadValue());
+        ProcessSelectionInput(
+            Mouse.current.leftButton.wasPressedThisFrame,
+            Mouse.current.leftButton.isPressed,
+            Mouse.current.leftButton.wasReleasedThisFrame,
+            Mouse.current.position.ReadValue(),
+            EventSystem.current.IsPointerOverGameObject());
+    }
 
-        if (Mouse.current.leftButton.wasPressedThisFrame)
+    public void ProcessTouchInput(bool wasPressed, bool isPressed, bool wasReleased, Vector2 position, bool pointerOverUI)
+    {
+        ProcessSelectionInput(wasPressed, isPressed, wasReleased, position, pointerOverUI);
+    }
+
+    private void ProcessSelectionInput(bool wasPressed, bool isPressed, bool wasReleased, Vector2 position, bool pointerOverUI)
+    {
+        Vector3 mousePos = _cam.ScreenToWorldPoint(position);
+
+        if (wasPressed)
         {
-            blocked = EventSystem.current.IsPointerOverGameObject();
+            blocked = pointerOverUI;
 
             _currentLine = Instantiate(_linePrefab, mousePos, Quaternion.identity);
             _currentLine.lineRenderer.enabled = true;
@@ -54,7 +69,7 @@ public class LassoSelection : MonoBehaviour
             firstFrame = true;
         }
 
-        else if (Mouse.current.leftButton.isPressed && !blocked)
+        else if (isPressed && !blocked)
         {
             if(firstFrame)
             {
@@ -65,7 +80,7 @@ public class LassoSelection : MonoBehaviour
             _currentLine.AddPoint(mousePos - _cam.transform.forward * 20f);
         }
 
-        else if (Mouse.current.leftButton.wasReleasedThisFrame && _currentLine != null)
+        else if (wasReleased && _currentLine != null)
         {
             if(!blocked)
             {
@@ -100,7 +115,7 @@ public class LassoSelection : MonoBehaviour
                 StartCoroutine(SelectObjects());
             }
             firstFrame = false;
-            blocked = !EventSystem.current.IsPointerOverGameObject();
+            blocked = !pointerOverUI;
         }
     }
 
