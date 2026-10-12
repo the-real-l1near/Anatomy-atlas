@@ -23,7 +23,11 @@ public class LexiconItemCheckbox: MonoBehaviour, IPointerEnterHandler, IPointerD
 
     private void Update()
     {
-        if (Mouse.current.leftButton.wasReleasedThisFrame)
+        bool mouseReleased = Mouse.current != null && Mouse.current.leftButton.wasReleasedThisFrame;
+        bool touchReleased = Touchscreen.current != null &&
+                             Touchscreen.current.primaryTouch.press.wasReleasedThisFrame;
+
+        if (mouseReleased || touchReleased)
         {
             dragSelecting = false;
             dragDeselecting = false;

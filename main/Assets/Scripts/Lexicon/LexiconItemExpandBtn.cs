@@ -18,7 +18,11 @@ public class LexiconItemExpandBtn : MonoBehaviour, IPointerEnterHandler, IPointe
 
     private void Update()
     {
-        if(Mouse.current.leftButton.wasReleasedThisFrame)
+        bool mouseReleased = Mouse.current != null && Mouse.current.leftButton.wasReleasedThisFrame;
+        bool touchReleased = Touchscreen.current != null &&
+                             Touchscreen.current.primaryTouch.press.wasReleasedThisFrame;
+
+        if (mouseReleased || touchReleased)
         {
             dragOpening = false;
             dragClosing = false;

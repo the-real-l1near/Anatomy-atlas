@@ -103,18 +103,19 @@ public class CameraController : MonoBehaviour
 
     private void Update()
     {
-        if (ActionControl.blockedInput)
+        Mouse mouse = Mouse.current;
+        if (ActionControl.blockedInput || mouse == null)
             return;
 
         // ZOOM
         float scrollDelta = GetMouseScrollDelta();
-        if (scrollDelta != 0 && !eventSys.IsPointerOverGameObject() && ActionControl.canZoom)
+        if (scrollDelta != 0 && (eventSys == null || !eventSys.IsPointerOverGameObject()) && ActionControl.canZoom)
         {
             distance -= scrollDelta * cam.orthographicSize * zoomVelocity * 0.001f;
 
             if (ActionControl.zoomToMouse)
             {
-                Vector3 desiredPosition = cam.ScreenToWorldPoint(Mouse.current.position.ReadValue());
+                Vector3 desiredPosition = cam.ScreenToWorldPoint(mouse.position.ReadValue());
 
                 float dist = Vector3.Distance(desiredPosition, trans.position);
                 Vector3 direction = Vector3.Normalize(desiredPosition - trans.position) * (dist * scrollDelta * zoomVelocity * 0.001f);
@@ -131,17 +132,17 @@ public class CameraController : MonoBehaviour
         }
 
         // MOVE
-        if ((Mouse.current.middleButton.isPressed || ActionControl.draggingMoveIcon) && !lerping && !movementIsBlocked)//&& IsPointInCameraView())
+        if ((mouse.middleButton.isPressed || ActionControl.draggingMoveIcon) && !lerping && !movementIsBlocked)//&& IsPointInCameraView())
         {
-            ApplyPanBetweenScreenPositions(Mouse.current.position.ReadValue(), lastMousePosition);
+            ApplyPanBetweenScreenPositions(mouse.position.ReadValue(), lastMousePosition);
         }
 
-        lastMousePosition = Mouse.current.position.ReadValue();
+        lastMousePosition = mouse.position.ReadValue();
 
         // ROTATE
-        if ((Mouse.current.rightButton.isPressed || ActionControl.draggingGizmo || ActionControl.draggingRotateIcon) && !lerping)
+        if ((mouse.rightButton.isPressed || ActionControl.draggingGizmo || ActionControl.draggingRotateIcon) && !lerping)
         {
-            ApplyRotationDelta(Mouse.current.delta.ReadValue());
+            ApplyRotationDelta(mouse.delta.ReadValue());
         }
     }
 
@@ -188,6 +189,16 @@ public class CameraController : MonoBehaviour
             return false;
 
         ApplyPanBetweenScreenPositions(currentPosition, previousPosition);
+        return true;
+    }
+
+    public bool TryZoomByTouchDistance(float previousDistance, float currentDistance)
+    {
+        if (ActionControl.blockedInput || lerping || !ActionControl.canZoom ||
+            previousDistance <= 0f || currentDistance <= 0f)
+            return false;
+
+        distance = Mathf.Clamp(distance * previousDistance / currentDistance, MIN_DISTANCE, MAX_DISTANCE);
         return true;
     }
 

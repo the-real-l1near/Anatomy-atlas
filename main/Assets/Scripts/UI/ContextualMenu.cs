@@ -50,7 +50,9 @@ public class ContextualMenu : MonoBehaviour
 
     private void Update()
     {
-        if (Mouse.current.leftButton.wasReleasedThisFrame)
+        bool touchReleasedThisFrame = Touchscreen.current != null &&
+                                      Touchscreen.current.primaryTouch.press.wasReleasedThisFrame;
+        if (!touchReleasedThisFrame && Mouse.current != null && Mouse.current.leftButton.wasReleasedThisFrame)
             Close();
     }
 
@@ -412,13 +414,20 @@ public class ContextualMenu : MonoBehaviour
 
     public void Show()
     {
+        if (Mouse.current == null)
+            return;
+
+        ShowAtScreenPosition(Mouse.current.position.ReadValue());
+    }
+
+    public void ShowAtScreenPosition(Vector2 screenPosition)
+    {
         if((contextObject != null && (contextObject.IsBodyPart() || contextObject.IsGroup())) || SelectedObjectsManagement.Instance.selectedObjects.Count != 0)
         {
-            Vector2 mousePos = Mouse.current.position.ReadValue();
             gameObject.SetActive(true);
             transform.position = new Vector2(
-                Mathf.Clamp(mousePos.x + rt.GetWidth() / 2, rt.GetWidth() * 0.75f, Screen.width - rt.GetWidth() * 0.75f), 
-                Mathf.Clamp(mousePos.y - rt.GetHeight() / 2, rt.GetHeight() * 0.75f, Screen.height - rt.GetHeight() * 0.75f)
+                Mathf.Clamp(screenPosition.x + rt.GetWidth() / 2, rt.GetWidth() * 0.75f, Screen.width - rt.GetWidth() * 0.75f),
+                Mathf.Clamp(screenPosition.y - rt.GetHeight() / 2, rt.GetHeight() * 0.75f, Screen.height - rt.GetHeight() * 0.75f)
                 );
             bonusCollectionPanel.position = new Vector2(
                 bonusCollectionPanel.position.x,
@@ -428,6 +437,16 @@ public class ContextualMenu : MonoBehaviour
             Lexicon.Instance.UpdateTreeViewCheckboxes();
             UpdateEnabledButtons();
         }
+    }
+
+    public bool ContainsScreenPoint(Vector2 screenPosition)
+    {
+        Canvas canvas = GetComponentInParent<Canvas>();
+        Camera eventCamera = canvas != null && canvas.renderMode != RenderMode.ScreenSpaceOverlay
+            ? canvas.worldCamera
+            : null;
+
+        return RectTransformUtility.RectangleContainsScreenPoint(rt, screenPosition, eventCamera);
     }
 
     public void Close()
