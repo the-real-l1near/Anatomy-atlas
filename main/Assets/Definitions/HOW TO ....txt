@@ -105,6 +105,46 @@
  
  
 PRESS 'CheatSheet' in the Header for the .png version.
+;;;VI;;;
+
+PHÍM TẮT ĐIỀU KHIỂN
+
+Z = Bật/tắt màu
+ALT + Z = Tia X
+ALT + B = Hộp cắt
+SHIFT + ALT + Z = Màu khóa
+N = Mở menu tiện ích Z-Anatomy
+SHIFT + % = Bật/tắt nhãn nhóm
+Q > Set = Đặt lại góc nhìn
+
+MMB = Xoay mô hình; hoặc dùng phím số 4 / 6 / 2 / 8
+SHIFT + MMB = Di chuyển khung nhìn; hoặc SHIFT + phím số 4 / 6 / 2 / 8
+Phím số 1 = Nhìn từ trước; CTRL + 1 = Nhìn từ sau
+Phím số 3 = Nhìn từ trái; CTRL + 3 = Nhìn từ phải
+Phím số 7 = Nhìn từ trên; CTRL + 7 = Nhìn từ dưới
+Phím số 9 = Đảo hướng nhìn
+Phím số . = Đưa vùng chọn vào khung hình
+HOME = Hiện toàn bộ mô hình
+CTRL + SPACEBAR = Phóng to cửa sổ
+
+1 / 2 / 3 / ... = Đổi lớp
+SHIFT + 1 / 2 / 3 / ... = Kết hợp các lớp
+A = Chọn tất cả
+A hai lần hoặc ALT + A = Bỏ chọn tất cả
+LMB = Chọn; SHIFT + LMB = Chọn nhiều đối tượng
+LMB (nhấn và kéo) = Chọn theo khung
+C = Chọn bằng cọ; + MMB = Đổi bán kính cọ
+RMB khi có vùng chọn = Mở bộ sưu tập
+H = Ẩn; SHIFT + H = Cô lập vùng chọn
+CTRL + SHIFT + H = Cô lập trên lớp
+CTRL + SHIFT + ALT + H = Hiện lại trên lớp
+ALT + H = Hiện tất cả
+% = Đổi ngôn ngữ
+G = Di chuyển; ALT + G = Đặt lại vị trí
+R = Xoay; ALT + R = Đặt lại góc xoay
+S = Thay đổi tỷ lệ; ALT + S = Đặt lại tỷ lệ
+Chọn “CheatSheet” trên thanh tiêu đề để xem bản PNG.
+
 ;;;ES;;;
 
  

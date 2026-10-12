@@ -6,6 +6,12 @@ COMPlEX JOINT
 Compound joint: three or more articulation surfaces (e.g. radiocarpal joint)
 
 Complex joint: two or more articulation surfaces and an articular disc or meniscus (e.g. knee joint)
+;;;VI;;;
+
+KHỚP PHỨC TẠP
+
+Khớp phức tạp có hơn hai xương tham gia hoặc có đĩa, sụn chêm chia khoang khớp. Các cấu trúc này cải thiện sự phù hợp giữa diện khớp và phân tán lực.
+
 ;;;ES;;;
 
 

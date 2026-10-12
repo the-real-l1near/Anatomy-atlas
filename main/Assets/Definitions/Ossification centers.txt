@@ -11,6 +11,10 @@ An ossification center is the place where the ossification begins in the cartila
     
     
 Feneis 14.20/21/22
+;;;VI;;;
+
+Các trung tâm cốt hóa là những vùng xuất hiện xương đầu tiên trong quá trình phát triển bộ xương.
+
 ;;;ES;;;
 
 

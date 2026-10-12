@@ -54,6 +54,10 @@ This entry point is also used to surgically place local electrodes directly on t
 
 
 https://en.wikipedia.org/wiki/Foramen_ovale_(skull)
+;;;VI;;;
+
+Lỗ bầu dục ở cánh lớn xương bướm cho thần kinh hàm dưới cùng các mạch nhỏ đi qua nền sọ.
+
 ;;;ES;;;
 
 

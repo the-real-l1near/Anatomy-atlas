@@ -14,6 +14,12 @@ This is the Vieussens valve of the coronary sinus.It receives tributaries from t
 
 
 https://en.wikipedia.org/wiki/Great_cardiac_vein
+;;;VI;;;
+
+TĨNH MẠCH TIM LỚN
+
+Tĩnh mạch tim lớn đi trong rãnh liên thất trước rồi theo rãnh vành về xoang vành. Mạch dẫn máu từ phần trước tim và thất trái.
+
 ;;;ES;;;
 
 

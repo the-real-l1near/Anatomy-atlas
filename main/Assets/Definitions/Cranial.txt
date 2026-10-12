@@ -8,6 +8,10 @@ Belonging to the head; in the direction of the head.
 
 
 Feneis 4.20
+;;;VI;;;
+
+Thuộc sọ là thuật ngữ chỉ các cấu trúc nằm về phía đầu hoặc liên quan với hộp sọ.
+
 ;;;ES;;;
 
 

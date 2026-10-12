@@ -89,6 +89,16 @@ public class ReadLocalDefinitions : MonoBehaviour
                 else
                     translated = description.Substring(startIndex + 9, description.Length - startIndex - 9);
             }
+            //VIETNAMESE
+            else if (language == SystemLanguage.Vietnamese)
+            {
+                int startIndex = description.IndexOf(";;;VI;;;");
+                int endIndex = startIndex < 0 ? -1 : description.IndexOf(";;;", startIndex + 8);
+                if (startIndex >= 0)
+                    translated = endIndex >= 0
+                        ? description.Substring(startIndex + 8, endIndex - startIndex - 8)
+                        : description.Substring(startIndex + 8);
+            }
             //ENGLISH
             else
             {
@@ -98,7 +108,12 @@ public class ReadLocalDefinitions : MonoBehaviour
                 if (startIndex != -1 && endIndex != -1)
                     translated = description.Substring(startIndex, length);
             }
-            return translated.Trim().Replace("   ", "\n\n").Replace("  ", "\n"); ;
+            if (string.IsNullOrWhiteSpace(translated))
+            {
+                int endIndex = description.IndexOf(";;;");
+                translated = endIndex >= 0 ? description.Substring(0, endIndex) : description;
+            }
+            return translated.Trim().Replace("   ", "\n\n").Replace("  ", "\n");
         }
         catch
         {

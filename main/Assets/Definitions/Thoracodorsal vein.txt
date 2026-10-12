@@ -4,6 +4,10 @@ THORACODORSAL VEIN
 
 
 It follows the thoraco-dorsal artery.
+;;;VI;;;
+
+Tĩnh mạch ngực-lưng đi kèm động mạch cùng tên và dẫn máu từ vùng cơ lưng rộng về hệ tĩnh mạch nách.
+
 ;;;ES;;;
 
 

@@ -13,6 +13,12 @@ CRANIAL PART OF MUSCULAR SYSTEM
     -Muscles of soft palate
 -Fasciae of head
 -Bursae of head
+;;;VI;;;
+
+PHẦN CƠ ĐẦU
+
+Các cơ đầu gồm cơ biểu cảm mặt, cơ nhai và các cơ vận động mắt, lưỡi, khẩu cái. Chúng tạo biểu cảm, nhai, nuốt, phát âm và vận động các cơ quan cảm giác.
+
 ;;;ES;;;
 
 

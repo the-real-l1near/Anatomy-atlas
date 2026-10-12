@@ -26,6 +26,10 @@ Press 'Numpad .'
 
 Press 'HOME'
     to frame all the visible objects   
+;;;VI;;;
+
+Điều hướng giúp di chuyển góc nhìn trong mô hình giải phẫu.
+
 ;;;ES;;;
 
 

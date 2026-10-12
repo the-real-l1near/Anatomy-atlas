@@ -11,6 +11,10 @@ PERITONEAL STRUCTURES
     -Posterior parietal peritoneal structures
     -Anterior parietal peritoneal structures
     -Pelvic peritoneal structures
+;;;VI;;;
+
+Các cấu trúc phúc mạc gồm mạc treo, mạc nối, dây chằng và các ngách do phúc mạc tạo thành.
+
 ;;;ES;;;
 
 

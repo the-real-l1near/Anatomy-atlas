@@ -4,6 +4,10 @@ BASE OF PHALANX OF FOOT
 
 
 In the foot, the base is concave.
+;;;VI;;;
+
+Nền đốt ngón chân là đầu gần của đốt, tiếp khớp với chỏm đốt trước hoặc chỏm xương bàn chân.
+
 ;;;ES;;;
 
 

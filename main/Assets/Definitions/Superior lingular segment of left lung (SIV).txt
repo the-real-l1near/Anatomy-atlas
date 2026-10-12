@@ -4,6 +4,10 @@ SUPERIOR LINGUAL SEGMENT OF LEFT LUNG (SIV)
 
 
 Above the inferior lingular segment of left lung (SV).
+;;;VI;;;
+
+Phân thùy lưỡi trên (S IV) thuộc thùy trên phổi trái, nằm ở phần trên của lưỡi phổi.
+
 ;;;ES;;;
 
 

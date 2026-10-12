@@ -23,6 +23,10 @@ It is responsible for the autonomic functions of the oculomotor nerve, including
 
 
 https://en.wikipedia.org/wiki/Oculomotor_nucleus
+;;;VI;;;
+
+Nhân phụ thần kinh vận nhãn, hay nhân Edinger-Westphal, chứa neuron phó giao cảm điều khiển co đồng tử và điều tiết.
+
 ;;;ES;;;
 
 

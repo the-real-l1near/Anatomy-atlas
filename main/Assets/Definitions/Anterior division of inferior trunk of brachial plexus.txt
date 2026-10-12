@@ -4,6 +4,10 @@ ANTERIOR DIVISION OF INFERIOR TRUNK OF BRACHIAL PLEXUS
 
 
 The anterior divisions of the superior, middle and inferior trunks of brachial plexus innervate the flexor muscles.
+;;;VI;;;
+
+Ngành trước thân dưới đám rối cánh tay góp phần tạo bó trong, từ đó hình thành nhiều nhánh chi phối cẳng tay và bàn tay.
+
 ;;;ES;;;
 
 

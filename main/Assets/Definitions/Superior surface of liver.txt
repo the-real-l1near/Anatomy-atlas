@@ -4,6 +4,10 @@ SUPERIOR SURFACE OF LIVER
 
 
 Part of the diaphragmatic surface of liver directed cranially.
+;;;VI;;;
+
+Mặt trên gan lồi, áp sát cơ hoành và được phúc mạc phủ phần lớn.
+
 ;;;ES;;;
 
 

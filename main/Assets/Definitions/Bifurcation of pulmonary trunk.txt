@@ -4,6 +4,10 @@ BIFURCATION OF PULMONARY TRUNK
 
 
 The site of the division of the pulmonary trunk into right and left pulmonary arteries.
+;;;VI;;;
+
+Chỗ chia thân động mạch phổi là nơi thân động mạch phổi tách thành động mạch phổi phải và trái.
+
 ;;;ES;;;
 
 

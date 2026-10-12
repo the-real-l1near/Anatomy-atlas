@@ -50,6 +50,10 @@ This is a diagnostic trait that can be used to distinguish primates, including a
 
 
 https://en.wikipedia.org/wiki/Tympanic_part_of_the_temporal_bone
+;;;VI;;;
+
+Phần nhĩ xương thái dương tạo nên thành trước, dưới và một phần thành sau ống tai ngoài.
+
 ;;;ES;;;
 
 

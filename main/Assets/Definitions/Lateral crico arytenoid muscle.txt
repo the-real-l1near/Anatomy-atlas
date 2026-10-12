@@ -10,6 +10,10 @@ Insertion: lateral border of muscular process of arytenoid cartilage and surroun
 Synergic of the closing of the rima glottidis.
 
 Innervation: recurrent laryngeal nerve
+;;;VI;;;
+
+Cơ nhẫn-phễu bên kéo mỏm cơ sụn phễu ra trước, khép dây thanh khi phát âm.
+
 ;;;ES;;;
 
 

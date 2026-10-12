@@ -26,6 +26,10 @@ Similar structures occur around some nervous components elsewhere in the body, f
 
 
 https://en.wikipedia.org/wiki/Endoneurium
+;;;VI;;;
+
+Nội thần kinh là lớp mô liên kết mỏng bao quanh từng sợi trục thần kinh ngoại biên.
+
 ;;;ES;;;
 
 

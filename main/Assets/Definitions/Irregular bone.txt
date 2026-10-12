@@ -17,6 +17,10 @@ The irregular bones are: the vertebrae, sacrum, coccyx, temporal, sphenoid, ethm
 
 
 https://en.wikipedia.org/wiki/Irregular_bone
+;;;VI;;;
+
+Xương bất định có hình dạng phức tạp không thuộc nhóm xương dài, ngắn hay dẹt; đốt sống là ví dụ.
+
 ;;;ES;;;
 
 

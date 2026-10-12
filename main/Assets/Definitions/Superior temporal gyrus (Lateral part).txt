@@ -59,6 +59,10 @@ When the attended speech stream wasn’t disrupted by background noise a bilater
 
 
 https://en.wikipedia.org/wiki/Superior_temporal_gyrus
+;;;VI;;;
+
+Phần ngoài hồi thái dương trên nằm dọc rãnh bên, tham gia xử lý âm thanh và ngôn ngữ.
+
 ;;;ES;;;
 
 

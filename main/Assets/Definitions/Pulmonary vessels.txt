@@ -80,6 +80,10 @@ Pulmonary shunt
 
 
 https://en.wikipedia.org/wiki/Pulmonary_circulation
+;;;VI;;;
+
+Mạch phổi gồm động mạch phổi đưa máu đến phổi và tĩnh mạch phổi đưa máu giàu oxy về tim.
+
 ;;;ES;;;
 
 

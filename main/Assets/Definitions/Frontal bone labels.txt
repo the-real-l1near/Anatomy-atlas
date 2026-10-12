@@ -30,6 +30,12 @@ FRONTAL BONE
     Sinus of frontal bone
         Opening of frontal sinus
     Septum of frontal sinuses
+;;;VI;;;
+
+CÁC MỐC XƯƠNG TRÁN
+
+Các mốc xương trán gồm phần trai, phần ổ mắt, khuyết trên ổ mắt, cung mày và các diện khớp. Xương trán tạo trán, mái ổ mắt và một phần hốc mũi.
+
 ;;;ES;;;
 
 HUESO FRONTAL

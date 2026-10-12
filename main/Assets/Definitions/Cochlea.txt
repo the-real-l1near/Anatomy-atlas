@@ -217,6 +217,12 @@ The name cochlea is derived from the Latin word for snail shell, which in turn i
 
 
 https://en.wikipedia.org/wiki/Cochlea
+;;;VI;;;
+
+ỐC TAI
+
+Ốc tai là cấu trúc xoắn ốc của tai trong, chứa các khoang dịch và cơ quan Corti. Rung động âm thanh được truyền qua cửa sổ bầu dục, làm chuyển động dịch và kích thích tế bào lông. Tín hiệu được chuyển thành xung thần kinh đi theo nhánh ốc tai của dây thần kinh tiền đình-ốc tai.
+
 ;;;ES;;;
 
 

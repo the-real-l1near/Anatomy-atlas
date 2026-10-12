@@ -19,6 +19,10 @@ The inferior border designates the transverse plane in which the AV node resides
 
 
 https://en.wikipedia.org/wiki/Terminal_sulcus_(heart)
+;;;VI;;;
+
+Rãnh tận cùng tâm nhĩ phải là rãnh ngoài đánh dấu ranh giới giữa phần nhẵn và phần cơ lược.
+
 ;;;ES;;;
 
 

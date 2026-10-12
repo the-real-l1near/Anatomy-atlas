@@ -4,6 +4,10 @@ POSTERIOR LATERAL SEGMENT OF LIVER (VII)
 
 
 It is located above the anterior lateral segment of liver (VI), with which it forms the right lateral division of liver.
+;;;VI;;;
+
+Phân thùy sau-ngoài của gan (phân thùy VII) nằm phía trên phân thùy trước-ngoài (VI), thuộc phần ngoài của thùy phải gan.
+
 ;;;ES;;;
 
 

@@ -635,6 +635,14 @@ Experimental studies have shown that spinal nerve fibers attempt to regrow in th
 
 
 https://en.wikipedia.org/wiki/Nervous_system
+;;;VI;;;
+
+HỆ THẦN KINH VÀ CÁC CƠ QUAN CẢM GIÁC
+
+Hệ thần kinh tiếp nhận thông tin cảm giác, xử lý thông tin và phối hợp phản ứng của cơ thể. Hệ này gồm hệ thần kinh trung ương — não và tủy sống — cùng hệ thần kinh ngoại biên, nối trung ương thần kinh với các cơ quan và mô.
+
+Các cơ quan cảm giác như mắt, tai, cơ quan khứu giác và cơ quan vị giác phát hiện những kích thích từ môi trường. Tín hiệu được truyền qua các tế bào thần kinh để cơ thể tạo ra cảm giác và phản ứng phù hợp. Hệ thần kinh cũng phối hợp hoạt động với hệ nội tiết để điều hòa nhiều chức năng cơ thể.
+
 ;;;ES;;;
 
 

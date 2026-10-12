@@ -6,6 +6,10 @@ COMMON PLANTAR DIGITAL BRANCHES OF LATERAL PLANTAR NERVE
 Two branches, of which one goes to the fifth toe, the other to the space between the fourth and fifth toe.
 
 The first gives a branch to the flexor digiti minimi of foot.
+;;;VI;;;
+
+Các nhánh gan ngón chung của thần kinh gan chân ngoài chi phối cảm giác ngón út và vùng kẽ giữa ngón IV-V.
+
 ;;;ES;;;
 
 

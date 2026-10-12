@@ -7,6 +7,10 @@ VISCERAL FASCIAE OF ABDOMINOPELVIC CAVITY
         -Fascia of abdominal organ
     -Pelvic visceral fasciae
         -Fascia of pelvic organ
+;;;VI;;;
+
+Các mạc tạng bụng-chậu bao quanh cơ quan nội tạng, tạo đường đi cho mạch máu và thần kinh.
+
 ;;;ES;;;
 
 

@@ -4,6 +4,10 @@ ANTERIOR SURFACE OF CORNEA
 
 
 Surface of the cornea oriented outwards.
+;;;VI;;;
+
+Mặt trước giác mạc là bề mặt trong suốt lồi ra trước, tiếp xúc với phim nước mắt và không có mạch máu.
+
 ;;;ES;;;
 
 

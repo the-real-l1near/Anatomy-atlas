@@ -431,6 +431,12 @@ With this forearm configuration, the ulna supports the radius and maximum stabil
 
 
 https://en.wikipedia.org/wiki/Elbow
+;;;VI;;;
+
+KHỚP KHUỶU
+
+Khớp khuỷu là phức hợp khớp nối xương cánh tay với xương quay và xương trụ. Khớp cho phép gấp-duỗi cẳng tay; khớp quay-trụ gần phối hợp với khớp quay-trụ xa để sấp-ngửa cẳng tay.
+
 ;;;ES;;;
 
 

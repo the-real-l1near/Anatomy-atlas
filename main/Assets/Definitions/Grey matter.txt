@@ -105,6 +105,10 @@ The classical Latin cinerea means ash-coloured.
 
 
 https://en.wikipedia.org/wiki/Grey_matter
+;;;VI;;;
+
+Chất xám chứa thân neuron, sợi nhánh và synapse, là nơi xử lý thông tin trong hệ thần kinh trung ương.
+
 ;;;ES;;;
 
 

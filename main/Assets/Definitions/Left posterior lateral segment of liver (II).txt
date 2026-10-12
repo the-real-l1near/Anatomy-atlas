@@ -4,6 +4,10 @@ LEFT POSTERIOR LATERAL SEGMENT OF LIVER (II)
 
 
 Superior lateral segment of the left lateral division of liver.
+;;;VI;;;
+
+Phân thùy sau-ngoài gan trái (II) nằm ở phần trên sau của thùy trái gan.
+
 ;;;ES;;;
 
 

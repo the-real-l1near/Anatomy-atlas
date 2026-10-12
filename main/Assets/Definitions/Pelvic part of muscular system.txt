@@ -13,6 +13,12 @@ PELVIC PART OF MUSCULAR SYSTEM
         -Perineal fascia
         -Perineal membrane
         -Ischio-anal fossa
+;;;VI;;;
+
+PHẦN CƠ VÙNG CHẬU
+
+Các cơ vùng chậu gồm cơ thành chậu và cơ sàn chậu. Chúng nâng đỡ các tạng chậu, kiểm soát đường tiểu-tiêu hóa và hỗ trợ vận động khớp háng.
+
 ;;;ES;;;
 
 

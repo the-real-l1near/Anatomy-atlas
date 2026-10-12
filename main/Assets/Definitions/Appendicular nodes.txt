@@ -6,6 +6,10 @@ APPENDICULAR NODES
 The appendicular nodes are located along the appendicular artery.
 
 They can be missing.
+;;;VI;;;
+
+Các hạch ruột thừa nằm dọc động mạch ruột thừa và nhận bạch huyết từ ruột thừa.
+
 ;;;ES;;;
 
 

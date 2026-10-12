@@ -4,6 +4,10 @@ SUBAORTIC NODES
 
 
 Those of the common iliac nodes located beneath the aortic bifurcation, in front of the 4th lumbar vertebra (Vertebra T4).
+;;;VI;;;
+
+Các hạch dưới động mạch chủ nằm dưới cung động mạch chủ, nhận bạch huyết từ phổi và trung thất.
+
 ;;;ES;;;
 
 

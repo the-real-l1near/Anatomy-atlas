@@ -4,6 +4,10 @@ MASTOID BORDER OF OCCIPITAL BONE
 
 
 Border conected to the temporal bone
+;;;VI;;;
+
+Bờ chũm xương chẩm tiếp khớp với phần chũm xương thái dương.
+
 ;;;ES;;;
 
 

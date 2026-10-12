@@ -19,6 +19,10 @@ Perichondrium contains type I collagen and type XII collagen.
 
 
 https://en.wikipedia.org/wiki/Perichondrium
+;;;VI;;;
+
+Màng sụn là lớp mô liên kết bao quanh phần lớn sụn, chứa mạch máu nuôi sụn bằng khuếch tán.
+
 ;;;ES;;;
 
 

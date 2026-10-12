@@ -152,6 +152,10 @@ Moreover, STN excitation was generally correlated with significant reduction in 
 
 
 https://en.wikipedia.org/wiki/Subthalamic_nucleus
+;;;VI;;;
+
+Nhân dưới đồi thị nằm dưới đồi thị, tham gia vòng hạch nền điều hòa vận động.
+
 ;;;ES;;;
 
 

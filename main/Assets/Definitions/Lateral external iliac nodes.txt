@@ -4,6 +4,10 @@ LATERAL EXTERNAL ILIAC NODES
 
 
 Those of the external iliac nodes located on the lateral side of the vascular axis.
+;;;VI;;;
+
+Các hạch chậu ngoài bên nằm dọc phía ngoài mạch chậu ngoài, nhận bạch huyết từ chi dưới và thành bụng dưới.
+
 ;;;ES;;;
 
 

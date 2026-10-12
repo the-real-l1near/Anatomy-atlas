@@ -2,6 +2,12 @@ THORACIC VERTEBRA
     Superior costal facet
     Inferior costal facet
     Transverse costal facet
+;;;VI;;;
+
+CÁC MỐC ĐỐT SỐNG NGỰC
+
+Các mốc đốt sống ngực gồm thân đốt, lỗ đốt sống, mỏm gai dài và các diện sườn để khớp với xương sườn. Đặc điểm thay đổi dần từ đốt ngực trên đến đốt ngực dưới.
+
 ;;;ES;;;
 
 VÉRTEBRA TORÁCICA

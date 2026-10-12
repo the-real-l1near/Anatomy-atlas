@@ -491,6 +491,14 @@ National Geographic.
 
 
 https://en.wikipedia.org/wiki/Eye
+;;;VI;;;
+
+MẮT
+
+Mắt là cơ quan của hệ thị giác, giúp cơ thể tiếp nhận ánh sáng và nhìn thấy hình ảnh. Mắt chuyển ánh sáng thành tín hiệu thần kinh, sau đó các tín hiệu này được truyền đến não để xử lý.
+
+Ở người, giác mạc và thủy tinh thể hội tụ ánh sáng lên võng mạc. Mống mắt điều chỉnh lượng ánh sáng đi vào qua đồng tử. Võng mạc chứa các tế bào cảm thụ ánh sáng, khởi đầu quá trình tạo tín hiệu thị giác.
+
 ;;;ES;;;
 
 

@@ -136,6 +136,10 @@ Finally, the behaviour of MMGN cells are complicated by the fact that sensory st
 
 
 https://en.wikipedia.org/wiki/Medial_geniculate_nucleus
+;;;VI;;;
+
+Thể gối trong là trạm chuyển tiếp thính giác ở đồi thị, truyền tín hiệu đến vỏ não thính giác.
+
 ;;;ES;;;
 
 

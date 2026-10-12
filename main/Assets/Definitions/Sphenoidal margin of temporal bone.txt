@@ -7,6 +7,10 @@ Anterior border of the squamous part, next to the sphenoid bone.
 
 
 Feneis 34.13
+;;;VI;;;
+
+Bờ bướm xương thái dương tiếp khớp với cánh lớn xương bướm ở nền sọ.
+
 ;;;ES;;;
 
 

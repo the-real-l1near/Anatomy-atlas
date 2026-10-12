@@ -8,6 +8,10 @@ Located in the direction opposed to the trunk.
 
 
 Feneis 4.37
+;;;VI;;;
+
+Phía xa là hướng ra xa thân mình hoặc điểm gốc của một chi.
+
 ;;;ES;;;
 
 

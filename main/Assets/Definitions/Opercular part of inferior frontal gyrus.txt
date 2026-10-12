@@ -18,6 +18,10 @@ Opercular part of inferior frontal gyrus (pars opercularis), (cortex posterior t
 This expands on previous work indicating that comprehension of inflectional morpheme processing is associated with the inferior frontal gyrus.
 
 Cytoarchitecturally the opercular part of the inferior frontal gyrus is known as Brodmann area 44 (BA44).
+;;;VI;;;
+
+Phần nắp của hồi trán dưới nằm quanh nhánh lên rãnh bên, phủ lên đảo và góp phần vào vùng ngôn ngữ.
+
 ;;;ES;;;
 
 

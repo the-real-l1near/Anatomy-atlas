@@ -7,6 +7,10 @@ Canal for a nutrient vessel of the bone.
 
 
 Feneis 14.19
+;;;VI;;;
+
+Ống nuôi xương dẫn động mạch nuôi từ lỗ nuôi vào trong xương.
+
 ;;;ES;;;
 
 

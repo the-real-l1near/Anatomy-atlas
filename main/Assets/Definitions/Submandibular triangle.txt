@@ -71,6 +71,10 @@ The 12th cranial nerve ( Hypoglossal Nerve )
 
 
 https://en.wikipedia.org/wiki/Submandibular_triangle
+;;;VI;;;
+
+Tam giác dưới hàm nằm dưới thân hàm dưới, chứa tuyến dưới hàm, mạch mặt và các hạch bạch huyết.
+
 ;;;ES;;;
 
 

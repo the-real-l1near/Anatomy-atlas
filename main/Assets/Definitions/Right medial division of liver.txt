@@ -10,6 +10,10 @@ It is composed of:
     -and the posterior medial segment of liver (VIII)
 
 It forms the right part of liver with the right lateral division of liver.
+;;;VI;;;
+
+Phần trong gan phải chủ yếu gồm các phân thùy V và VIII, nằm cạnh giường túi mật.
+
 ;;;ES;;;
 
 

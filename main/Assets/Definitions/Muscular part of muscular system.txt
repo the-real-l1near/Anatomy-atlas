@@ -6,6 +6,12 @@ CRANIAL PART OF MUSCULAR SYSTEM
     -Muscles of head
     -Fasciae of head
     -Bursae of head
+;;;VI;;;
+
+CÁC THÀNH PHẦN CƠ CỦA HỆ CƠ
+
+Hệ cơ gồm cơ vân gắn với xương, cơ trơn trong thành tạng và mạch máu, cùng cơ tim. Các loại cơ khác nhau về cấu tạo và cách điều khiển, nhưng đều tạo lực hoặc vận động.
+
 ;;;ES;;;
 
 

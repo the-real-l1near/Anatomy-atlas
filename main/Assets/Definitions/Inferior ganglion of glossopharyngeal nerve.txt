@@ -38,6 +38,10 @@ The neuron cell bodies of the axons which form the tympanic nerve are found in t
 
 
 https://en.wikipedia.org/wiki/Inferior_ganglion_of_glossopharyngeal_nerve
+;;;VI;;;
+
+Hạch dưới thần kinh thiệt-hầu, còn gọi là hạch đá, là hạch cảm giác nằm trong lỗ tĩnh mạch cảnh. Nó chứa neuron cảm giác từ vùng hầu và một phần lưỡi.
+
 ;;;ES;;;
 
 

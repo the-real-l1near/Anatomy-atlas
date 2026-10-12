@@ -12,6 +12,12 @@ Posterior region of the trunk, including:
     -Lumbar region
     -Sacral region
     -Coccygeal region
+;;;VI;;;
+
+CÁC VÙNG LƯNG
+
+Các vùng lưng được phân chia theo mốc xương và cơ, gồm vùng đốt sống, vùng bả vai, vùng dưới bả vai và vùng thắt lưng. Cách phân vùng hỗ trợ mô tả vị trí đau, tổn thương và cấu trúc giải phẫu.
+
 ;;;ES;;;
 
 

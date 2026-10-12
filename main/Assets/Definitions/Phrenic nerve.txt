@@ -94,6 +94,12 @@ The instances where pulmonary vital capacity is reduced have typically been a re
 
 
 https://en.wikipedia.org/wiki/Phrenic_nerve
+;;;VI;;;
+
+THẦN KINH HOÀNH
+
+Thần kinh hoành xuất phát chủ yếu từ các rễ C3-C5 của đám rối cổ. Thần kinh đi xuống lồng ngực trước rốn phổi và chi phối vận động cơ hoành, đồng thời mang cảm giác từ một phần màng ngoài tim và màng phổi.
+
 ;;;ES;;;
 
 

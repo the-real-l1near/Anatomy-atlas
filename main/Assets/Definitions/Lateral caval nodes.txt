@@ -4,6 +4,10 @@ LATERAL CAVAL NODES
 
 
 The lateral caval nodes are located on the right of the inferior vena cava.
+;;;VI;;;
+
+Các hạch cạnh tĩnh mạch chủ dưới nằm ở phía bên phải của tĩnh mạch chủ dưới và tiếp nhận bạch huyết từ các vùng lân cận.
+
 ;;;ES;;;
 
 

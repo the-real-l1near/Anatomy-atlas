@@ -14,6 +14,12 @@ An example of this would be the rotating rods of a Table football.
 
 
 https://en.wikipedia.org/wiki/Cylindrical_joint
+;;;VI;;;
+
+KHỚP TRỤC
+
+Khớp trục cho phép một xương xoay quanh trục dọc của xương khác. Khớp quay-trụ là ví dụ, tạo động tác sấp và ngửa cẳng tay.
+
 ;;;ES;;;
 
 

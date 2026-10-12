@@ -3,6 +3,10 @@
 LAMBDA
 
 Intersection between the sagittal and the lambdoid sutures.
+;;;VI;;;
+
+Điểm lambda là mốc sọ ở nơi khớp dọc giữa gặp khớp lambdoid, tương ứng vùng thóp sau ở trẻ nhỏ.
+
 ;;;ES;;;
 
 

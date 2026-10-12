@@ -66,6 +66,11 @@ public class NameAndDescription : MonoBehaviour
                 case SystemLanguage.Portuguese:
                     newName = allNames[4];
                     break;
+                case SystemLanguage.Vietnamese:
+                    newName = allNames.Length > 5 && !string.IsNullOrWhiteSpace(allNames[5])
+                        ? allNames[5]
+                        : allNames[0];
+                    break;
                 default:
                     newName = allNames[0];
                     break;
@@ -96,7 +101,8 @@ public class NameAndDescription : MonoBehaviour
     /// <returns>A boolean indicating whether the game object has synonyms for the current language setting.</returns>
     public bool HasSynonims()
     {
-        return allSynonyms != null && allSynonyms[Settings.languageIndex] != null;
+        return allSynonyms != null && Settings.languageIndex >= 0 &&
+               Settings.languageIndex < allSynonyms.Count && allSynonyms[Settings.languageIndex] != null;
     }
 
 }

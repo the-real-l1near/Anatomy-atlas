@@ -28,6 +28,10 @@ Structures that pass behind medial malleolus deep to the flexor retinaculum:
 -Tibial nerve
 -Flexor hallucis longus
 
+;;;VI;;;
+
+Mắt cá trong là đầu dưới xương chày, tạo thành thành trong hõm khớp cổ chân.
+
 ;;;ES;;;
 
 

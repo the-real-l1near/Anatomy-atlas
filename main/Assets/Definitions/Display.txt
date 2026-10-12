@@ -17,6 +17,10 @@ Press '%'
     
 Press 'Shift+%'
     to toggle the group-labels visibility
+;;;VI;;;
+
+Chế độ hiển thị điều khiển cách các cấu trúc giải phẫu xuất hiện trên màn hình.
+
 ;;;ES;;;
 
 

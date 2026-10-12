@@ -47,7 +47,10 @@ public class BonusCollections : MonoBehaviour
         {
             if (collection.Contains(name))
             {
-                if (collectionsNames[i] != null)
+                if (collectionsNames[i] != null &&
+                    Settings.languageIndex >= 0 &&
+                    Settings.languageIndex < collectionsNames[i].Length &&
+                    !string.IsNullOrWhiteSpace(collectionsNames[i][Settings.languageIndex]))
                     AddCollection(collectionsNames[i][Settings.languageIndex], i);
                 else
                     AddCollection(collections[i].name, i);

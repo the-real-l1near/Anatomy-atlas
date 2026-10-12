@@ -4,6 +4,10 @@ INFERIOR GLUTEAL NODES
 
 
 They are located along the inferior gluteal nodes for the prostate and the proximal part of the ureter.
+;;;VI;;;
+
+Các hạch mông dưới nằm dọc động mạch mông dưới và nhận bạch huyết từ vùng mông sâu.
+
 ;;;ES;;;
 
 

@@ -10,6 +10,10 @@ Origin: inferior horn of thyroid cartilage.
 Insertion: inferior border of the cricoid cartilage.
 
 Innervation: recurrent laryngeal nerve.
+;;;VI;;;
+
+Cơ sừng-nhẫn là bó cơ nhỏ biến thiên được mô tả giữa sụn sừng và sụn nhẫn, có thể hỗ trợ vận động thanh quản.
+
 ;;;ES;;;
 
 

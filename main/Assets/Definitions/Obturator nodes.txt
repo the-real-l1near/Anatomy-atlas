@@ -4,6 +4,10 @@ OBTURATOR NODES
 
 
 Located along the obturator artery.
+;;;VI;;;
+
+Các hạch bịt nằm dọc mạch bịt trong chậu, nhận bạch huyết từ vùng chậu và chi dưới.
+
 ;;;ES;;;
 
 

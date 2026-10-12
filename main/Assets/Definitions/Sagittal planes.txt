@@ -10,6 +10,10 @@ The plane may be in the center of the body and split it into two halves (mid-sag
 
 
 https://en.wikipedia.org/wiki/Sagittal_plane
+;;;VI;;;
+
+Các mặt phẳng dọc chia cơ thể thành phần phải và trái; mặt phẳng giữa đi qua đường giữa.
+
 ;;;ES;;;
 
 

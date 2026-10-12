@@ -2,6 +2,12 @@ LACRIMAL BONE
     Posterior lacrimal crest
     Lacrimal groove of lacrimal bone
     Lacrimal hamulus
+;;;VI;;;
+
+CÁC MỐC XƯƠNG LỆ
+
+Các mốc xương lệ gồm rãnh túi lệ và mào lệ sau, góp phần tạo hố túi lệ ở thành trong ổ mắt. Xương nối với xương trán, sàng, hàm trên và xoăn mũi dưới.
+
 ;;;ES;;;
 
 HUESO LACRIMAL

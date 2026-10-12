@@ -4,6 +4,10 @@ RIGHT SURFACE OF LIVER
 
 
 Part of the diaphragmatic surface of liver.
+;;;VI;;;
+
+Mặt phải của gan là phần mặt hoành tiếp xúc với cơ hoành và thành bụng bên phải.
+
 ;;;ES;;;
 
 

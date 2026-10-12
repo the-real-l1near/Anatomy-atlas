@@ -8,6 +8,10 @@ Vertical line at equal distance between the sternal and midclavicular lines.
 
 
 Feneis 4.51
+;;;VI;;;
+
+Đường cạnh ức là đường dọc tưởng tượng chạy song song và sát bờ xương ức.
+
 ;;;ES;;;
 
 

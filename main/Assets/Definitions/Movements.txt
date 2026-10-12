@@ -31,6 +31,10 @@ MOVEMENTS (List)
 
 -protraction
 -retraction
+;;;VI;;;
+
+Các vận động giải phẫu mô tả sự thay đổi vị trí giữa các phần cơ thể tại khớp.
+
 ;;;ES;;;
 
 

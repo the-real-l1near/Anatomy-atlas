@@ -4,6 +4,10 @@ PATELLAR SURFACE OF FEMUR
 
 
 Articular surface of the femur for the patella, taking part in the patellar part of knee joint.
+;;;VI;;;
+
+Diện bánh chè ở đầu dưới xương đùi tiếp khớp với mặt sau xương bánh chè.
+
 ;;;ES;;;
 
 

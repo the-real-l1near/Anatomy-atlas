@@ -12,6 +12,10 @@ The inferior labial vein is the vein receiving blood from the lower lip.
 
 
 https://en.wikipedia.org/wiki/Inferior_labial_vein
+;;;VI;;;
+
+Tĩnh mạch môi dưới dẫn máu từ môi dưới về tĩnh mạch mặt.
+
 ;;;ES;;;
 
 

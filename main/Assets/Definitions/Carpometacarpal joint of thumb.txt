@@ -112,6 +112,10 @@ The shape of the human TMC joint dates back about 5 million years ago.
 
 As a result of evolution, the human thumb CMC joint has positioned itself at 80° of pronation, 40° of abduction, and 50° of flexion in relation to an axis passing through the stable second and third CMC joints.
 
+;;;VI;;;
+
+Khớp cổ tay-bàn tay ngón cái là khớp yên giữa xương thang và nền xương bàn tay thứ nhất, cho phép đối chiếu ngón cái.
+
 ;;;ES;;;
 
 

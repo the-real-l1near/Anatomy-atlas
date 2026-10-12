@@ -7,6 +7,10 @@ It has two surfaces:
     
     -the external surface of squamous part of frontal bone,
     -the internal surface of squamous part of frontal bone.
+;;;VI;;;
+
+Phần vảy xương trán tạo trán và phần trước mái hộp sọ.
+
 ;;;ES;;;
 
 

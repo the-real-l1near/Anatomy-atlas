@@ -40,6 +40,12 @@ The thymus provides an inductive environment for the development of T cells from
 In addition, thymic stromal cells allow for the selection of a functional and self-tolerant T cell repertoire. 
 
 Therefore, one of the most important roles of the thymus is the induction of central tolerance. 
+;;;VI;;;
+
+CÁC CƠ QUAN LYMPHO NGUYÊN PHÁT
+
+Các cơ quan lympho nguyên phát là nơi tế bào lympho được tạo ra và trưởng thành. Ở người, tủy xương tạo tế bào máu và là nơi tế bào B trưởng thành; tuyến ức là nơi tế bào T trưởng thành.
+
 ;;;ES;;;
 
 

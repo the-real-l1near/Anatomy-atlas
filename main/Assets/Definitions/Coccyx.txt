@@ -146,6 +146,12 @@ In the current official anatomic Latin nomenclature, Terminologia Anatomica, coc
 
 
 https://en.wikipedia.org/wiki/Coccyx
+;;;VI;;;
+
+XƯƠNG CỤT
+
+Xương cụt là đoạn cuối của cột sống, thường gồm một số đốt sống cụt hợp nhất. Xương nằm dưới xương cùng, là nơi bám của một số cơ và dây chằng sàn chậu, đồng thời góp phần nâng đỡ khi ngồi.
+
 ;;;ES;;;
 
 

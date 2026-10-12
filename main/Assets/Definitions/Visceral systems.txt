@@ -8,6 +8,12 @@ VISCERAL SYSTEMS
 -Urinary system
 -Genital systems
 -Abdominopelvic cavity
+;;;VI;;;
+
+CÁC HỆ TẠNG
+
+Các hệ tạng gồm những hệ cơ quan chủ yếu nằm trong các khoang ngực và bụng chậu: hệ tiêu hóa, hệ hô hấp, hệ tiết niệu và hệ sinh dục. Những cơ quan này thực hiện các chức năng sống như trao đổi khí, tiêu hóa và hấp thu thức ăn, bài tiết chất thải, sinh sản. Lồng ngực và khoang bụng chậu bao bọc, bảo vệ phần lớn các tạng.
+
 ;;;ES;;;
 
 

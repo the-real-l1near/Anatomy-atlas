@@ -4,6 +4,10 @@ POSTERIOR SURFACE OF PANCREAS
 
 
 Surface directed rearwards.
+;;;VI;;;
+
+Mặt sau tụy liên quan với động mạch chủ, tĩnh mạch cửa, tĩnh mạch lách và thận trái.
+
 ;;;ES;;;
 
 

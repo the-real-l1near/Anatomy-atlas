@@ -4,6 +4,10 @@ INFERIOR BORDER OF PANCREAS
 
 
 Between the antero-inferior surface of pancreas and the posterior surface of pancreas.
+;;;VI;;;
+
+Bờ dưới tụy hướng xuống dưới và liên quan với mạc treo đại tràng ngang cùng các quai ruột.
+
 ;;;ES;;;
 
 

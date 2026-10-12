@@ -14,6 +14,10 @@ The grey matter in the spinal cord consists of interneurons, as well as the cell
 
 
 https://en.wikipedia.org/wiki/Grey_matter
+;;;VI;;;
+
+Chất xám tủy sống nằm ở trung tâm, gồm sừng trước, sừng sau và vùng trung gian chứa thân neuron.
+
 ;;;ES;;;
 
 

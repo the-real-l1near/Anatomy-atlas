@@ -12,6 +12,12 @@ These regions are:
 -the antebrachial region
 -the carpal region
 -the regions of hand
+;;;VI;;;
+
+CÁC VÙNG CHI TRÊN
+
+Chi trên gồm vùng vai, cánh tay, khuỷu, cẳng tay, cổ tay và bàn tay. Các mốc này giúp mô tả vị trí cơ, mạch, thần kinh, chấn thương và thăm khám.
+
 ;;;ES;;;
 
 

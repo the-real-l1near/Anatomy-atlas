@@ -13,6 +13,10 @@ The thalamic fasciculus consists of fibers from the ansa lenticularis and from t
 
 
 https://en.wikipedia.org/wiki/Thalamic_fasciculus
+;;;VI;;;
+
+Bó đồi thị là đường sợi nối nhân dưới đồi thị và cầu nhạt với đồi thị trong vòng vận động.
+
 ;;;ES;;;
 
 

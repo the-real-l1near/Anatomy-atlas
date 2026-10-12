@@ -160,6 +160,10 @@ Cylinder head, pothead, and weatherhead are three such examples.
 
 
 https://en.wikipedia.org/wiki/Head
+;;;VI;;;
+
+Đầu gồm sọ não, mặt và các cơ quan cảm giác; đây cũng là nơi bắt đầu của hệ thần kinh trung ương.
+
 ;;;ES;;;
 
 

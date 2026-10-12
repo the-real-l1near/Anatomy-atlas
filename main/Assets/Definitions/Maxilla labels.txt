@@ -40,6 +40,12 @@ MAXILLA
         Interradicular septa of maxilla
         Alveolar yokes of maxilla
         Incisive foramina
+;;;VI;;;
+
+CÁC MỐC XƯƠNG HÀM TRÊN
+
+Các mốc xương hàm trên gồm thân xương, xoang hàm, mỏm trán, mỏm gò má, mỏm khẩu cái và mỏm huyệt răng. Chúng góp phần tạo ổ mắt, hốc mũi, khẩu cái cứng và cung răng trên.
+
 ;;;ES;;;
 
 MAXILAR SUPERIOR

@@ -309,6 +309,10 @@ The researchers proposed that a column of cells surrounding the midbrain reticul
 
 
 https://en.wikipedia.org/wiki/Reticular_formation
+;;;VI;;;
+
+Hệ lưới là mạng neuron trải dọc thân não, điều hòa tỉnh thức, chú ý, trương lực cơ và chức năng tự chủ.
+
 ;;;ES;;;
 
 

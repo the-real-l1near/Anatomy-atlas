@@ -4,6 +4,10 @@ ARTICULAR CAVITY
 
 
 The articular cavity is the inner volume of the articular capsule of the diarthroses; it contains synovia.
+;;;VI;;;
+
+Ổ khớp là khoang hẹp giữa các diện khớp trong khớp hoạt dịch, chứa một lượng nhỏ dịch hoạt dịch.
+
 ;;;ES;;;
 
 

@@ -82,6 +82,12 @@ The cephalic region is a combination of all of the head regions.
 The upper limb region is a combination of all of the arm regions. 
 
 The lower limb region is a combination of all of the leg regions. 
+;;;VI;;;
+
+CÁC VÙNG CƠ THỂ NGƯỜI
+
+Cơ thể thường được chia thành đầu, cổ, thân mình và các chi. Thân mình gồm ngực, bụng, lưng và vùng chậu; chi trên gồm vai, cánh tay, cẳng tay và bàn tay; chi dưới gồm hông, đùi, cẳng chân và bàn chân. Cách phân vùng này giúp mô tả vị trí cấu trúc, triệu chứng và tổn thương một cách thống nhất.
+
 ;;;ES;;;
 
 

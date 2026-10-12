@@ -4,6 +4,10 @@ SUPERIOR VERTEBRAL NOTCH
 
 
 Superior incisure on the pedicle of vertebral arch, forming the intervertebral foramen with the inferior vertebral notch of the previous vertebra.
+;;;VI;;;
+
+Khuyết đốt sống trên nằm ở bờ trên cuống cung, cùng khuyết dưới tạo lỗ gian đốt sống.
+
 ;;;ES;;;
 
 

@@ -48,6 +48,10 @@ The glenoid is important because it defines the range of motion of the humerus.
 
 
 https://en.wikipedia.org/wiki/Glenoid_fossa
+;;;VI;;;
+
+Hố ổ chảo là hõm khớp nông ở xương vai, tiếp nhận chỏm xương cánh tay.
+
 ;;;ES;;;
 
 

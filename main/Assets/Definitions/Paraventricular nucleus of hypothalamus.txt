@@ -77,6 +77,12 @@ Inputs from glucose sensors within the brain stimulate release of vasopressin an
 
 
 https://en.wikipedia.org/wiki/Paraventricular_nucleus_of_hypothalamus
+;;;VI;;;
+
+NHÂN CẠNH NÃO THẤT VÙNG DƯỚI ĐỒI
+
+Nhân cạnh não thất nằm gần não thất ba trong vùng dưới đồi. Một số neuron tại đây tạo oxytocin và vasopressin, vận chuyển đến thùy sau tuyến yên để dự trữ và phóng thích.
+
 ;;;ES;;;
 
 

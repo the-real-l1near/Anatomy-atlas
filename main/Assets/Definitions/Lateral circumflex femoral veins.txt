@@ -4,6 +4,10 @@ LATERAL CIRCUMFLEX FEMORAL VEINS
 
 
 Satelittes of the lateral circumflex femoral artery.
+;;;VI;;;
+
+Các tĩnh mạch mũ đùi ngoài đi cùng động mạch cùng tên và dẫn máu từ vùng trước-ngoài đùi.
+
 ;;;ES;;;
 
 

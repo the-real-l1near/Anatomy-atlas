@@ -7,6 +7,10 @@ Most inferior portion of the sella turcica that contains the pituitary gland (hy
 In front of the hypophyseal fossa is the tuberculum sellae.
 
 Behind it, there is the dorsum sellae.
+;;;VI;;;
+
+Hố tuyến yên là phần lõm trung tâm yên bướm, chứa tuyến yên.
+
 ;;;ES;;;
 
 

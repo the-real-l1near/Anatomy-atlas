@@ -4,6 +4,10 @@ MEDIASTINAL SURFACE OF LUNG
 
 
 Pulmonary surface in front of the vertebral part, in contact with the mediastin.
+;;;VI;;;
+
+Mặt trung thất của phổi hướng vào trung thất, có rốn phổi cùng các dấu ấn của tim và mạch máu.
+
 ;;;ES;;;
 
 

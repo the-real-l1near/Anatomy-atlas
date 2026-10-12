@@ -4,6 +4,10 @@ LEFT ANTERIOR LATERAL SEGMENT OF LIVER (III)
 
 
 Inferior lateral segment of the left lateral division of liver.
+;;;VI;;;
+
+Phân thùy trước-ngoài gan trái (III) nằm dưới phân thùy sau-ngoài II, ở phần bên thùy trái.
+
 ;;;ES;;;
 
 

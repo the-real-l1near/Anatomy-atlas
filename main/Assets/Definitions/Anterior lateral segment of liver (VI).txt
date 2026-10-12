@@ -4,6 +4,10 @@ ANTERIOR LATERAL SEGMENT OF LIVER (VI)
 
 
 It is located beneath the posterior lateral division of liver (VII), with which it forms the right lateral division of liver.
+;;;VI;;;
+
+Phân thùy trước-ngoài gan (VI) nằm ở phần dưới-bên của thùy phải, theo phân chia chức năng Couinaud.
+
 ;;;ES;;;
 
 

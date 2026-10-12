@@ -8,6 +8,10 @@ The inferior mesenteric ganglion is a ganglion located near where the inferior m
 
 
 https://en.wikipedia.org/wiki/Inferior_mesenteric_ganglion
+;;;VI;;;
+
+Hạch mạc treo tràng dưới nằm gần nguyên ủy động mạch mạc treo tràng dưới và phân phối sợi giao cảm đến đại tràng trái, trực tràng.
+
 ;;;ES;;;
 
 

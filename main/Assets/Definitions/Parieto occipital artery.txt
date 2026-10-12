@@ -8,6 +8,10 @@ Branch running in the parieto-occipital sulcus distributing itself to the superi
 
 
 Feneis 248.21
+;;;VI;;;
+
+Động mạch đỉnh-chẩm là nhánh vỏ não cấp máu cho vùng tiếp giáp thùy đỉnh và thùy chẩm.
+
 ;;;ES;;;
 
 

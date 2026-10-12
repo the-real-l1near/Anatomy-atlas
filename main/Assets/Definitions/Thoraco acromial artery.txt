@@ -8,6 +8,10 @@ It starts at the superior border of pectoralis minor muscle and sends its branch
 
 
 Feneis 254.12
+;;;VI;;;
+
+Động mạch ngực-cùng vai là nhánh của động mạch nách, chia nhánh đến vùng ngực, delta và cùng vai.
+
 ;;;ES;;;
 
 

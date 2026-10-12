@@ -6,6 +6,10 @@ PREPERICARDIAL NODES
 Located between the sternum and the pericardium, the prepericardial nodes drain the sternum and the anterior part of the pericardium.
 
 Evacuation: Parasternal nodes
+;;;VI;;;
+
+Các hạch trước màng tim nằm trước màng ngoài tim, nhận bạch huyết từ thành ngực trước và màng tim.
+
 ;;;ES;;;
 
 

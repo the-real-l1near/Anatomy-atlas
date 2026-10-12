@@ -6,6 +6,10 @@ LIGAMENTS OF EPIGLOTTIS
 The thyro-epiglottic ligament connects the stalk of the epiglottis to the back surface of the thyroid cartilage.
 
 The hyo-epiglottic ligament is an elastic band connecting the anterior surface of the epiglottis to the upper border of the body of the hyoid bone.
+;;;VI;;;
+
+Các dây chằng nắp thanh môn nối nắp thanh môn với xương móng, sụn giáp và các sụn thanh quản lân cận.
+
 ;;;ES;;;
 
 

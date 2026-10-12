@@ -7,6 +7,10 @@ Surface above the external occipital protuberance.
 
 
 Feneis 26.27
+;;;VI;;;
+
+Mặt phẳng chẩm là mặt phẳng giải phẫu theo hướng trước-sau qua vùng chẩm.
+
 ;;;ES;;;
 
 

@@ -4,6 +4,10 @@ ANTERIOR POLE OF EYEBALL
 
 
 Top of the cornea
+;;;VI;;;
+
+Cực trước nhãn cầu là điểm trung tâm ở phần trước giác mạc, đối diện với cực sau của nhãn cầu.
+
 ;;;ES;;;
 
 

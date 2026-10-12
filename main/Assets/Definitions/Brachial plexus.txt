@@ -195,6 +195,12 @@ Generally, T1 WI and T2 WI images are used in various planes for the imaging; bu
 
 
 https://en.wikipedia.org/wiki/Brachial_plexus
+;;;VI;;;
+
+ĐÁM RỐI CÁNH TAY
+
+Đám rối cánh tay là mạng thần kinh hình thành chủ yếu từ các nhánh trước của thần kinh sống C5 đến T1. Các rễ hợp thành thân, ngành, bó rồi thành các dây thần kinh chi trên, vận động và nhận cảm giác ở vai, cánh tay, cẳng tay và bàn tay.
+
 ;;;ES;;;
 
 

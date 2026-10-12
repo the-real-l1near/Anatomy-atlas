@@ -6,6 +6,10 @@ SUPERFICIAL MUSCLES OF HEAD
 Epicranius muscle
 Facial muscles
 Extrinsic auricular muscles
+;;;VI;;;
+
+Các cơ nông đầu gồm cơ biểu cảm mặt, cơ bám da đầu và một số cơ quanh tai.
+
 ;;;ES;;;
 
 

@@ -4,6 +4,10 @@ NASAL PART OF FRONTAL BONE
 
 
 Median part located between the two orbites.
+;;;VI;;;
+
+Phần mũi xương trán nằm giữa hai phần ổ mắt và tiếp khớp với xương mũi, xương sàng.
+
 ;;;ES;;;
 
 

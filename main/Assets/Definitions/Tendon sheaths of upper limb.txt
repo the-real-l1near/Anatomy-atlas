@@ -28,6 +28,10 @@ Carpal tendon sheaths
             Vincula tendinum of hand
                 Vinculum longum
                 Vinculum breve
+;;;VI;;;
+
+Các bao gân chi trên bao quanh gân ở cổ tay và bàn tay, giúp gân gấp-duỗi trượt thuận lợi.
+
 ;;;ES;;;
 
 

@@ -4,6 +4,10 @@ OBLIQUE PART OF CRICOTHYROID MUSCLE
 
 
 Posterior fibers of cricothyroid muscle, oriented more horizontally.
+;;;VI;;;
+
+Phần chếch cơ nhẫn-giáp kéo dài từ cung sụn nhẫn lên sụn giáp, làm căng dây thanh.
+
 ;;;ES;;;
 
 

@@ -4,6 +4,10 @@ PLANE SUTURE
 
 
  Plane sutures – edges of the bones are flush with each other as in a normal butt joint. Eg: Internasal suture.
+;;;VI;;;
+
+Khớp phẳng sọ là khớp sợi có hai bờ xương tương đối phẳng áp vào nhau.
+
 ;;;ES;;;
 
 

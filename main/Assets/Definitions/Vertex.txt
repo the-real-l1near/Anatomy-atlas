@@ -3,6 +3,10 @@
 VERTEX
 
 In anatomy, the vertex is the highest point of the cranial vault.
+;;;VI;;;
+
+Đỉnh đầu là điểm cao nhất của vòm sọ ở tư thế giải phẫu.
+
 ;;;ES;;;
 
 

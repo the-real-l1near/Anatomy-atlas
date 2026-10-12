@@ -14,6 +14,10 @@ These are the accessory visual structures:
     -Eyelids
     -Conjunctiva
     -Lacrimal apparatus
+;;;VI;;;
+
+Các cấu trúc phụ của mắt gồm mi mắt, kết mạc, bộ máy lệ và cơ vận nhãn, giúp bảo vệ mắt và hỗ trợ thị giác.
+
 ;;;ES;;;
 
 

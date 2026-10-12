@@ -8,6 +8,10 @@ Located on the side of the radius.
 
 
 Feneis 4.40
+;;;VI;;;
+
+Thuộc phía quay là thuật ngữ chỉ phía ngón cái của cẳng tay hoặc bàn tay.
+
 ;;;ES;;;
 
 

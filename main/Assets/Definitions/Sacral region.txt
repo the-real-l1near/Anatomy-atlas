@@ -4,6 +4,12 @@ SACRAL REGION
 
 
 Covering the sacrum.
+;;;VI;;;
+
+VÙNG CÙNG
+
+Vùng cùng nằm ở đường giữa lưng dưới, phía trên khe mông và phủ lên xương cùng. Đây là mốc bề mặt của khung chậu sau.
+
 ;;;ES;;;
 
 

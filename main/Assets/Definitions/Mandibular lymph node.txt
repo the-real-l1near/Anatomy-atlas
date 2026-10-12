@@ -8,6 +8,10 @@ The mandibular lymph node is a lymph node found near the jaw.
 
 
 https://en.wikipedia.org/wiki/Mandibular_lymph_node
+;;;VI;;;
+
+Hạch hàm dưới nhận bạch huyết từ má, mũi, môi và các vùng lân cận của mặt.
+
 ;;;ES;;;
 
 

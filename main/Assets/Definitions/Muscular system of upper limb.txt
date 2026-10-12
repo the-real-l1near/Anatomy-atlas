@@ -40,6 +40,12 @@ HAND
         
     Hypothenar:
         Abductor digiti minimi, flexor digiti minimi, opponens digiti minimi, palmaris brevis
+;;;VI;;;
+
+HỆ CƠ CHI TRÊN
+
+Các cơ chi trên vận động và ổn định vai, cánh tay, cẳng tay, cổ tay và bàn tay. Có thể phân nhóm theo vùng và chức năng như cơ vai, cơ cánh tay, cơ cẳng tay và cơ nội tại bàn tay.
+
 ;;;ES;;;
 
 

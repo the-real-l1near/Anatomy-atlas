@@ -6,6 +6,10 @@ DESCENDING PART OF ILIOFEMORAL SEGMENT
 Medial descending segment.
 
 It limits the internal rotation.
+;;;VI;;;
+
+Phần xuống của dây chằng chậu-đùi chạy từ gai chậu trước dưới đến đường gian mấu chuyển, hạn chế duỗi khớp háng.
+
 ;;;ES;;;
 
 

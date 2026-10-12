@@ -9,6 +9,10 @@ Sends uncrossed fibers to cranial nerve 3 and 4 via the medial longitudinal fasc
 
 
 https://en.wikipedia.org/wiki/Superior_vestibular_nucleus
+;;;VI;;;
+
+Nhân tiền đình trên nằm ở cầu não, nhận tín hiệu tiền đình và tham gia phản xạ giữ ánh nhìn.
+
 ;;;ES;;;
 
 

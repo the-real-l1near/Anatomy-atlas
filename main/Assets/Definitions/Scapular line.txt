@@ -8,6 +8,10 @@ Vertical line passing through the inferior angle of the scapula.
 
 
 Feneis 4.57
+;;;VI;;;
+
+Đường vai là đường dọc tưởng tượng đi qua góc dưới xương vai, dùng làm mốc khám lồng ngực.
+
 ;;;ES;;;
 
 

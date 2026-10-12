@@ -13,6 +13,10 @@ It is not always present, and its size varies considerably.
 
 
 https://en.wikipedia.org/wiki/Parietal_foramen
+;;;VI;;;
+
+Lỗ đỉnh là lỗ nhỏ gần đường khớp dọc giữa, có thể cho tĩnh mạch nối đi qua.
+
 ;;;ES;;;
 
 

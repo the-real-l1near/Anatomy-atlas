@@ -10,6 +10,10 @@ JOINTS OF LOWER LIMB
 -Joints of free lower limb
     -Fibrous joints of free lower limb
     -Synovial joints of free lower limb
+;;;VI;;;
+
+Các khớp chi dưới gồm khớp háng, gối, chày-mác, cổ chân và các khớp giữa xương bàn-ngón chân.
+
 ;;;ES;;;
 
 

@@ -124,6 +124,10 @@ A more recent DTI study by Sampaio-Baptista and colleagues reported changes in w
 
 
 https://en.wikipedia.org/wiki/White_matter
+;;;VI;;;
+
+Chất trắng chủ yếu gồm sợi trục có myelin, dẫn truyền tín hiệu giữa các vùng hệ thần kinh.
+
 ;;;ES;;;
 
 

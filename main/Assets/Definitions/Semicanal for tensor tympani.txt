@@ -3,6 +3,10 @@
 SEMICANAL FOR TENSOR TYMPANI
 
 Half of the Musculotubal canal for the tensor tympanic mucle.
+;;;VI;;;
+
+Bán ống cơ căng màng nhĩ là một nửa của ống cơ-vòi tai, chứa cơ căng màng nhĩ và nằm phía trên vòi tai.
+
 ;;;ES;;;
 
 

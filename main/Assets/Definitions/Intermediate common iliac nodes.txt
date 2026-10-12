@@ -4,6 +4,10 @@ INTERMEDIATE COMMON ILIAC NODES
 
 
 Those of the common iliac nodes located behind the vascular axis, between the medial common iliac nodes and the lateral common iliac nodes.
+;;;VI;;;
+
+Các hạch chậu chung trung gian nằm dọc mặt trước bó mạch chậu chung và nhận bạch huyết từ vùng chậu.
+
 ;;;ES;;;
 
 

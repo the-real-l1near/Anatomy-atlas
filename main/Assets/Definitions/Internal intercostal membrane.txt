@@ -4,6 +4,10 @@ INTERNAL INTERCOSTAL MEMBRANE
 
 
 The internal or posterior intercostal membrane is an aponeurosis located between the ribs and is a continuation of the internal intercostal muscles. 
+;;;VI;;;
+
+Màng gian sườn trong là phần màng tiếp nối cơ gian sườn trong ở phía sau các khoang sườn.
+
 ;;;ES;;;
 
 

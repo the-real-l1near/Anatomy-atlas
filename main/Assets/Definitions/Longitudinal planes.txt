@@ -5,6 +5,10 @@ LONGITUDINAL PLANES
 
     -Coronal plane
     -Sagittal (Median and parasagittal) planes
+;;;VI;;;
+
+Các mặt phẳng dọc chia cơ thể thành phần phải và trái; mặt phẳng giữa chia thành hai nửa đối xứng.
+
 ;;;ES;;;
 
 

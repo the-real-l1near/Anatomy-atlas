@@ -59,6 +59,10 @@ The inferior pancreaticoduodenal artery may be more simply known by the acronym 
 
 
 https://en.wikipedia.org/wiki/Inferior_pancreaticoduodenal_artery
+;;;VI;;;
+
+Động mạch tụy-tá tràng dưới thường xuất phát từ động mạch mạc treo tràng trên, cấp máu cho đầu tụy và tá tràng.
+
 ;;;ES;;;
 
 

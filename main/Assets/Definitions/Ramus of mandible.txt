@@ -46,6 +46,10 @@ Processes
     
     
 https://en.wikipedia.org/wiki/Mandible#Ramus
+;;;VI;;;
+
+Ngành hàm dưới là phần đứng sau thân hàm, mang mỏm vẹt và mỏm lồi cầu.
+
 ;;;ES;;;
 
 

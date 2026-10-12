@@ -28,6 +28,10 @@ The coronal plane is so-called because it lies in the direction of Coronal sutur
 
 
 https://en.wikipedia.org/wiki/Coronal_plane
+;;;VI;;;
+
+Mặt phẳng trán chia cơ thể thành phần trước và phần sau.
+
 ;;;ES;;;
 
 

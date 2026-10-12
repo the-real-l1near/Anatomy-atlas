@@ -13,6 +13,12 @@ SYSTEMIC ARTERIES
 
 
 https://ta2viewer.openanatomy.org/?id=4174
+;;;VI;;;
+
+CÁC ĐỘNG MẠCH TUẦN HOÀN LỚN
+
+Nhóm này gồm những động mạch chính đưa máu từ tim đến các vùng cơ thể: động mạch chủ, động mạch cảnh chung, vòng động mạch não, động mạch tủy sống, động mạch dưới đòn và động mạch đùi. Phần lớn máu trong các động mạch này giàu oxy; riêng động mạch phổi thuộc tuần hoàn phổi và đưa máu nghèo oxy đến phổi.
+
 ;;;ES;;;
 
 

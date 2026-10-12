@@ -18,6 +18,10 @@ Press 'Shift+Alt+Z'
 Press 'N' to open the options
 In 'Visibility', check 'Comic shader'
     to toggle the cartoon style
+;;;VI;;;
+
+Màu sắc trong mô hình giúp phân biệt các cấu trúc giải phẫu và hệ cơ quan.
+
 ;;;ES;;;
 
 

@@ -11,6 +11,12 @@ Several structures are parts of the oral region:
 -Tubercle of upper lip
 -Labial commissure
 -Angle of mouth
+;;;VI;;;
+
+VÙNG MIỆNG
+
+Vùng miệng bao quanh khe miệng, môi trên, môi dưới và khoang miệng. Vùng chứa các cơ môi, răng, lưỡi và các tuyến nước bọt liên quan đến ăn, nuốt và phát âm.
+
 ;;;ES;;;
 
 

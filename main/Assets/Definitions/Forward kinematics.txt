@@ -7,6 +7,10 @@ FK allows you to move one bone at a time.
 
 To see all the bones, go to:
     -Poperties>Armature>Skeleton
+;;;VI;;;
+
+Động học thuận tính vị trí các phần xa của một hệ khớp dựa trên góc và vị trí của các khớp gần.
+
 ;;;ES;;;
 
 

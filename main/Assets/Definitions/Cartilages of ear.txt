@@ -18,6 +18,10 @@ CARTILAGES OF EAR
 -Cartilage of auditory tube
   -Medial lamina of cartilage of auditory tube
   -Lateral lamina of cartilage of auditory tube
+;;;VI;;;
+
+Các sụn tai tạo khung cho vành tai và phần sụn của ống tai ngoài.
+
 ;;;ES;;;
 
 

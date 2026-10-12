@@ -13,6 +13,10 @@ When giving a posterior superior alveolar nerve block, it will anesthetize the m
 
 
 https://en.wikipedia.org/wiki/Posterior_superior_alveolar_nerve
+;;;VI;;;
+
+Các nhánh huyệt răng trên sau thường xuất phát từ thần kinh hàm trên. Chúng chi phối cảm giác cho răng hàm trên phía sau, nướu và niêm mạc xoang hàm.
+
 ;;;ES;;;
 
 

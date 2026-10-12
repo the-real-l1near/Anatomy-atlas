@@ -6,6 +6,10 @@ CARDIAC IMPRESSION OF LIVER
 Shallow depression of the diaphragmatic surface of liver, under the surface of attachment of the pericardium to the diaphragm.
 
 It extends on the bare area of liver and is limited by the inferior vena cava. 
+;;;VI;;;
+
+Ấn tim trên gan là vùng lõm ở mặt hoành thùy trái, do tim áp vào gan qua cơ hoành.
+
 ;;;ES;;;
 
 

@@ -3,6 +3,10 @@
 DESMOCRANIUM
 
 The mass of embryonic mesenchymal cells that develop into the cranium.
+;;;VI;;;
+
+Sọ màng là phần bộ xương sọ phát triển trực tiếp từ mô liên kết, chủ yếu tạo vòm sọ và nhiều xương mặt.
+
 ;;;ES;;;
 
 

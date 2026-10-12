@@ -35,6 +35,10 @@ It can be a useful surface landmark during surgery.
 
 
 https://en.wikipedia.org/wiki/Greater_tubercle
+;;;VI;;;
+
+Củ lớn là mỏm xương ở đầu trên xương cánh tay, nằm ngoài chỏm. Nhiều gân cơ chóp xoay bám vào củ này.
+
 ;;;ES;;;
 
 

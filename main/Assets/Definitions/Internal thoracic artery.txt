@@ -67,6 +67,12 @@ Drawing of the heart with a SVG to the RCA and a LITA graft to the LAD - mayocli
 
 
 https://en.wikipedia.org/wiki/Internal_thoracic_artery
+;;;VI;;;
+
+ĐỘNG MẠCH NGỰC TRONG
+
+Động mạch ngực trong xuất phát từ động mạch dưới đòn, đi xuống mặt trong thành ngực trước. Các nhánh cấp máu cho thành ngực, tuyến vú, cơ hoành và thành bụng trên.
+
 ;;;ES;;;
 
 

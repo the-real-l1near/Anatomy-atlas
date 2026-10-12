@@ -15,6 +15,10 @@ They therefore allow modification of actions in the light of their outcome, or e
 
 
 https://en.wikipedia.org/wiki/Pontine_nuclei
+;;;VI;;;
+
+Các nhân cầu nằm ở nền cầu não, nhận tín hiệu từ vỏ não và chuyển đến tiểu não qua cuống tiểu não giữa.
+
 ;;;ES;;;
 
 

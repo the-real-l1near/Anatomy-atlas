@@ -24,6 +24,10 @@ Running from the middle of this line is the inferior nuchal line. Attached are t
 
 
 https://en.wikipedia.org/wiki/Nuchal_lines
+;;;VI;;;
+
+Các đường gáy là các gờ trên mặt ngoài xương chẩm, nơi bám của cơ vùng gáy.
+
 ;;;ES;;;
 
 

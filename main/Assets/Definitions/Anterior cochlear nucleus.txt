@@ -191,6 +191,10 @@ The particular physiology and morphology of each cochlear nucleus cell type enha
 
 
 https://en.wikipedia.org/wiki/Cochlear_nucleus
+;;;VI;;;
+
+Nhân ốc tai trước tiếp nhận tín hiệu thính giác từ thần kinh ốc tai và chuyển tiếp thông tin vào các đường dẫn truyền thính giác của thân não.
+
 ;;;ES;;;
 
 

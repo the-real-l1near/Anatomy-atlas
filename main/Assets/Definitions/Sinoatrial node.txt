@@ -195,6 +195,10 @@ Their discovery was published in 1907.
 
 
 https://en.wikipedia.org/wiki/Sinoatrial_node
+;;;VI;;;
+
+Nút xoang nhĩ nằm ở thành tâm nhĩ phải, gần chỗ đổ vào của tĩnh mạch chủ trên. Đây là nơi phát nhịp điện sinh lý chính của tim.
+
 ;;;ES;;;
 
 

@@ -4,6 +4,10 @@ SUPERIOR BORDER OF PANCREAS
 
 
 Between the anterosuperior surface of pancreas and the posterior surface of pancreas.
+;;;VI;;;
+
+Bờ trên tụy liên quan với động mạch lách chạy dọc theo bờ này.
+
 ;;;ES;;;
 
 

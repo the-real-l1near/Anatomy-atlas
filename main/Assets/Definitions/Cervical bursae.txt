@@ -6,6 +6,10 @@ CERVICAL BURSAE
     -Subcutaneous bursa of laryngeal prominence
     -Infrahyoid bursa
     -Retrohyoid bursa
+;;;VI;;;
+
+Các túi hoạt dịch vùng cổ giảm ma sát giữa cơ, gân và xương trong một số vị trí quanh cổ.
+
 ;;;ES;;;
 
 

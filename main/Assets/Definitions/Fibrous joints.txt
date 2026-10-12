@@ -187,6 +187,12 @@ No movement is possible at such peg-and-socket joints.
 
 
 https://en.wikipedia.org/wiki/Fibrous_joint
+;;;VI;;;
+
+CÁC KHỚP SỢI
+
+Khớp sợi nối xương bằng mô liên kết sợi, không có khoang khớp. Đường khớp sọ, khớp dây chằng và khớp chân răng là các dạng chính.
+
 ;;;ES;;;
 
 

@@ -180,6 +180,10 @@ Dissection images
 
 
 https://en.wikipedia.org/wiki/Spinal_nerve
+;;;VI;;;
+
+Thần kinh sống hình thành do rễ trước vận động hợp với rễ sau cảm giác, rồi chia thành nhánh trước và sau.
+
 ;;;ES;;;
 
 

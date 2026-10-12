@@ -15,6 +15,12 @@ These are its regions:
 -occipital region
 -temporal region
 -mastoid region
+;;;VI;;;
+
+CÁC VÙNG DA ĐẦU
+
+Da đầu được chia thành các vùng trước trán, đỉnh, thái dương và chẩm theo các mốc xương sọ. Lớp mô mềm da đầu chứa mạch máu, thần kinh và cân cơ.
+
 ;;;ES;;;
 
 

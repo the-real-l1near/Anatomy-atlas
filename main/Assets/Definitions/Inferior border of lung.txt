@@ -6,6 +6,10 @@ INFERIOR BORDER OF LUNG
 Sharp border between the costal surface of lung and the diaphragmatic surface of lung.
 
 At the transition wetween the diaphragmatic and the mediastinal surface of lung, the border is smoother.
+;;;VI;;;
+
+Bờ dưới phổi là bờ sắc ngăn cách mặt sườn với mặt hoành. Bờ này thay đổi vị trí theo nhịp hô hấp.
+
 ;;;ES;;;
 
 

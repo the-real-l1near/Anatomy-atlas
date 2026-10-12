@@ -4,6 +4,10 @@ APICOPOSTERIOR SEGMENT OF LEFT LUNG (SI+SII)
 
 
 Made of two segments, it is inserted as a corner between the oblique scissure and the anterior segment of the superior lobe.
+;;;VI;;;
+
+Phân thùy đỉnh-sau phổi trái (S I+II) thường hợp nhất hai phân thùy đỉnh và sau của thùy trên trái.
+
 ;;;ES;;;
 
 

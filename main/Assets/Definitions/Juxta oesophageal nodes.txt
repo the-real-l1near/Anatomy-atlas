@@ -4,6 +4,10 @@ JUXTA-OESOPHAGEAL NODES
 
 
 They are located next to the oesophagus but belong to the lungs.
+;;;VI;;;
+
+Các hạch cạnh thực quản nằm dọc thực quản, nhận bạch huyết từ thực quản và các vùng lân cận.
+
 ;;;ES;;;
 
 

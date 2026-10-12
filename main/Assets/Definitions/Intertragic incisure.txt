@@ -4,6 +4,10 @@ INTERTRAGIC INCISURE
 
 
 Notch between the tragus and the antitragus.
+;;;VI;;;
+
+Khuyết gian bình tai là chỗ lõm giữa bình tai và đối bình tai.
+
 ;;;ES;;;
 
 

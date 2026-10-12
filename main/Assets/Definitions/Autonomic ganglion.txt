@@ -14,6 +14,10 @@ The two types are the sympathetic ganglion and the parasympathetic ganglion.
 
 
 https://en.wikipedia.org/wiki/Autonomic_ganglion
+;;;VI;;;
+
+Hạch tự chủ chứa thân neuron sau hạch của hệ giao cảm hoặc phó giao cảm, làm trạm chuyển tiếp tín hiệu từ hệ thần kinh trung ương đến cơ quan.
+
 ;;;ES;;;
 
 

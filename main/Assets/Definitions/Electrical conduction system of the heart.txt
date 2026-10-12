@@ -222,6 +222,12 @@ In the event of arrhythmia, a pacemaker may be surgically inserted into the cond
 
 
 https://en.wikipedia.org/wiki/Electrical_conduction_system_of_the_heart
+;;;VI;;;
+
+HỆ DẪN TRUYỀN ĐIỆN CỦA TIM
+
+Hệ dẫn truyền tim gồm nút xoang, nút nhĩ-thất, bó nhĩ-thất, các nhánh phải-trái và mạng Purkinje. Hệ tạo và truyền xung điện, phối hợp co bóp nhĩ và thất theo nhịp.
+
 ;;;ES;;;
 
 

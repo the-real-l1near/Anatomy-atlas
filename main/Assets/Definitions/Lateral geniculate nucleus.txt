@@ -204,6 +204,10 @@ The vLGN and IGL seem to play an important role in mediating phases of the circa
 
 
 https://en.wikipedia.org/wiki/Lateral_geniculate_nucleus
+;;;VI;;;
+
+Nhân gối ngoài của đồi thị xử lý và chuyển tiếp thông tin thị giác đến vỏ não chẩm.
+
 ;;;ES;;;
 
 

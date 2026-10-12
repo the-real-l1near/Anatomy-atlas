@@ -4,6 +4,10 @@ INFERIOR BORDER OF LIVER
 
 
 The inferior border of liver separates the diaphragmatic surface of liver and the visceral surface of liver.
+;;;VI;;;
+
+Bờ dưới gan phân cách mặt hoành với mặt tạng ở phía trước, thường sờ được dưới bờ sườn phải khi hít sâu.
+
 ;;;ES;;;
 
 

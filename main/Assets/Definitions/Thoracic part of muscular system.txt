@@ -6,6 +6,12 @@ THORACIC PART OF MUSCULAR SYSTEM
 Muscles of thorax
 Fasciae of thorax
 Diaphragm
+;;;VI;;;
+
+PHẦN CƠ NGỰC
+
+Các cơ ngực gồm cơ thành ngực và cơ nối chi trên với thân mình. Chúng vận động xương sườn khi hô hấp, ổn định đai vai và hỗ trợ vận động cánh tay.
+
 ;;;ES;;;
 
 

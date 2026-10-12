@@ -6,6 +6,10 @@ PREVERTEBRAL NODES
 The prevertebral lymph nodes are located between the oesophagus and the vertebral column.
 
 
+;;;VI;;;
+
+Các hạch trước cột sống nằm quanh các mạch lớn trước cột sống, nhận bạch huyết từ tạng bụng.
+
 ;;;ES;;;
 
 

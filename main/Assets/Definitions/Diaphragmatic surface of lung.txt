@@ -4,6 +4,10 @@ DIAPHRAGMATIC SURFACE OF LUNG
 
 
 Inferior concave surface of lung laying on the diaphragm.
+;;;VI;;;
+
+Mặt hoành phổi là mặt lõm dưới của phổi, tựa lên vòm cơ hoành.
+
 ;;;ES;;;
 
 

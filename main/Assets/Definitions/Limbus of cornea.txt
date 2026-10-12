@@ -4,6 +4,10 @@ LIMBUS OF CORNEA
 
 
 Transition border between the sclera and the cornea.
+;;;VI;;;
+
+Rìa giác mạc là vùng chuyển tiếp giữa giác mạc trong suốt và củng mạc, nơi có tế bào gốc biểu mô giác mạc.
+
 ;;;ES;;;
 
 

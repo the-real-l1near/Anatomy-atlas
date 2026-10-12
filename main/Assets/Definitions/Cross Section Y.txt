@@ -18,6 +18,10 @@ In'Z-Anatomy'>'Cross section', uncheck the options to:
     -change the direction
     
 The upper X/Y/Z buttons affect only the selected objects.
+;;;VI;;;
+
+Mặt cắt ngang Y là lát cắt giải phẫu theo mặt phẳng ngang tại vị trí được chỉ định trong mô hình.
+
 ;;;ES;;;
 
 

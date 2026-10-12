@@ -13,6 +13,10 @@ JOINTS OF PELVIC GIRDLE
     -Triradiate cartilage
 -Synovial joints of pelvic girdle
     -Sacro-iliac joint
+;;;VI;;;
+
+Các khớp đai chậu gồm khớp cùng-chậu và khớp mu, truyền lực giữa cột sống với hai chi dưới.
+
 ;;;ES;;;
 
 

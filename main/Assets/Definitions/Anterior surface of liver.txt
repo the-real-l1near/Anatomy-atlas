@@ -4,6 +4,10 @@ ANTERIOR SURFACE OF LIVER
 
 
 Part of the diaphragmatic surface of liver directed frontwards.
+;;;VI;;;
+
+Mặt trước gan hướng về thành bụng trước và nằm ngay dưới cơ hoành.
+
 ;;;ES;;;
 
 

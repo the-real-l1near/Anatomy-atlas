@@ -28,6 +28,10 @@ The following structures also exit the pelvis through the greater sciatic forame
 
 
 https://en.wikipedia.org/wiki/Greater_sciatic_foramen
+;;;VI;;;
+
+Lỗ ngồi lớn được tạo bởi khuyết ngồi lớn và các dây chằng cùng-gai, cùng-củ; nhiều cơ, mạch và thần kinh đi qua.
+
 ;;;ES;;;
 
 j

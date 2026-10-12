@@ -50,6 +50,12 @@ HIP BONE
             Anterior obturator tubercle
             Posterior obturator tubercle
         Inferior pubic ramus
+;;;VI;;;
+
+CÁC MỐC XƯƠNG HÔNG
+
+Các mốc xương hông gồm cánh chậu, ổ cối, lỗ bịt, ngành mu và ngành ngồi. Các diện khớp và bờ xương là nơi tiếp nối với xương cùng, xương đùi và các cấu trúc vùng chậu.
+
 ;;;ES;;;
 
 HUESO DE LA CADERA

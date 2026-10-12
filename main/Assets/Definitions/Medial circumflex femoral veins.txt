@@ -4,6 +4,10 @@ MEDIAL CIRCUMFLEX FEMORAL VEINS
 
 
 Satelitte veins of the medial circumflex femoral artery.
+;;;VI;;;
+
+Các tĩnh mạch mũ đùi trong đi cùng động mạch cùng tên, dẫn máu từ vùng sâu quanh khớp háng và đùi trên.
+
 ;;;ES;;;
 
 

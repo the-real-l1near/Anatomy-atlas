@@ -53,6 +53,10 @@ It also provides a route for measuring central venous pressure.
 
 
 https://en.wikipedia.org/wiki/Umbilical_vein
+;;;VI;;;
+
+Tĩnh mạch rốn thai nhi đưa máu giàu oxy từ nhau thai đến gan thai; sau sinh thoái hóa thành dây chằng tròn gan.
+
 ;;;ES;;;
 
 

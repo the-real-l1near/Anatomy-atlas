@@ -40,6 +40,10 @@ Sagittal plane movements include flexion, extension, and hyperextension, as well
 
 
 https://en.wikipedia.org/wiki/Sagittal_plane
+;;;VI;;;
+
+Mặt phẳng dọc chia cơ thể thành phần phải và trái.
+
 ;;;ES;;;
 
 

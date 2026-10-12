@@ -4,6 +4,10 @@ MEDIAL BORDER OF KIDNEY
 
 
 Medial border, concave at the level of the hilum of kidney.
+;;;VI;;;
+
+Bờ trong thận lõm và có rốn thận, nơi mạch thận, thần kinh và niệu quản đi qua.
+
 ;;;ES;;;
 
 

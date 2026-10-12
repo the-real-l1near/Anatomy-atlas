@@ -8,6 +8,10 @@ Satelitte veins of the musculophrenic artery.
 
 
 Feneis 276.17
+;;;VI;;;
+
+Các tĩnh mạch cơ-hoành đi cùng động mạch cơ-hoành, dẫn máu từ cơ hoành và thành ngực thấp.
+
 ;;;ES;;;
 
 

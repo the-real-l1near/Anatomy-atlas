@@ -6,6 +6,10 @@ INVERSE KINEMATICS
 The IK constraints are special in that they modify multiple bones.
 
 For this reason, they ignore their position in the stack and always run after all other constraints on the affected bones.
+;;;VI;;;
+
+Động học nghịch xác định góc các khớp cần thiết để đưa đầu chi hoặc điểm cuối đến một vị trí mong muốn.
+
 ;;;ES;;;
 
 

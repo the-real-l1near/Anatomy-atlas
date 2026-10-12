@@ -18,6 +18,12 @@ VERTEBRA
         Superior articular facet of vertebra
     Inferior articular process of vertebra
         Inferior articular facet of vertebra
+;;;VI;;;
+
+CÁC MỐC ĐỐT SỐNG
+
+Các mốc chung của đốt sống gồm thân đốt, cung đốt, lỗ đốt sống, mỏm gai, mỏm ngang và các mỏm khớp. Hình dạng cụ thể thay đổi theo vùng cổ, ngực và thắt lưng.
+
 ;;;ES;;;
 
 VÉRTEBRA

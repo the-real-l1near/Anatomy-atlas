@@ -68,6 +68,12 @@ The test is positive if thigh pain increases.
 
 
 https://en.wikipedia.org/wiki/Femoral_nerve
+;;;VI;;;
+
+THẦN KINH ĐÙI
+
+Thần kinh đùi xuất phát từ đám rối thắt lưng, chủ yếu từ các nhánh trước L2-L4. Thần kinh đi dưới dây chằng bẹn vào đùi, chi phối vận động nhóm cơ trước đùi và cảm giác phần trước đùi cùng mặt trong cẳng chân qua thần kinh hiển.
+
 ;;;ES;;;
 
 

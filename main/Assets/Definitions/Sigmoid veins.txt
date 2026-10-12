@@ -4,6 +4,10 @@ SIGMOID VEINS
 
 
 Veins coming from the sigmoid colon.
+;;;VI;;;
+
+Các tĩnh mạch đại tràng sigma dẫn máu từ đại tràng sigma, thường đổ vào tĩnh mạch mạc treo tràng dưới.
+
 ;;;ES;;;
 
 

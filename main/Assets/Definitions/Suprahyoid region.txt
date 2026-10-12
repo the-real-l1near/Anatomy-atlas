@@ -6,6 +6,12 @@ SUPRAHYOID REGION
 Horizontal part of the neck, beneath the mandible.
 
 The suprahyoid region is divided between the submandibular triangle and the submental triangle.
+;;;VI;;;
+
+VÙNG TRÊN MÓNG
+
+Vùng trên móng nằm giữa xương móng và xương hàm dưới. Vùng chứa các cơ trên móng, tuyến dưới hàm, tuyến dưới lưỡi và các cấu trúc sàn miệng.
+
 ;;;ES;;;
 
 

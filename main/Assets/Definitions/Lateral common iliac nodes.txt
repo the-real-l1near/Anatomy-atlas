@@ -4,6 +4,10 @@ LATERAL COMMON ILIAC NODES
 
 
 Those of the common iliac nodes located on the lateral side of the vascular axis.
+;;;VI;;;
+
+Các hạch chậu chung ngoài nằm ở phía bên của bó mạch chậu chung và tiếp nhận bạch huyết từ các hạch chậu thấp hơn.
+
 ;;;ES;;;
 
 

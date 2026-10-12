@@ -17,6 +17,10 @@ The grey matter of tegmentum of midbrain includes:
 -nuclei of anterior tegmental area
 -interpeduncular nucleus
 -red nucleus
+;;;VI;;;
+
+Chất xám tegmentum trung não gồm các nhân như nhân đỏ và chất xám quanh cống, tham gia vận động và điều hòa đau.
+
 ;;;ES;;;
 
 

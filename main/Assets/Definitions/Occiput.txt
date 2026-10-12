@@ -3,6 +3,10 @@
 OCCIPUT
 
 Back and lower part of the cranium.
+;;;VI;;;
+
+Chẩm là vùng phía sau và dưới của hộp sọ, tương ứng với xương chẩm và vùng da đầu phủ bên ngoài.
+
 ;;;ES;;;
 
 

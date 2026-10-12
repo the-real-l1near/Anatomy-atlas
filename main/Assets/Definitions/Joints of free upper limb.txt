@@ -14,6 +14,10 @@ And many synovial joints of free upper limb:
 -the distal radio-ulnar joint
 -the radiocarpal joint
 -and all the joints of hand
+;;;VI;;;
+
+Các khớp phần tự do chi trên gồm khớp vai, khuỷu, quay-trụ, cổ tay và các khớp bàn-ngón tay.
+
 ;;;ES;;;
 
 

@@ -54,6 +54,10 @@ Other anatomical lines include:
     
     
 https://en.wikipedia.org/wiki/List_of_anatomical_lines
+;;;VI;;;
+
+Các đường mốc giải phẫu là đường tưởng tượng trên cơ thể, dùng mô tả vị trí hoặc hướng của cấu trúc.
+
 ;;;ES;;;
 
 

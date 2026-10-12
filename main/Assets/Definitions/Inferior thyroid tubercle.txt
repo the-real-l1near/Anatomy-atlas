@@ -4,6 +4,10 @@ INFERIOR THYROID TUBERCLE
 
 
 Small inferior eminence at the lower extremity of the oblique line of thyroid cartilage.
+;;;VI;;;
+
+Củ giáp dưới là mỏm nhỏ gần đầu dưới đường chếch của sụn giáp, nơi bám của cơ khít hầu dưới.
+
 ;;;ES;;;
 
 

@@ -9,6 +9,10 @@ For example, inversion describes the motion when an ankle is twisted.
 
 
 
+;;;VI;;;
+
+Động tác nghiêng trong bàn chân là xoay lòng bàn chân hướng vào trong, về phía mặt phẳng giữa cơ thể.
+
 ;;;ES;;;
 
 

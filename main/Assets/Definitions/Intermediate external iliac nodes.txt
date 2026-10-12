@@ -4,6 +4,10 @@ INTERMEDIATE EXTERNAL ILIAC NODES
 
 
 Group of external iliac nodes located behind the vascular axis, between the medial external iliac nodes and the lateral external iliac nodes.
+;;;VI;;;
+
+Các hạch chậu ngoài trung gian nằm dọc mạch chậu ngoài, nhận bạch huyết từ chi dưới và vùng chậu.
+
 ;;;ES;;;
 
 

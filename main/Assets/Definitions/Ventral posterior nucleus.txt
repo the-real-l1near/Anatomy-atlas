@@ -35,6 +35,10 @@ Modulates tremor in certain pathology.
 
 
 https://en.wikipedia.org/wiki/Ventral_posterior_nucleus
+;;;VI;;;
+
+Nhân bụng sau đồi thị là trạm chuyển tiếp chính của cảm giác thân thể lên vỏ não.
+
 ;;;ES;;;
 
 

@@ -122,6 +122,10 @@ This type can be stable or unstable and may require surgery.
 		
 		
 https://en.wikipedia.org/wiki/Axis_(anatomy)
+;;;VI;;;
+
+Đốt trục (C2) là đốt sống cổ thứ hai. Mỏm nha của nó làm trục để đốt đội và đầu xoay sang hai bên.
+
 ;;;ES;;;
 
 

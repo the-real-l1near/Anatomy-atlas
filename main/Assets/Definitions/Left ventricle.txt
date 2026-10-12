@@ -163,6 +163,10 @@ Atrioventricular septal defect
 
 
 https://en.wikipedia.org/wiki/Ventricle_(heart)
+;;;VI;;;
+
+Tâm thất trái bơm máu giàu oxy qua van động mạch chủ vào động mạch chủ để phân phối đến toàn cơ thể.
+
 ;;;ES;;;
 
 

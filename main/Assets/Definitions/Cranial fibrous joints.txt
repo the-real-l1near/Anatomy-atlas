@@ -6,6 +6,10 @@ CRANIAL FIBROUS JOINTS
 -Cranial syndesmoses
 -Cranial sutures
 -Dento-alveolar syndesmosis
+;;;VI;;;
+
+Các khớp sợi sọ nối các xương sọ bằng mô liên kết đặc, chủ yếu là các đường khớp sọ.
+
 ;;;ES;;;
 
 

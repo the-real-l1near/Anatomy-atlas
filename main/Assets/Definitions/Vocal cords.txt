@@ -497,6 +497,10 @@ In phonetics, vocal folds is preferred over vocal cords, on the grounds that it 
 
 
 https://en.wikipedia.org/wiki/Vocal_cords
+;;;VI;;;
+
+Dây thanh là các nếp trong thanh quản rung khi luồng khí đi qua để tạo âm thanh; chúng cũng khép để bảo vệ đường thở.
+
 ;;;ES;;;
 
 

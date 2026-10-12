@@ -10,6 +10,10 @@ It is traversed by the inferior temporal sulcus, which extends from near the occ
 
 
 https://en.wikipedia.org/wiki/Inferior_temporal_sulcus
+;;;VI;;;
+
+Rãnh thái dương dưới phân cách hồi thái dương giữa với hồi thái dương dưới.
+
 ;;;ES;;;
 
 

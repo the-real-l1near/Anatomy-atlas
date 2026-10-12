@@ -21,6 +21,10 @@ These ecophysiological functions rely on the set-up of a blood vessel network wi
 
 
 https://en.wikipedia.org/wiki/Dermal_bone
+;;;VI;;;
+
+Xương màng hình thành trực tiếp từ mô trung mô, không qua khuôn sụn; nhiều xương sọ phát triển theo cách này.
+
 ;;;ES;;;
 
 

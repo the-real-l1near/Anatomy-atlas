@@ -4,6 +4,10 @@ INFERIOR PANCREATIC NODES
 
 
 On the inferior border of pancreas.
+;;;VI;;;
+
+Các hạch tụy dưới nằm gần bờ dưới tụy và nhận bạch huyết từ tụy lân cận.
+
 ;;;ES;;;
 
 

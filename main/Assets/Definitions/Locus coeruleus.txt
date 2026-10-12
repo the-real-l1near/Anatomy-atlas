@@ -211,6 +211,10 @@ This is in line with the statement made by the chairman of the Terminologia Anat
 
 
 https://en.wikipedia.org/wiki/Locus_coeruleus
+;;;VI;;;
+
+Nhân xanh nằm ở cầu não và chứa neuron noradrenaline, góp phần điều hòa tỉnh thức, chú ý và đáp ứng stress.
+
 ;;;ES;;;
 
 

@@ -293,6 +293,12 @@ All of these tests must be repeated after a certain time before death can be dec
 
 
 https://en.wikipedia.org/wiki/Brainstem
+;;;VI;;;
+
+THÂN NÃO
+
+Thân não nối não với tủy sống và gồm trung não, cầu não và hành não. Đây là đường dẫn truyền nhiều tín hiệu giữa não, tủy sống và tiểu não. Thân não cũng chứa các trung tâm điều hòa những chức năng thiết yếu như hô hấp, nhịp tim, huyết áp, nuốt và một số phản xạ. Nhiều dây thần kinh sọ xuất phát từ khu vực này.
+
 ;;;ES;;;
 
 

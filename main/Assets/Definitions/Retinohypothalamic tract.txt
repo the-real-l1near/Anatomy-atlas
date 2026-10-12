@@ -87,6 +87,10 @@ This may indicate that the intake of water is affected by the number of connecti
 
 
 https://en.wikipedia.org/wiki/Retinohypothalamic_tract
+;;;VI;;;
+
+Bó võng mạc-dưới đồi đưa tín hiệu ánh sáng từ võng mạc đến nhân trên giao thoa để đồng bộ nhịp sinh học.
+
 ;;;ES;;;
 
 

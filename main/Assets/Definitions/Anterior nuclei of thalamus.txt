@@ -46,6 +46,10 @@ Ultimately, the firing sequences of these cells encode information allowing an a
 
 
 https://en.wikipedia.org/wiki/Anterior_nuclei_of_thalamus
+;;;VI;;;
+
+Các nhân trước đồi thị tham gia mạch trí nhớ của hệ viền và liên hệ với hồi đai, thể vú cùng hồi hải mã.
+
 ;;;ES;;;
 
 

@@ -5,6 +5,10 @@ ACCESSORY BONES OF THORAX
 
 [Suprasternal bones]:
     Inconstant small bony vestiges of the primitive episternum in the ligaments of the sternoclavicular joint.
+;;;VI;;;
+
+Các xương phụ của lồng ngực là những xương nhỏ biến thể, có thể xuất hiện gần xương sườn hoặc xương ức.
+
 ;;;ES;;;
 
 

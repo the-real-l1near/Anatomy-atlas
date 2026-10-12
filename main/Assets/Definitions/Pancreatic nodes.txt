@@ -8,6 +8,10 @@ The pancreatic nodes are located on the superior and inferior borders of the pan
 
 
 Feneis 306.23
+;;;VI;;;
+
+Các hạch tụy nằm dọc tụy và mạch tụy, nhận bạch huyết từ tuyến tụy.
+
 ;;;ES;;;
 
 

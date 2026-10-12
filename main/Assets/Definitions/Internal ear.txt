@@ -291,6 +291,10 @@ The semicircular ducts are responsible for detecting rotational movement.
 
 
 https://en.wikipedia.org/wiki/Inner_ear
+;;;VI;;;
+
+Tai trong gồm ốc tai, tiền đình và các ống bán khuyên, đảm nhiệm chức năng nghe và thăng bằng.
+
 ;;;ES;;;
 
 

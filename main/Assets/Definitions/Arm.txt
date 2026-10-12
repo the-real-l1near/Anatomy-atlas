@@ -162,6 +162,10 @@ The ball and socket shoulder joint allows for movement of the arms in a wide cir
 
 
 https://en.wikipedia.org/wiki/Arm
+;;;VI;;;
+
+Cánh tay là đoạn chi trên giữa vai và khuỷu, có xương cánh tay cùng các cơ gấp và duỗi khuỷu.
+
 ;;;ES;;;
 
 

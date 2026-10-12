@@ -25,6 +25,10 @@ For exemple, in the wrist and hand:
 
 
 https://en.wikipedia.org/wiki/Accessory_bone
+;;;VI;;;
+
+Xương thừa là xương phụ hình thành do biến thể cốt hóa, thường nằm gần xương khác và có thể bị nhầm với mảnh gãy trên hình ảnh học.
+
 ;;;ES;;;
 
 

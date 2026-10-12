@@ -576,6 +576,10 @@ Once an established plan has been constructed using the wax-ups, these can be us
 
 
 https://en.wikipedia.org/wiki/Occlusion_(dentistry)
+;;;VI;;;
+
+Mặt nhai là bề mặt của răng hàm tiếp xúc với răng đối diện khi nhai.
+
 ;;;ES;;;
 
 

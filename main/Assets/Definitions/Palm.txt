@@ -70,6 +70,10 @@ Palm, ISO 15924 code for Palmyrene script
 
 
 https://en.wikipedia.org/wiki/Palm
+;;;VI;;;
+
+Lòng bàn tay là mặt trước bàn tay, chứa các cơ nội tại, gân gấp và các cấu trúc mạch-thần kinh.
+
 ;;;ES;;;
 
 

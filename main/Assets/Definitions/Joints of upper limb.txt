@@ -30,6 +30,10 @@ JOINTS OF UPPER LIMB:
                 -Intermetacarpal joints
                 -Metacarpophalangeal joints
                 -Interphalangeal joints of hand
+;;;VI;;;
+
+Các khớp chi trên gồm khớp đai vai và khớp chi tự do: khớp ức-đòn, cùng-đòn, vai, khuỷu, quay-trụ, cổ tay và các khớp bàn-ngón.
+
 ;;;ES;;;
 
 

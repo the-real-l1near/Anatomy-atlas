@@ -4,6 +4,10 @@ BASE OF MANDIBLE
 
 
 Inferior portion of the mandible, without the alveolar part of mandible.
+;;;VI;;;
+
+Nền thân xương hàm dưới là bờ dưới dày của thân xương, kéo dài từ vùng cằm đến góc hàm.
+
 ;;;ES;;;
 
 

@@ -8,6 +8,10 @@ On the inferior surface of diaphragm, near the aortic hiatus.
 
 
 Feneis 306.12
+;;;VI;;;
+
+Các hạch hoành dưới nằm dọc mặt dưới cơ hoành, nhận bạch huyết từ cơ hoành và vùng lân cận.
+
 ;;;ES;;;
 
 

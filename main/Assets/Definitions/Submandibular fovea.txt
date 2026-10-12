@@ -10,6 +10,10 @@ It is the location for the submandibular gland.
 
 
 https://en.wikipedia.org/wiki/Submandibular_fovea
+;;;VI;;;
+
+Hố dưới hàm là vùng lõm ở mặt trong xương hàm dưới, tiếp xúc với tuyến dưới hàm.
+
 ;;;ES;;;
 
 

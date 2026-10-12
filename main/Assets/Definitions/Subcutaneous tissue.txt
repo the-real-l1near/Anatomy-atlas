@@ -74,6 +74,10 @@ Subcutaneous tumor
 
 
 https://en.wikipedia.org/wiki/Subcutaneous_tissue
+;;;VI;;;
+
+Mô dưới da nằm giữa lớp bì và các cấu trúc sâu hơn. Mô này chứa mô liên kết, mỡ, mạch máu và thần kinh, đồng thời giúp đệm và cách nhiệt.
+
 ;;;ES;;;
 
 

@@ -68,6 +68,10 @@ Some patients with LBBB, a markedly prolonged QRS (usually > 150 ms), and systol
 
 
 https://en.wikipedia.org/wiki/Left_bundle_branch_block
+;;;VI;;;
+
+Block nhánh trái là rối loạn dẫn truyền điện qua nhánh trái bó nhĩ-thất, làm chậm hoạt hóa tâm thất trái.
+
 ;;;ES;;;
 
 

@@ -13,6 +13,12 @@ See bones of free part of lower limbs:
 -Tibia
 -Fibula
 -Bones of foot
+;;;VI;;;
+
+BỘ XƯƠNG PHẦN TỰ DO CHI DƯỚI
+
+Phần tự do của chi dưới gồm xương đùi, bánh chè, xương chày, xương mác và các xương bàn chân. Phần này nối với khung chậu qua khớp háng và nâng đỡ trọng lượng khi đứng, đi.
+
 ;;;ES;;;
 
 

@@ -6,6 +6,12 @@ DORSAL PART OF MUSCULAR SYSTEM
 -Hypaxial muscles of back
 -Thoracolumbar fascia
 -Epaxial muscles
+;;;VI;;;
+
+PHẦN CƠ LƯNG
+
+Các cơ lưng gồm nhóm nông vận động đai vai và chi trên, nhóm trung gian hỗ trợ hô hấp, cùng nhóm sâu ổn định và vận động cột sống.
+
 ;;;ES;;;
 
 

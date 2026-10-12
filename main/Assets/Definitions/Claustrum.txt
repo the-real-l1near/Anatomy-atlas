@@ -322,6 +322,10 @@ The relationship between animal's movement and how neurons in the dorsocaudal cl
 
 
 https://en.wikipedia.org/wiki/Claustrum
+;;;VI;;;
+
+Vách trong là một lớp chất xám mỏng nằm giữa bao ngoài và bao cực ngoài. Chức năng của cấu trúc này vẫn chưa được hiểu đầy đủ.
+
 ;;;ES;;;
 
 

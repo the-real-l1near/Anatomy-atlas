@@ -12,6 +12,10 @@ This tension is controlled mostly by the endolaryngeal vocalis and the extralary
 
 
 https://en.wikipedia.org/wiki/Cricothyroid_joint
+;;;VI;;;
+
+Khớp nhẫn-giáp nối sụn giáp với sụn nhẫn, cho phép sụn nghiêng để điều chỉnh độ căng dây thanh.
+
 ;;;ES;;;
 
 

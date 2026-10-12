@@ -9,6 +9,10 @@ It surrounds the inferior mesenteric artery, and divides into a number of second
 
 
 https://en.wikipedia.org/wiki/Inferior_mesenteric_plexus
+;;;VI;;;
+
+Đám rối mạc treo tràng dưới đi theo động mạch mạc treo tràng dưới, chi phối thần kinh tự chủ cho đại tràng xuống, sigma và trực tràng trên.
+
 ;;;ES;;;
 
 

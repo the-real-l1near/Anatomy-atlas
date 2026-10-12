@@ -427,8 +427,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Hide Insertions
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
-  m_sharedMaterial: {fileID: -1581911813736466618, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
+  m_sharedMaterial: {fileID: -7290673564147363253, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -510,6 +510,7 @@ MonoBehaviour:
   spanishText: Ocultar Inserciones
   portugueseText: "Ocultar inser\xE7\xF5es"
   frenchText: Masquer les insertions
+  vietnameseText: "\u1EA8n \u0111i\u1EC3m b\xE1m"
 --- !u!1 &684638692238829188
 GameObject:
   m_ObjectHideFlags: 0
@@ -723,8 +724,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Copy
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
-  m_sharedMaterial: {fileID: -1581911813736466618, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
+  m_sharedMaterial: {fileID: -7290673564147363253, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -806,6 +807,7 @@ MonoBehaviour:
   spanishText: Copiar
   portugueseText: "C\xF3pia"
   frenchText: Copier
+  vietnameseText: "Sao ch\xE9p"
 --- !u!1 &1457681151888407819
 GameObject:
   m_ObjectHideFlags: 0
@@ -1180,8 +1182,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Key Colors
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
-  m_sharedMaterial: {fileID: -1581911813736466618, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
+  m_sharedMaterial: {fileID: -7290673564147363253, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1263,6 +1265,7 @@ MonoBehaviour:
   spanishText: Restablecer Colores
   portugueseText: Redefinir cores
   frenchText: Couleurs normales
+  vietnameseText: "\u0110\u1EB7t l\u1EA1i m\xE0u"
 --- !u!1 &1941448081064736902
 GameObject:
   m_ObjectHideFlags: 0
@@ -1332,8 +1335,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Hide Labels
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
-  m_sharedMaterial: {fileID: -1581911813736466618, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
+  m_sharedMaterial: {fileID: -7290673564147363253, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1415,6 +1418,7 @@ MonoBehaviour:
   spanishText: Ocultar Etiquetas
   portugueseText: Ocultar tags
   frenchText: Cacher les labels
+  vietnameseText: "\u1EA8n nh\xE3n"
 --- !u!1 &2019145232779984578
 GameObject:
   m_ObjectHideFlags: 0
@@ -1722,8 +1726,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Show muscles
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
-  m_sharedMaterial: {fileID: -1581911813736466618, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
+  m_sharedMaterial: {fileID: -7290673564147363253, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1805,6 +1809,7 @@ MonoBehaviour:
   spanishText: "Mostrar M\xFAsculos"
   portugueseText: "Mostrar m\xFAsculos"
   frenchText: Afficher les muscles
+  vietnameseText: "Hi\u1EC7n c\u01A1"
 --- !u!1 &2220197099572975576
 GameObject:
   m_ObjectHideFlags: 0
@@ -2036,8 +2041,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Show Labels
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
-  m_sharedMaterial: {fileID: -1581911813736466618, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
+  m_sharedMaterial: {fileID: -7290673564147363253, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2119,6 +2124,7 @@ MonoBehaviour:
   spanishText: Mostrar Etiquetas
   portugueseText: Mostrar etiquetas
   frenchText: Afficher les labels
+  vietnameseText: "Hi\u1EC7n nh\xE3n"
 --- !u!1 &2659105243264967572
 GameObject:
   m_ObjectHideFlags: 0
@@ -2493,8 +2499,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Key Colors
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
-  m_sharedMaterial: {fileID: -1581911813736466618, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
+  m_sharedMaterial: {fileID: -7290673564147363253, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2576,6 +2582,7 @@ MonoBehaviour:
   spanishText: Colores Clave
   portugueseText: Cores chave
   frenchText: Code couleur
+  vietnameseText: "M\xE0u quy \u01B0\u1EDBc"
 --- !u!1 &3567975593315895298
 GameObject:
   m_ObjectHideFlags: 0
@@ -2712,8 +2719,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Move
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
-  m_sharedMaterial: {fileID: -1581911813736466618, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
+  m_sharedMaterial: {fileID: -7290673564147363253, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2795,6 +2802,7 @@ MonoBehaviour:
   spanishText: Mover
   portugueseText: Mover
   frenchText: "D\xE9placer"
+  vietnameseText: "Di chuy\u1EC3n"
 --- !u!1 &3853905956794392448
 GameObject:
   m_ObjectHideFlags: 0
@@ -3466,8 +3474,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Isolate
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
-  m_sharedMaterial: {fileID: -1581911813736466618, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
+  m_sharedMaterial: {fileID: -7290673564147363253, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3549,6 +3557,7 @@ MonoBehaviour:
   spanishText: Aislar
   portugueseText: Isolar
   frenchText: Isoler
+  vietnameseText: "T\xE1ch ri\xEAng"
 --- !u!1 &3853905957568995409
 GameObject:
   m_ObjectHideFlags: 0
@@ -3685,8 +3694,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Add Note
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
-  m_sharedMaterial: {fileID: -1581911813736466618, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
+  m_sharedMaterial: {fileID: -7290673564147363253, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3768,6 +3777,7 @@ MonoBehaviour:
   spanishText: "A\xF1adir Nota"
   portugueseText: Adicionar nota
   frenchText: Ajouter une note
+  vietnameseText: "Th\xEAm ghi ch\xFA"
 --- !u!1 &3853905957700921477
 GameObject:
   m_ObjectHideFlags: 0
@@ -4151,8 +4161,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Partially Isolate
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
-  m_sharedMaterial: {fileID: -1581911813736466618, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
+  m_sharedMaterial: {fileID: -7290673564147363253, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4234,6 +4244,7 @@ MonoBehaviour:
   spanishText: Aislar Parcialmente
   portugueseText: Isolar Parcialmente
   frenchText: Isoler partiellement
+  vietnameseText: "T\xE1ch ri\xEAng m\u1ED9t ph\u1EA7n"
 --- !u!1 &3853905958174550741
 GameObject:
   m_ObjectHideFlags: 0
@@ -4880,8 +4891,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Hide
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
-  m_sharedMaterial: {fileID: -1581911813736466618, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
+  m_sharedMaterial: {fileID: -7290673564147363253, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4963,6 +4974,7 @@ MonoBehaviour:
   spanishText: Esconder
   portugueseText: Esconder
   frenchText: Cacher
+  vietnameseText: "\u1EA8n"
 --- !u!1 &3927900108068620242
 GameObject:
   m_ObjectHideFlags: 0
@@ -6155,8 +6167,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Show muscles
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
-  m_sharedMaterial: {fileID: -1581911813736466618, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
+  m_sharedMaterial: {fileID: -7290673564147363253, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -6238,6 +6250,7 @@ MonoBehaviour:
   spanishText: "Mostrar M\xFAsculos"
   portugueseText: "Mostrar m\xFAsculos"
   frenchText: Afficher les muscles
+  vietnameseText: "Hi\u1EC7n c\u01A1"
 --- !u!1 &5678502376802713171
 GameObject:
   m_ObjectHideFlags: 0
@@ -7003,8 +7016,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Structures
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
-  m_sharedMaterial: {fileID: -1581911813736466618, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
+  m_sharedMaterial: {fileID: -7290673564147363253, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -7086,6 +7099,7 @@ MonoBehaviour:
   spanishText: Estructuras
   portugueseText: Estruturas
   frenchText: Groupes
+  vietnameseText: "C\u1EA5u tr\xFAc"
 --- !u!1 &7173093390459123104
 GameObject:
   m_ObjectHideFlags: 0
@@ -7155,8 +7169,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Reset Position
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
-  m_sharedMaterial: {fileID: -1581911813736466618, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
+  m_sharedMaterial: {fileID: -7290673564147363253, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -7238,6 +7252,7 @@ MonoBehaviour:
   spanishText: "Restablecer Posici\xF3n"
   portugueseText: "Redefinir posi\xE7\xE3o"
   frenchText: Position initiale
+  vietnameseText: "\u0110\u1EB7t l\u1EA1i v\u1ECB tr\xED"
 --- !u!1 &7238408880374421919
 GameObject:
   m_ObjectHideFlags: 0
@@ -7612,8 +7627,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Show Nerves
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
-  m_sharedMaterial: {fileID: -1581911813736466618, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
+  m_sharedMaterial: {fileID: -7290673564147363253, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -7695,6 +7710,7 @@ MonoBehaviour:
   spanishText: Mostrar Nervios
   portugueseText: Mostrar nervos
   frenchText: Afficher les nerfs
+  vietnameseText: "Hi\u1EC7n th\u1EA7n kinh"
 --- !u!1 &7680848291185060864
 GameObject:
   m_ObjectHideFlags: 0
@@ -7898,8 +7914,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Show Insertions
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
-  m_sharedMaterial: {fileID: -1581911813736466618, guid: 4e92ac69ab62c4d489467a641bb25c76, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
+  m_sharedMaterial: {fileID: -7290673564147363253, guid: 53658bd8e6db1459091cf2129f2f3d3e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -7981,6 +7997,7 @@ MonoBehaviour:
   spanishText: Mostrar Inserciones
   portugueseText: "Mostrar inser\xE7\xF5es"
   frenchText: Afficher les insertions
+  vietnameseText: "Hi\u1EC7n \u0111i\u1EC3m b\xE1m"
 --- !u!1 &8039791250974822617
 GameObject:
   m_ObjectHideFlags: 0

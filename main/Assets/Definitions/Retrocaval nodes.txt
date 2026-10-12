@@ -4,6 +4,10 @@ RETROCAVAL NODES
 
 
 The retrocaval nodes are located behind the inferior vena cava.
+;;;VI;;;
+
+Các hạch sau tĩnh mạch chủ nằm phía sau tĩnh mạch chủ dưới, nhận bạch huyết từ thận và vùng bụng.
+
 ;;;ES;;;
 
 

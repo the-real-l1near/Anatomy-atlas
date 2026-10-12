@@ -4,6 +4,10 @@ CUBITAL NODES
 
 
 One or two lymph nodes along the brachial artery inside the cubital fossa.
+;;;VI;;;
+
+Các hạch khuỷu nằm gần vùng khuỷu trong, nhận bạch huyết từ bàn tay và cẳng tay trước khi dẫn lên hạch nách.
+
 ;;;ES;;;
 
 

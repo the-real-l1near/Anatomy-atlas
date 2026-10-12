@@ -4,6 +4,10 @@ STRAIGHT PART OF CRICOTHYROID MUSCLE
 
 
 Anterior fibers of the cricothyroid muscle, mostly vertically oriented.
+;;;VI;;;
+
+Phần thẳng cơ nhẫn-giáp đi từ cung sụn nhẫn lên bờ dưới sụn giáp, làm căng dây thanh.
+
 ;;;ES;;;
 
 

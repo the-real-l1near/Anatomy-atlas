@@ -4,6 +4,10 @@ LOBULE OF AURICLE
 
 
 Inferior extremity of the auricle, without cartilage.
+;;;VI;;;
+
+Dái tai là phần mềm dưới cùng của vành tai, không có sụn và giàu mô liên kết.
+
 ;;;ES;;;
 
 

@@ -8,6 +8,10 @@ On the side of the back.
 
 
 Feneis 4.15
+;;;VI;;;
+
+Phía lưng là hướng về mặt sau cơ thể.
+
 ;;;ES;;;
 
 

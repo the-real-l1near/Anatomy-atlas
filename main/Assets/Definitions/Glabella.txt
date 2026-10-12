@@ -11,6 +11,10 @@ It is a cephalometric landmark that is just superior to the nasion.
 
 
 https://en.wikipedia.org/wiki/Glabella
+;;;VI;;;
+
+Gian mày là vùng nhẵn ở đường giữa giữa hai cung mày, trên gốc mũi.
+
 ;;;ES;;;
 
 

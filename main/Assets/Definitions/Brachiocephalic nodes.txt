@@ -14,6 +14,10 @@ Evacuation:
     
     
 Feneis 304.7
+;;;VI;;;
+
+Các hạch cánh tay đầu nằm gần các tĩnh mạch cánh tay đầu trong trung thất trên và tiếp nhận bạch huyết từ các vùng lân cận.
+
 ;;;ES;;;
 
 

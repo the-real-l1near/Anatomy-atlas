@@ -4,6 +4,10 @@ REFERENCE PLANES
 
 
 There are three basic reference planes used in anatomy: the sagittal plane, the coronal plane, and the transverse plane
+;;;VI;;;
+
+Các mặt phẳng giải phẫu chuẩn gồm mặt phẳng giữa, mặt phẳng trán và mặt phẳng ngang.
+
 ;;;ES;;;
 
 

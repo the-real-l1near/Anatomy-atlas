@@ -266,6 +266,12 @@ Hyposecretion of insulin results in diabetes mellitus; cardinal signs are polyur
 
 
 https://en.wikipedia.org/wiki/Endocrine_gland
+;;;VI;;;
+
+CÁC TUYẾN NỘI TIẾT
+
+Các tuyến nội tiết tiết hormone trực tiếp vào máu. Những tuyến chính gồm tuyến yên, tuyến giáp, tuyến cận giáp, tuyến thượng thận, tuyến tùng, tuyến ức, tụy nội tiết và tuyến sinh dục.
+
 ;;;ES;;;
 
 

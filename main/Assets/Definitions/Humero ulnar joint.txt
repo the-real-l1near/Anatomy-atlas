@@ -6,6 +6,10 @@ HUMERO-ULNAR JOINT
 From the trochlear notch of the ulna to the trochlea of humerus.
  	
 It is a simple hinge-joint, and allows for movements of flexion and extension only.
+;;;VI;;;
+
+Khớp cánh tay-trụ là phần bản lề của khớp khuỷu, giữa ròng rọc xương cánh tay và khuyết ròng rọc xương trụ.
+
 ;;;ES;;;
 
 

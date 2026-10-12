@@ -224,6 +224,10 @@ In contract, hyperkeratosis is a thickening of the stratum corneum, and is not n
 
 
 https://en.wikipedia.org/wiki/Epidermis
+;;;VI;;;
+
+Biểu bì là lớp ngoài cùng của da, tạo hàng rào bảo vệ cơ thể. Lớp này không có mạch máu và liên tục được đổi mới.
+
 ;;;ES;;;
 
 

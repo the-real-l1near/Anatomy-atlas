@@ -14,6 +14,10 @@ The midsternal line can be interpreted as a segment of the median plane.
 
 
 https://en.wikipedia.org/wiki/Median_plane
+;;;VI;;;
+
+Mặt phẳng giữa là mặt phẳng dọc chia cơ thể thành hai nửa phải và trái tương đương.
+
 ;;;ES;;;
 
 

@@ -14,6 +14,10 @@ Cells in this nucleus project to deeper laminae of the spinal cord, to the poste
 Rexed laminae III and IV make up the nucleus proprius.
 
 The nucleus proprius (NP), along with the substantia gelatinosa of Rolando are involved in sensing pain and temperature.
+;;;VI;;;
+
+Nhân riêng ở sừng sau tủy sống tiếp nhận và xử lý các tín hiệu cảm giác từ da.
+
 ;;;ES;;;
 
 

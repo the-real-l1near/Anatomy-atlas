@@ -829,6 +829,14 @@ In research using EMG, a maximal voluntary contraction (MVC) is commonly perform
 
 
 https://en.wikipedia.org/wiki/Skeletal_muscle
+;;;VI;;;
+
+CƠ VÂN
+
+Cơ vân, thường gọi là cơ xương, là các cơ chủ yếu bám vào xương thông qua gân. Khi co và giãn, chúng tạo ra các vận động chủ động và giúp duy trì tư thế.
+
+Các sợi cơ vân có những vân ngang do cấu trúc sarcomere sắp xếp đều đặn. Hoạt động của phần lớn cơ vân được điều khiển có ý thức thông qua hệ thần kinh thân thể. Cơ tim cũng có vân ngang, còn cơ trơn thì không có vân ngang và thường hoạt động ngoài ý muốn.
+
 ;;;ES;;;
 
 

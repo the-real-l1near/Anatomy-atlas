@@ -17,6 +17,10 @@ Press 'Alt+R'
     
 Press 'T' 
     to open/close the Toolbar
+;;;VI;;;
+
+Thao tác mô hình cho phép chọn, xoay, di chuyển hoặc điều chỉnh cấu trúc trên giao diện.
+
 ;;;ES;;;
 
 

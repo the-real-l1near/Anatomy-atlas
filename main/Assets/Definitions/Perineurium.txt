@@ -43,6 +43,10 @@ The axon will be able to regenerate itself at a rate of 3 cm per month, generall
 
 
 https://en.wikipedia.org/wiki/Perineurium
+;;;VI;;;
+
+Trung thần kinh là lớp mô liên kết bao quanh từng bó sợi thần kinh trong dây thần kinh ngoại biên.
+
 ;;;ES;;;
 
 

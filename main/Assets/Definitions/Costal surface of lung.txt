@@ -4,6 +4,10 @@ COSTAL SURFACE OF LUNG
 
 
 Surface of the lung facing the ribs.
+;;;VI;;;
+
+Mặt sườn của phổi lồi và áp sát mặt trong thành ngực, tương ứng với các xương sườn.
+
 ;;;ES;;;
 
 

@@ -494,6 +494,14 @@ The goals of the EyeWire project are to identify specific cell types within the 
 
 
 https://en.wikipedia.org/wiki/Retina
+;;;VI;;;
+
+VÕNG MẠC
+
+Võng mạc là lớp mô nhạy sáng lót mặt trong phía sau của nhãn cầu. Võng mạc tiếp nhận ánh sáng đã được giác mạc và thủy tinh thể hội tụ, rồi chuyển kích thích ánh sáng thành tín hiệu thần kinh.
+
+Các tế bào que hỗ trợ nhìn trong điều kiện ánh sáng yếu; các tế bào nón giúp phân biệt màu sắc và nhìn chi tiết. Tín hiệu từ võng mạc được truyền đến não qua dây thần kinh thị giác.
+
 ;;;ES;;;
 
 

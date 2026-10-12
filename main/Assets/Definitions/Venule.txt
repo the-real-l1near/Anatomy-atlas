@@ -32,6 +32,10 @@ They are the smallest united common branch in the human body.
 
 
 https://en.wikipedia.org/wiki/Venule
+;;;VI;;;
+
+Tiểu tĩnh mạch là mạch máu nhỏ nhận máu từ mao mạch và hợp lại thành các tĩnh mạch lớn hơn.
+
 ;;;ES;;;
 
 

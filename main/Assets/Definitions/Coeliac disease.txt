@@ -662,6 +662,10 @@ In the subset of people who have gluten sensitivity there is limited evidence th
 
 
 https://en.wikipedia.org/wiki/Coeliac_disease
+;;;VI;;;
+
+Bệnh celiac là bệnh tự miễn do phản ứng với gluten, gây tổn thương niêm mạc ruột non và kém hấp thu ở người nhạy cảm.
+
 ;;;ES;;;
 
 

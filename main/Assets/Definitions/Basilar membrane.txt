@@ -108,6 +108,10 @@ Hyperpolarization causes less calcium influx, thus less neurotransmitter release
 
 
 https://en.wikipedia.org/wiki/Basilar_membrane
+;;;VI;;;
+
+Màng đáy nằm trong ốc tai và đỡ cơ quan Corti. Các vùng khác nhau của màng rung ưu tiên ở những tần số âm thanh khác nhau.
+
 ;;;ES;;;
 
 

@@ -13,6 +13,10 @@ Feneis 248.18
 
 
 
+;;;VI;;;
+
+Động mạch chẩm trong là nhánh nhỏ cấp máu cho mặt trong vùng chẩm và cấu trúc lân cận.
+
 ;;;ES;;;
 
 

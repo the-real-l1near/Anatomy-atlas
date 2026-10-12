@@ -133,6 +133,12 @@ Because of its regenerative capacity, damage to the olfactory epithelium can be 
 
 
 https://en.wikipedia.org/wiki/Olfactory_epithelium
+;;;VI;;;
+
+BIỂU MÔ KHỨU GIÁC
+
+Biểu mô khứu giác nằm ở phần trên hốc mũi, chứa các neuron thụ thể khứu giác cùng tế bào nâng đỡ. Các thụ thể nhận diện phân tử mùi và truyền tín hiệu đến hành khứu giác.
+
 ;;;ES;;;
 
 

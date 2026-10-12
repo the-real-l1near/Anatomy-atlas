@@ -13,6 +13,10 @@ The term "cells" refers to enclosed spaces, not cells as living, biological unit
 
 
 https://en.wikipedia.org/wiki/Mastoid_cells
+;;;VI;;;
+
+Các tế bào chũm là những hốc khí trong phần chũm xương thái dương, thông với hang chũm và tai giữa.
+
 ;;;ES;;;
 
 

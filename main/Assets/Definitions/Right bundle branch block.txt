@@ -81,6 +81,10 @@ It's estimated up to 11.3% of the population by the age of 80 have RBBB.
 
 
 https://en.wikipedia.org/wiki/Right_bundle_branch_block
+;;;VI;;;
+
+Block nhánh phải là rối loạn dẫn truyền qua nhánh phải bó nhĩ-thất, làm chậm hoạt hóa tâm thất phải.
+
 ;;;ES;;;
 
 

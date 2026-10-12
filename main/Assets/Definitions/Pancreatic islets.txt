@@ -103,6 +103,12 @@ Endocrine progenitor cells differentiate by migrating in cohesion and forming bu
 
 
 https://en.wikipedia.org/wiki/Pancreatic_islets
+;;;VI;;;
+
+ĐẢO TỤY
+
+Đảo tụy là các cụm tế bào nội tiết rải rác trong tuyến tụy. Tế bào beta tiết insulin, tế bào alpha tiết glucagon và các loại tế bào khác tiết hormone điều hòa đường huyết, tiêu hóa.
+
 ;;;ES;;;
 
 

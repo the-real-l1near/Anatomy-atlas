@@ -39,6 +39,10 @@ Pseudoganglia are found in the teres minor muscle and radial nerve.
 
 
 https://en.wikipedia.org/wiki/Ganglion
+;;;VI;;;
+
+Hạch thần kinh là tập hợp thân tế bào neuron nằm ngoài hệ thần kinh trung ương. Hạch có thể mang chức năng cảm giác hoặc tự chủ.
+
 ;;;ES;;;
 
 

@@ -6,6 +6,12 @@ ANTERIOR REGION OF NECK
 -Anterior triangle of neck
 -Suprahyoid region
 -Infrahyoid region
+;;;VI;;;
+
+VÙNG CỔ TRƯỚC
+
+Vùng cổ trước nằm phía trước hai cơ ức đòn chũm. Vùng chứa xương móng, thanh quản, khí quản, tuyến giáp, thực quản, các cơ dưới móng và bó mạch-thần kinh cổ.
+
 ;;;ES;;;
 
 

@@ -39,6 +39,10 @@ The movements permitted between these bones are limited to a slight gliding upon
 
 
 https://en.wikipedia.org/wiki/Intercuneiform_joints
+;;;VI;;;
+
+Các khớp gian chêm nối ba xương chêm với nhau ở giữa bàn chân.
+
 ;;;ES;;;
 
 

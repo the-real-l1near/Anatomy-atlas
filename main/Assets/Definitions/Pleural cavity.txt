@@ -188,6 +188,12 @@ Pleural tumors: abnormal growths on the pleurae.
 
 
 https://en.wikipedia.org/wiki/Pleural_cavity
+;;;VI;;;
+
+KHOANG MÀNG PHỔI
+
+Khoang màng phổi là khoang ảo giữa lá thành và lá tạng màng phổi. Khoang chứa một lớp dịch mỏng giúp hai lá trượt lên nhau; áp suất trong khoang góp phần giữ phổi nở theo thành ngực khi hô hấp.
+
 ;;;ES;;;
 
 

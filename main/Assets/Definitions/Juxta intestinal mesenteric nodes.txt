@@ -4,6 +4,10 @@ JUXTA-INTESTINAL MESENTERIC NODES
 
 
 Those of the superior mesenteric nodes located very close to the small intestine.
+;;;VI;;;
+
+Các hạch sát ruột trong mạc treo nằm gần thành ruột non, nhận bạch huyết từ ruột và dẫn về các hạch trung gian.
+
 ;;;ES;;;
 
 

@@ -68,6 +68,10 @@ Typically located at the level of S1.
 
 
 https://en.wikipedia.org/wiki/Transverse_plane
+;;;VI;;;
+
+Mặt phẳng ngang chia cơ thể thành phần trên và phần dưới.
+
 ;;;ES;;;
 
 

@@ -39,6 +39,10 @@ Some of the postganglionic fibers reach the sublingual gland after they re-enter
 
 
 https://en.wikipedia.org/wiki/Submandibular_ganglion
+;;;VI;;;
+
+Hạch dưới hàm nằm gần tuyến dưới hàm, chuyển tiếp sợi phó giao cảm đến tuyến dưới hàm và dưới lưỡi.
+
 ;;;ES;;;
 
 

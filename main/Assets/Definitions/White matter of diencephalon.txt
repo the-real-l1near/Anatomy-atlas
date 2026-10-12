@@ -23,6 +23,10 @@ The white matter of the diencephalon includes:
 -medial forebrain bundle
 -hypothalamohypophysial tract
 -retinohypothalamic tract
+;;;VI;;;
+
+Chất trắng gian não gồm các bó sợi nối đồi thị, vùng dưới đồi và các cấu trúc khác.
+
 ;;;ES;;;
 
 

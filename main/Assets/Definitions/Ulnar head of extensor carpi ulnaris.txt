@@ -6,6 +6,10 @@ ULNAR HEAD OF EXTENSOR CARPI ULNARIS
 Origin: Posterior surface of ulna.
 
 See also: Extensor carpi ulnaris
+;;;VI;;;
+
+Đầu trụ cơ duỗi cổ tay trụ xuất phát từ xương trụ và góp phần duỗi, khép cổ tay.
+
 ;;;ES;;;
 
 

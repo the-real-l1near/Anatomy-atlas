@@ -9,6 +9,10 @@ Origin: In front, on the internal surface of the thyroid cartilage.
 Insertion: epiglottis and quadrangular membrane.
 
 Innervation: recurrent laryngeal nerve.
+;;;VI;;;
+
+Phần giáp-nắp thanh môn của cơ giáp-phễu đi đến nắp thanh môn, giúp hạ nắp thanh môn khi nuốt.
+
 ;;;ES;;;
 
 

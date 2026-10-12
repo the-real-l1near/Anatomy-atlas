@@ -5,6 +5,12 @@ STERNUM
     Body of sternum
     Xyphoid process
     Costal notches
+;;;VI;;;
+
+CÁC MỐC XƯƠNG ỨC
+
+Các mốc xương ức gồm khuyết cảnh, khuyết đòn, góc ức, thân xương và mỏm mũi kiếm. Các mốc giúp định vị sụn sườn và các cấu trúc lồng ngực.
+
 ;;;ES;;;
 
 ESTERNÓN

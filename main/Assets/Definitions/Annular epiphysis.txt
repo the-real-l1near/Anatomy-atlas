@@ -4,6 +4,10 @@ ANNULAR EPIPHYSIS
 
 
 Bony epiphysiary ring on the periphery of the vertebral body (body of vertebra).
+;;;VI;;;
+
+Đầu xương hình vòng là phần đầu xương có diện khớp bao quanh thân xương, gặp ở một số xương như đốt sống.
+
 ;;;ES;;;
 
 

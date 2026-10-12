@@ -4,6 +4,12 @@ DELTOID REGION
 
 
 Covering the deltoid muscle.
+;;;VI;;;
+
+VÙNG DELTA
+
+Vùng delta phủ ngoài khớp vai và tương ứng với cơ delta. Vùng này nối vai với cánh tay, có mỏm cùng vai ở phía trên và lồi củ delta ở mặt ngoài xương cánh tay.
+
 ;;;ES;;;
 
 

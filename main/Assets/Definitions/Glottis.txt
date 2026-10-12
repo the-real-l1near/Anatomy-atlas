@@ -37,6 +37,12 @@ Voiceless consonants include /f/, /s/, /ʃ/, /t͡ʃ/, /θ/, /p/, /t/, /k/, /ʍ/,
 
 
 https://en.wikipedia.org/wiki/Glottis
+;;;VI;;;
+
+THANH MÔN
+
+Thanh môn là vùng của thanh quản gồm hai nếp thanh âm và khe thanh môn ở giữa. Kích thước khe thay đổi khi thở, phát âm hoặc ho. Luồng khí làm rung các nếp thanh âm để tạo âm thanh; các cấu trúc phía trên thanh môn góp phần định hình giọng nói.
+
 ;;;ES;;;
 
 

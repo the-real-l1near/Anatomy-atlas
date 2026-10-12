@@ -11,6 +11,10 @@ As an example, when a person is typing on a computer keyboard, their hands are p
 
 
 https://en.wikipedia.org/wiki/Anatomical_terms_of_motion#Pronation_and_supination
+;;;VI;;;
+
+Sấp cẳng tay là động tác xoay xương quay bắt chéo qua xương trụ, đưa lòng bàn tay hướng xuống hoặc ra sau.
+
 ;;;ES;;;
 
 

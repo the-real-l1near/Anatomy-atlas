@@ -4,6 +4,10 @@ MEDIAL COMMON ILIAC NODES
 
 
 Those of the common iliac nodes located on the medial side of the vascular axis.
+;;;VI;;;
+
+Các hạch chậu chung trong nằm dọc phía trong bó mạch chậu chung, nhận bạch huyết từ vùng chậu.
+
 ;;;ES;;;
 
 

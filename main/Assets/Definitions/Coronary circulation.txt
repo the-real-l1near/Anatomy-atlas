@@ -204,6 +204,10 @@ The coronary arteries are classified as "end circulation", since they represent 
 
 
 https://en.wikipedia.org/wiki/Coronary_circulation
+;;;VI;;;
+
+Tuần hoàn vành đưa máu đến cơ tim qua động mạch vành và đưa máu trở về qua các tĩnh mạch tim, phần lớn đổ vào xoang vành.
+
 ;;;ES;;;
 
 

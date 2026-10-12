@@ -68,6 +68,10 @@ Abnormally increased torsion angles results in a limb turned inward and a decrea
 
 
 https://en.wikipedia.org/wiki/Human_leg
+;;;VI;;;
+
+Các xương chi dưới gồm xương chậu, xương đùi, bánh chè, xương chày, xương mác và các xương bàn chân.
+
 ;;;ES;;;
 
 

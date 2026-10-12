@@ -127,6 +127,10 @@ Damage may impair one or more of the below functions.
 
 
 https://en.wikipedia.org/wiki/Angular_gyrus
+;;;VI;;;
+
+Hồi góc nằm ở phần sau dưới thùy đỉnh, quanh đầu sau rãnh thái dương trên; vùng này tham gia đọc, viết và xử lý ngôn ngữ.
+
 ;;;ES;;;
 
 

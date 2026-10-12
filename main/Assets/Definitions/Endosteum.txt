@@ -14,6 +14,10 @@ To prevent the bone from becoming unnecessarily thick, osteoclasts resorb the bo
 
 
 https://en.wikipedia.org/wiki/Endosteum
+;;;VI;;;
+
+Màng xương trong lót các khoang bên trong xương, gồm khoang tủy và các bè xương. Màng chứa tế bào tham gia tái tạo xương.
+
 ;;;ES;;;
 
 

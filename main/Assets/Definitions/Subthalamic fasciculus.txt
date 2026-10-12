@@ -8,6 +8,10 @@ The subthalamic fasciculus is a bi-directional neural tract that connects the su
 
 
 https://en.wikipedia.org/wiki/Subthalamic_fasciculus
+;;;VI;;;
+
+Bó dưới đồi thị nối cầu nhạt với nhân dưới đồi thị trong vòng điều hòa vận động.
+
 ;;;ES;;;
 
 

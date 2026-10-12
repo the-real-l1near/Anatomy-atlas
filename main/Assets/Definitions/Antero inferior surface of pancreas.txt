@@ -4,6 +4,10 @@ ANTERO-INFERIOR SURFACE OF PANCREAS
 
 
 Limited by the anterior border of pancreas -where the transverse mesocolon is inserted- and the inferior border of pancreas.
+;;;VI;;;
+
+Mặt trước-dưới tụy hướng về các quai ruột và mạc treo đại tràng ngang.
+
 ;;;ES;;;
 
 

@@ -198,6 +198,10 @@ The density of cones in a typical bird's fovea has 400,000 cones per millimeter 
 
 
 https://en.wikipedia.org/wiki/Fovea_centralis
+;;;VI;;;
+
+Hố trung tâm nằm ở trung tâm hoàng điểm võng mạc, có mật độ tế bào nón cao nhất và cho thị lực sắc nét nhất.
+
 ;;;ES;;;
 
 

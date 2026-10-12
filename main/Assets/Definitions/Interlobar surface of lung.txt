@@ -4,6 +4,10 @@ INTERLOBAR SURFACE OF LUNG
 
 
 Pulmonary surface between the pulmonary lobes, within the fissures.
+;;;VI;;;
+
+Mặt liên thùy phổi là mặt được phủ bởi màng phổi tạng, tiếp giáp với thùy phổi kế cận qua khe liên thùy.
+
 ;;;ES;;;
 
 

@@ -5,6 +5,12 @@ ABDOMINAL PART OF MUSCULAR SYSTEM
 
     Muscles of abdomen
     Fasciae of abdomen
+;;;VI;;;
+
+PHẦN CƠ BỤNG
+
+Các cơ bụng tạo thành thành bụng trước-bên và sau, bảo vệ tạng, hỗ trợ vận động thân mình, hô hấp và tăng áp lực ổ bụng. Nhóm chính gồm cơ chéo bụng ngoài, chéo bụng trong, ngang bụng và thẳng bụng.
+
 ;;;ES;;;
 
 

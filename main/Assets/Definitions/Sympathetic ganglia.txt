@@ -75,6 +75,10 @@ These include the celiac ganglia, superior mesenteric ganglia, and inferior mese
 
 
 https://en.wikipedia.org/wiki/Sympathetic_ganglia
+;;;VI;;;
+
+Các hạch giao cảm chứa neuron sau hạch của hệ giao cảm, chuyển tiếp tín hiệu đến cơ quan đích.
+
 ;;;ES;;;
 
 

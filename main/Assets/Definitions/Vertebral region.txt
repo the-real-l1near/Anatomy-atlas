@@ -4,6 +4,12 @@ VERTEBRAL REGION
 
 
 Band covering the vertebral column.
+;;;VI;;;
+
+VÙNG CỘT SỐNG
+
+Vùng cột sống là dải giữa lưng chạy dọc theo các mỏm gai từ cổ đến cùng. Vùng này phủ lên cột sống và các cơ cạnh sống.
+
 ;;;ES;;;
 
 

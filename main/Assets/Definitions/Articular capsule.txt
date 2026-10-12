@@ -37,6 +37,10 @@ Plica syndrome is a disorder in which the synovial plica becomes inflamed and ca
 
 
 https://en.wikipedia.org/wiki/Joint_capsule
+;;;VI;;;
+
+Bao khớp là lớp mô bao quanh một khớp hoạt dịch, gồm lớp xơ bên ngoài và màng hoạt dịch bên trong. Bao khớp giữ các đầu xương gần nhau và khép kín ổ khớp.
+
 ;;;ES;;;
 
 

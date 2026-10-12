@@ -21,6 +21,10 @@ PTCentral
 
 
 https://en.wikipedia.org/wiki/Levator_anguli_oris
+;;;VI;;;
+
+Cơ nâng góc miệng kéo góc miệng lên, hỗ trợ biểu cảm cười.
+
 ;;;ES;;;
 
 

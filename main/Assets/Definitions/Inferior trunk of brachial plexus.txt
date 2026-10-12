@@ -34,6 +34,10 @@ The cords are named by their position with respect to the axillary artery.
     
     
 https://en.wikipedia.org/wiki/Brachial_plexus#Trunks
+;;;VI;;;
+
+Thân dưới đám rối cánh tay được tạo bởi nhánh trước C8-T1, góp phần tạo các bó trong và sau.
+
 ;;;ES;;;
 
 

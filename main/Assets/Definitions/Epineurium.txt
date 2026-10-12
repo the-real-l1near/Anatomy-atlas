@@ -33,6 +33,10 @@ The epineurium is an effective barrier against axon growth.
 
 
 https://en.wikipedia.org/wiki/Epineurium
+;;;VI;;;
+
+Ngoại thần kinh là lớp mô liên kết dày bao quanh toàn bộ một dây thần kinh ngoại biên.
+
 ;;;ES;;;
 
 

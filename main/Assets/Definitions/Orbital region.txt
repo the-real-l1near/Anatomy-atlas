@@ -8,6 +8,12 @@ The eyes are referred to as the orbital region (or ocular region)
 
 
 See: Orbit
+;;;VI;;;
+
+VÙNG Ổ MẮT
+
+Vùng ổ mắt bao quanh mắt và bờ ổ mắt. Ổ mắt chứa nhãn cầu, các cơ vận nhãn, thần kinh thị giác, mạch máu, tuyến lệ và mô mỡ.
+
 ;;;ES;;;
 
 

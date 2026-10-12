@@ -403,6 +403,10 @@ With this forearm configuration, the ulna supports the radius and maximum stabil
 
 
 https://en.wikipedia.org/wiki/Elbow
+;;;VI;;;
+
+Khuỷu là vùng nối cánh tay với cẳng tay, bao gồm khớp cánh tay-trụ, cánh tay-quay và quay-trụ gần.
+
 ;;;ES;;;
 
 

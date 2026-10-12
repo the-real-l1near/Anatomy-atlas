@@ -4,6 +4,12 @@ INFRAMAMMARY REGION
 
 
 Located under the mammary region.
+;;;VI;;;
+
+VÙNG DƯỚI VÚ
+
+Vùng dưới vú nằm ngay dưới nếp lằn vú, trên thành ngực trước. Mốc này thường được dùng để mô tả vị trí trên thành ngực.
+
 ;;;ES;;;
 
 

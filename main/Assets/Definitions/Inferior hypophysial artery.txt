@@ -41,6 +41,10 @@ The inferior hypophysial artery was first identified in 1860 by Hubert von Lusch
 
 
 https://en.wikipedia.org/wiki/Inferior_hypophysial_artery
+;;;VI;;;
+
+Động mạch tuyến yên dưới thường xuất phát từ động mạch cảnh trong và cấp máu chủ yếu cho thùy sau tuyến yên.
+
 ;;;ES;;;
 
 

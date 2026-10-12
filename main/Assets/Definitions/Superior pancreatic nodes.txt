@@ -4,6 +4,10 @@ SUPERIOR PANCREATIC NODES
 
 
 On the superior border of pancreas.
+;;;VI;;;
+
+Các hạch tụy trên nằm dọc bờ trên tụy và động mạch lách, nhận bạch huyết từ tụy.
+
 ;;;ES;;;
 
 

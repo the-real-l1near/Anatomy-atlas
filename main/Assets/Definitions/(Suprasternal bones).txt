@@ -3,6 +3,10 @@
 (SUPRASTERNAL BONES)
 
     Inconstant small bony vestiges of the primitive episternum in the ligaments of the sternoclavicular joint.
+;;;VI;;;
+
+Các xương trên ức là những mảnh xương nhỏ biến thiên có thể xuất hiện trong dây chằng ức trên.
+
 ;;;ES;;;
 
 

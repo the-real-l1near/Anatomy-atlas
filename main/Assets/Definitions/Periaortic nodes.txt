@@ -49,6 +49,10 @@ A dissection usually includes the region from the bifurcation of the aorta to th
 
 
 https://en.wikipedia.org/wiki/Periaortic_lymph_nodes
+;;;VI;;;
+
+Các hạch quanh động mạch chủ nằm dọc động mạch chủ bụng, nhận bạch huyết từ thận, tuyến sinh dục và tạng bụng.
+
 ;;;ES;;;
 
 

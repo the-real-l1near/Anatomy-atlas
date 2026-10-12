@@ -137,6 +137,12 @@ Lymphangiomatosis is a disease involving multiple cysts or lesions formed from l
 
 
 https://en.wikipedia.org/wiki/Lymphatic_vessel
+;;;VI;;;
+
+MẠCH BẠCH HUYẾT
+
+Mạch bạch huyết thu nhận dịch mô và vận chuyển bạch huyết qua các hạch về hệ tĩnh mạch. Mạch nhỏ bắt đầu tận cùng trong mô rồi hợp thành các mạch lớn; van bên trong giúp duy trì dòng chảy một chiều. Mạch bạch huyết cũng vận chuyển chất béo hấp thu từ ruột non.
+
 ;;;ES;;;
 
 

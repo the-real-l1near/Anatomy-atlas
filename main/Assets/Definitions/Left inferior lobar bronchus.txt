@@ -4,6 +4,10 @@ LEFT INFERIOR LOBAR BRONCHUS
 
 
 For the inferior lobe that extends upwards until the fourth thoracic vertebra.
+;;;VI;;;
+
+Phế quản thùy dưới trái là nhánh của phế quản chính trái, dẫn khí đến thùy dưới phổi trái.
+
 ;;;ES;;;
 
 

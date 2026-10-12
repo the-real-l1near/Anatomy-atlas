@@ -6,6 +6,12 @@ CERVICAL PART OF MUSCULAR SYSTEM
     -Muscles of neck
     -Cervical fasciae
     -Cervical bursae
+;;;VI;;;
+
+PHẦN CƠ CỔ
+
+Các cơ cổ vận động và ổn định đầu, cột sống cổ, xương móng và thanh quản. Nhóm cơ gồm cơ nông, cơ trên móng, dưới móng, cơ bên cổ và các cơ sâu trước cột sống.
+
 ;;;ES;;;
 
 

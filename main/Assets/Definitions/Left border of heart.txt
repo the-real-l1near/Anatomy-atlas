@@ -9,6 +9,12 @@ It extends from a point in the second left intercostal space, about 2.5 mm. from
 
 
 https://en.wikipedia.org/wiki/Left_border_of_heart
+;;;VI;;;
+
+BỜ TRÁI CỦA TIM
+
+Bờ trái của tim là đường viền trái trên hình chiếu giải phẫu của tim, chủ yếu được tạo bởi tâm thất trái và một phần tiểu nhĩ trái. Bờ này hướng về phổi trái và góp phần tạo nên bóng tim trên phim X-quang ngực.
+
 ;;;ES;;;
 
 

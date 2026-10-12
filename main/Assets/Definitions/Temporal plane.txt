@@ -60,6 +60,10 @@ When the attended speech stream wasn’t disrupted by background noise a bilater
 
 
 https://en.wikipedia.org/wiki/Superior_temporal_gyrus
+;;;VI;;;
+
+Mặt phẳng thái dương là vùng vỏ não ở phần sau mặt trên hồi thái dương trên, liên quan xử lý ngôn ngữ.
+
 ;;;ES;;;
 
 

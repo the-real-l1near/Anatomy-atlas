@@ -4,6 +4,12 @@ LATERAL REGION OF THORAX
 
 
 Region lateral to the mammary and inframammary regions
+;;;VI;;;
+
+VÙNG NGỰC BÊN
+
+Vùng ngực bên nằm giữa vùng ngực trước và lưng, phủ lên các xương sườn và cơ gian sườn. Vùng này cũng liên quan đến nách ở phía trên.
+
 ;;;ES;;;
 
 

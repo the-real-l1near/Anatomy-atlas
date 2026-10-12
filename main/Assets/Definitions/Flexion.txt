@@ -12,6 +12,10 @@ When a joint can move forward and backward, such as the neck and trunk, flexion 
 When the chin is against the chest, the neck is flexed, and the trunk is flexed when a person leans forward.
 
 Flexion of the shoulder or hip is movement of the arm or leg forward.
+;;;VI;;;
+
+Gấp là động tác làm giảm góc giữa hai phần xương tại một khớp.
+
 ;;;ES;;;
 
 

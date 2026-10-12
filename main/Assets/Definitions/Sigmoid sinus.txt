@@ -22,6 +22,10 @@ Along its course, the sigmoid sinus also receives blood from the cerebral veins,
 
 
 https://en.wikipedia.org/wiki/Sigmoid_sinus
+;;;VI;;;
+
+Xoang sigma dẫn máu từ xoang ngang xuống hành tĩnh mạch cảnh trong qua lỗ tĩnh mạch cảnh.
+
 ;;;ES;;;
 
 

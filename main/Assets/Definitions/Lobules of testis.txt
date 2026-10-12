@@ -13,6 +13,10 @@ Each lobule is contained in one of the intervals between the fibrous septa which
 
 
 https://en.wikipedia.org/wiki/Lobules_of_testis
+;;;VI;;;
+
+Các tiểu thùy tinh hoàn chứa những ống sinh tinh, nơi tạo tinh trùng.
+
 ;;;ES;;;
 
 

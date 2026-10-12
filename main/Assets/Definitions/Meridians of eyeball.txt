@@ -4,6 +4,10 @@ MERIDIANS OF EYEBALL
 
 
 Half circles between the anterior pole of eyeball and posterior pole of eyeball, perpendicular with the equator of eyeball.
+;;;VI;;;
+
+Các kinh tuyến nhãn cầu là những đường tưởng tượng chạy từ cực trước đến cực sau trên bề mặt nhãn cầu.
+
 ;;;ES;;;
 
 

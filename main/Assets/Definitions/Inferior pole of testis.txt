@@ -4,6 +4,10 @@ INFERIOR POLE OF TESTIS
 
 
 Inferior extremity of the testis.
+;;;VI;;;
+
+Cực dưới tinh hoàn là đầu dưới của tinh hoàn, nơi mào tinh tiếp tục thành ống dẫn tinh.
+
 ;;;ES;;;
 
 

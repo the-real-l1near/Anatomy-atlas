@@ -18,6 +18,10 @@ It extends from T1 to L3, and contains the autonomic motor neurons that give ris
 
 
 https://en.wikipedia.org/wiki/Intermediolateral_nucleus
+;;;VI;;;
+
+Nhân trung gian-bên ở tủy ngực và thắt lưng trên chứa neuron giao cảm trước hạch.
+
 ;;;ES;;;
 
 

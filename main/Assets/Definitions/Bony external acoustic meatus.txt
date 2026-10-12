@@ -3,6 +3,10 @@
 BONY EXTERNAL ACOUSTIC MEATUS
 
 Canal driving the sounds from the external acoustic opening of the ear to the tympanic membrane.
+;;;VI;;;
+
+Ống tai ngoài xương là phần ống trong xương thái dương dẫn âm thanh từ lỗ tai ngoài đến màng nhĩ.
+
 ;;;ES;;;
 
 

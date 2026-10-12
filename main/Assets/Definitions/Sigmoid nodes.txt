@@ -4,6 +4,10 @@ SIGMOID NODES
 
 
 Located along the sigmoid artery, for the sigmoid colon and the contiguous colic segment.
+;;;VI;;;
+
+Các hạch sigma nằm dọc các động mạch sigma, nhận bạch huyết từ đại tràng sigma.
+
 ;;;ES;;;
 
 

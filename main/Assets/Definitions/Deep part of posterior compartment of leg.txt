@@ -46,6 +46,10 @@ Innervation:
 Function:
 ---------
     It contains the plantar flexors.
+;;;VI;;;
+
+Phần sâu khoang sau cẳng chân gồm cơ chày sau, cơ gấp dài các ngón, cơ gấp dài ngón cái và cơ khoeo.
+
 ;;;ES;;;
 
 

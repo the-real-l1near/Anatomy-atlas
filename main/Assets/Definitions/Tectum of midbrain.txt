@@ -28,6 +28,12 @@ Each inferior colliculus sends information to the corresponding medial geniculat
 
 
 https://en.wikipedia.org/wiki/Midbrain
+;;;VI;;;
+
+MÁI TRUNG NÃO
+
+Mái trung não nằm phía sau cống não và gồm các củ não sinh tư trên, dưới. Các củ trên tham gia phản xạ thị giác; các củ dưới tham gia đường dẫn truyền thính giác.
+
 ;;;ES;;;
 
 

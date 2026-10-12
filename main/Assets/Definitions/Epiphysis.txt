@@ -39,6 +39,10 @@ There are many bones that contain an epiphysis:
     
     
 https://en.wikipedia.org/wiki/Epiphysis
+;;;VI;;;
+
+Đầu xương là phần tận cùng của xương dài, thường tham gia tạo khớp. Ở người đang phát triển, đầu xương được ngăn với thân xương bởi sụn tăng trưởng.
+
 ;;;ES;;;
 
 

@@ -3,6 +3,10 @@
 SEMICANAL FOR AUDITORY TUBE
 
 Half of the musculotubal canal for the auditory tube.
+;;;VI;;;
+
+Bán ống vòi tai là phần dưới của ống cơ-vòi tai, chứa vòi tai xương.
+
 ;;;ES;;;
 
 

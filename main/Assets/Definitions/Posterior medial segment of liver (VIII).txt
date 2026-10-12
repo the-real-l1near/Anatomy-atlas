@@ -4,6 +4,10 @@ POSTERIOR MEDIAL SEGMENT OF LIVER (VIII)
 
 
 It is located above the anterior medial segment of liver (V) with which it forms the right medial division of liver.
+;;;VI;;;
+
+Phân thùy sau-trong của gan (phân thùy VIII) nằm phía trên phân thùy trước-trong (V), thuộc phần trong của thùy phải gan.
+
 ;;;ES;;;
 
 

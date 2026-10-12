@@ -31,6 +31,10 @@ Synchondrosis is a cartilaginous joint connected by hyaline cartilage, as seen i
 
 
 https://en.wikipedia.org/wiki/Synarthrosis
+;;;VI;;;
+
+Khớp bất động là khớp hầu như không có cử động, như nhiều khớp sọ.
+
 ;;;ES;;;
 
 

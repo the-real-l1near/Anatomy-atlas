@@ -58,6 +58,10 @@ Anserine bursa
 
 
 
+;;;VI;;;
+
+Tệp kết quả bách khoa lưu các dữ liệu tham khảo được tổng hợp cho các cấu trúc.
+
 ;;;ES;;;
 
 ===== Informe de descarga de Wiki =====

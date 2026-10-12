@@ -4,6 +4,10 @@ MIDDLE LOBAR BRONCHUS
 
 
 For the middle lobe of right lung.
+;;;VI;;;
+
+Phế quản thùy giữa là nhánh của phế quản chính phải, dẫn khí đến thùy giữa phổi phải.
+
 ;;;ES;;;
 
 

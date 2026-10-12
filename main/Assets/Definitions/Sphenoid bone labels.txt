@@ -55,6 +55,12 @@ SPHENOID BONE
         Groove of pterygoid hamulus
     Pterygoid canal
     Pterygospinous process
+;;;VI;;;
+
+CÁC MỐC XƯƠNG BƯỚM
+
+Các mốc xương bướm gồm thân, hố yên, cánh lớn, cánh nhỏ, ống thị giác và các lỗ nền sọ. Xương tạo phần trung tâm nền sọ và liên quan với nhiều dây thần kinh, mạch máu.
+
 ;;;ES;;;
 
 HUESO ESFENOIDE

@@ -21,6 +21,10 @@ https://en.wikipedia.org/wiki/Semicircular_canals
 
 
 
+;;;VI;;;
+
+Ống bán khuyên ngoài nằm gần mặt phẳng ngang và cảm nhận gia tốc góc khi đầu quay ngang.
+
 ;;;ES;;;
 
 

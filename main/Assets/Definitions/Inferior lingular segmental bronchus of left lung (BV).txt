@@ -4,6 +4,10 @@ INFERIOR LINGULAR SEGMENTAL BRONCHUS OF LEFT LUNG (BV)
 
 
 For the lower segment of the superior lobe of left lung, mainly anterior.
+;;;VI;;;
+
+Phế quản phân thùy lưỡi dưới trái thông khí phân thùy lưỡi dưới của thùy trên phổi trái.
+
 ;;;ES;;;
 
 

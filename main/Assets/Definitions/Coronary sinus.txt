@@ -59,6 +59,10 @@ This includes for a coronary sinus electrogram.
 
 
 https://en.wikipedia.org/wiki/Coronary_sinus
+;;;VI;;;
+
+Xoang vành là mạch tĩnh mạch lớn ở rãnh vành mặt sau tim, thu phần lớn máu tĩnh mạch cơ tim và đổ vào tâm nhĩ phải.
+
 ;;;ES;;;
 
 

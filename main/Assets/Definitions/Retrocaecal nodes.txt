@@ -4,6 +4,10 @@ RETROCAECAL NODES
 
 
 The retrocaecal are located along the posterior caecal artery.
+;;;VI;;;
+
+Các hạch sau manh tràng nằm dọc động mạch manh tràng sau, nhận bạch huyết từ manh tràng.
+
 ;;;ES;;;
 
 

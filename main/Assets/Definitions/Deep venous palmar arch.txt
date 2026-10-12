@@ -10,6 +10,10 @@ It receives the veins corresponding to the branches of the arterial arch: the pa
 
 
 https://en.wikipedia.org/wiki/Deep_palmar_venous_arch
+;;;VI;;;
+
+Cung tĩnh mạch gan tay sâu nằm sâu trong lòng bàn tay, dẫn máu về các tĩnh mạch quay và trụ.
+
 ;;;ES;;;
 
 

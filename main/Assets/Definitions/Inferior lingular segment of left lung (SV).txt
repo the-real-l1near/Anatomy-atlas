@@ -4,6 +4,10 @@ INFERIOR LINGULAR SEGMENT OF LEFT LUNG (SV)
 
 
 Pulmonary point between the cardiac notch and the inferior border 
+;;;VI;;;
+
+Phân thùy lưỡi dưới (S V) thuộc thùy trên phổi trái, nằm ở phần dưới của lưỡi phổi.
+
 ;;;ES;;;
 
 

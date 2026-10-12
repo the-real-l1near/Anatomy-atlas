@@ -8,6 +8,10 @@ Origin: medial margin of the olecranon and upper two-thirds of the dorsal border
 Insertion: pisiform bone, hamatum bone, pisihamate ligament, pisometacarpal ligament, pisometacarpal ligament.
 
 Between the two heads passes the ulnar nerve and ulnar artery.
+;;;VI;;;
+
+Đầu trụ cơ gấp cổ tay trụ xuất phát từ mỏm khuỷu và bờ sau xương trụ, gấp-khép cổ tay.
+
 ;;;ES;;;
 
 

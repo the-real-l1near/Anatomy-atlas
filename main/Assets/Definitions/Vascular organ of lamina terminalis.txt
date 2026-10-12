@@ -30,6 +30,10 @@ These neurons also project to the median preoptic nucleus which is involved in c
 
 
 https://en.wikipedia.org/wiki/Vascular_organ_of_lamina_terminalis
+;;;VI;;;
+
+Cơ quan mạch máu lá tận cùng là vùng dưới đồi không có hàng rào máu-não điển hình, cảm nhận áp suất thẩm thấu máu.
+
 ;;;ES;;;
 
 

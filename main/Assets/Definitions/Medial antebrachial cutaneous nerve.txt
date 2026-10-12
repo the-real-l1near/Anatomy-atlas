@@ -31,6 +31,10 @@ It communicates with the medial brachial cutaneous, the dorsal antebrachial cuta
 
 
 https://en.wikipedia.org/wiki/Medial_cutaneous_nerve_of_forearm
+;;;VI;;;
+
+Thần kinh bì cẳng tay trong xuất phát từ bó trong đám rối cánh tay, chi phối cảm giác da mặt trong cẳng tay.
+
 ;;;ES;;;
 
 

@@ -2,6 +2,12 @@ COCCYX
     Base of coccyx
     Coccygeal horn
     Apex of coccyx
+;;;VI;;;
+
+CÁC MỐC GIẢI PHẪU CỦA XƯƠNG CỤT
+
+Xương cụt là đoạn tận cùng của cột sống, thường gồm các đốt sống cụt hợp nhất. Các mốc được ghi nhãn trên xương cụt giúp nhận diện bề mặt, sừng và nền xương. Xương cụt là nơi bám của một số cơ và dây chằng sàn chậu.
+
 ;;;ES;;;
 
 CÓCCIX

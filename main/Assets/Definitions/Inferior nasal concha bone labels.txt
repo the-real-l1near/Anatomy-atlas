@@ -2,6 +2,12 @@ INFERIOR NASAL CONCHA BONE
     Lacrimal process
     Maxillary process of inferior nasal concha
     Ethmoidal process
+;;;VI;;;
+
+CÁC MỐC XƯƠNG XOĂN MŨI DƯỚI
+
+Xương xoăn mũi dưới là xương đôi nằm ở thành bên hốc mũi. Các mốc trên xương giúp nhận diện bề mặt, bờ và các mỏm khớp với xương hàm trên, xương lệ và xương khẩu cái.
+
 ;;;ES;;;
 
 HUESO DE LA CONCHA NASAL INFERIOR

@@ -15,6 +15,10 @@ Press the eye icon
     
 Press 'Shift + the eye icon'
     to show/hide all the objects inside a collection
+;;;VI;;;
+
+Dàn ý hiển thị các nhóm đối tượng. Nhấn “+” hoặc “−” khi con trỏ ở cửa sổ phía trên bên phải để mở hoặc thu gọn tất cả; dùng mũi tên để điều khiển từng dòng. Nhấn biểu tượng con mắt để hiện/ẩn bộ sưu tập, hoặc giữ Shift khi nhấn để hiện/ẩn mọi đối tượng trong bộ sưu tập.
+
 ;;;ES;;;
 
 

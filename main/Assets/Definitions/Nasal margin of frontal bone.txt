@@ -6,6 +6,10 @@ NASAL MARGIN OF FRONTAL BONE
 Inferior dentate border of the nasal part.
 
 Meeting on both sides of the nasal bone with the maxillary frontal process
+;;;VI;;;
+
+Bờ mũi xương trán tiếp khớp với xương mũi và mỏm trán xương hàm trên.
+
 ;;;ES;;;
 
 

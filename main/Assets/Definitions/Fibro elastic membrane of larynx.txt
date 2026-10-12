@@ -11,6 +11,10 @@ It is made of:
 
 -the quadrangular membrane
 -and the conus elasticus
+;;;VI;;;
+
+Màng sợi-đàn hồi thanh quản tạo bộ khung đàn hồi bên trong thanh quản, gồm màng tứ giác và nón đàn hồi.
+
 ;;;ES;;;
 
 

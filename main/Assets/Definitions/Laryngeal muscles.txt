@@ -68,6 +68,12 @@ Extrinsic laryngeal muscles
     -Geniohyoid elevates the larynx. (C1)
     -Hyoglossus elevates the larynx. (CN XII)
     -Genioglossus elevates the larynx. (CN XII)
+;;;VI;;;
+
+CÁC CƠ THANH QUẢN
+
+Các cơ thanh quản gồm cơ nội tại điều chỉnh vị trí và độ căng dây thanh âm, cùng cơ ngoại lai nâng-hạ thanh quản. Nhóm cơ phối hợp trong hô hấp, phát âm, ho và nuốt.
+
 ;;;ES;;;
 
 

@@ -8,6 +8,12 @@ THORACIC SKELETON
     Infrasternal angle
     BONES OF THORAX
         ...
+;;;VI;;;
+
+CÁC MỐC GIẢI PHẪU BỘ XƯƠNG NGỰC
+
+Bộ xương ngực gồm xương ức, 12 đôi xương sườn và các đốt sống ngực. Những mốc được ghi nhãn giúp nhận diện diện khớp, bờ, góc và các vị trí bám của cơ, dây chằng.
+
 ;;;ES;;;
 
 ESQUELETO TORACICO

@@ -123,6 +123,12 @@ TLOs may also promote an anti-tumor response when patients are treated with immu
 TLOs have been referred to in many different ways, including as tertiary lymphoid structures (TLS) and ectopic lymphoid structures (ELS). 
 
 When associated with colorectal cancer, they are often referred to as a Crohn's-like lymphoid reaction.
+;;;VI;;;
+
+CÁC CƠ QUAN LYMPHO THỨ PHÁT
+
+Các cơ quan lympho thứ phát là nơi tế bào miễn dịch gặp kháng nguyên và khởi phát đáp ứng miễn dịch. Nhóm này gồm hạch bạch huyết, lách và mô lympho liên quan niêm mạc.
+
 ;;;ES;;;
 
 

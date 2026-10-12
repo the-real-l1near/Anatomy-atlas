@@ -54,6 +54,10 @@ It has two main uses: free simple memory and directed simple memory.
 
 
 https://en.wikipedia.org/wiki/Archicortex
+;;;VI;;;
+
+Vỏ não cổ là phần vỏ não tiến hóa cổ, chủ yếu gồm hồi hải mã và các cấu trúc liên quan đến trí nhớ.
+
 ;;;ES;;;
 
 

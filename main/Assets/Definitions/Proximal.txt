@@ -8,6 +8,10 @@ Located in the direction of the trunk.
 
 
 Feneis 4.36
+;;;VI;;;
+
+Phía gần là hướng về thân mình hoặc điểm gốc của một chi.
+
 ;;;ES;;;
 
 

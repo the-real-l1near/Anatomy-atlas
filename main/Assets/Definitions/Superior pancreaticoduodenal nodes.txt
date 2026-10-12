@@ -6,6 +6,10 @@ SUPERIOR PANCREATICODUODENAL NODES
 Superior part of the pancreaticoduodenal nodes.
 
 They evacuate in the hepatic nodes.
+;;;VI;;;
+
+Các hạch tụy-tá tràng trên nằm gần động mạch tụy-tá tràng trên, nhận bạch huyết từ đầu tụy và tá tràng.
+
 ;;;ES;;;
 
 

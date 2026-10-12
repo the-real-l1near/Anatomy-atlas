@@ -4,6 +4,10 @@ LEFT SUPERIOR LOBAR BRONCHUS
 
 
 For the left superior lobe.
+;;;VI;;;
+
+Phế quản thùy trên trái dẫn khí đến thùy trên phổi trái, gồm các nhánh cho phần đỉnh-sau và lưỡi phổi.
+
 ;;;ES;;;
 
 

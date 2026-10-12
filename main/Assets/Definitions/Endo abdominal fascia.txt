@@ -17,6 +17,10 @@ The endoabdominal fascia refers to all the fasciae covering the inner side of th
     -The visceral peritoneum (or layer): 
         the inner layer that lines the organs and is known as the visceral peritoneum in the abdomen, pleura around the lungs and pericardium around the heart.
 
+;;;VI;;;
+
+Mạc nội bụng là lớp mạc lót mặt trong thành bụng, nằm sâu hơn cơ ngang bụng và liên tục với mạc chậu, mạc hoành.
+
 ;;;ES;;;
 
 

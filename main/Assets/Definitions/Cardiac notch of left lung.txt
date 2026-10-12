@@ -8,6 +8,10 @@ The left lung shares space with the heart, and has an indentation in its border 
 
 
 https://en.wikipedia.org/wiki/Lung#Left_lung
+;;;VI;;;
+
+Khuyết tim là chỗ lõm ở bờ trước phổi trái, tạo khoảng trống cho tim. Phần dưới khuyết tạo nên lưỡi phổi.
+
 ;;;ES;;;
 
 

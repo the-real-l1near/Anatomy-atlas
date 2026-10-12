@@ -12,6 +12,10 @@ MALE INTERNAL GENITALIA
 -Ejaculatory duct
 -Prostate
 -Bulbo-urethral gland
+;;;VI;;;
+
+Cơ quan sinh dục trong nam gồm tinh hoàn, mào tinh, ống dẫn tinh, túi tinh, tuyến tiền liệt và các tuyến phụ.
+
 ;;;ES;;;
 
 

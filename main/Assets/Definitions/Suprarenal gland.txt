@@ -469,6 +469,12 @@ Surgery, especially suprarenal laparoscopy, is the most common treatment for sma
 
 
 https://en.wikipedia.org/wiki/suprarenal_gland
+;;;VI;;;
+
+TUYẾN THƯỢNG THẬN
+
+Tuyến thượng thận là tuyến nội tiết nằm trên cực trên mỗi thận. Mỗi tuyến gồm vỏ thượng thận ở ngoài và tủy thượng thận ở trong. Vỏ tiết các hormone steroid như cortisol, aldosterone và androgen; tủy tiết catecholamine như adrenaline và noradrenaline.
+
 ;;;ES;;;
 
 

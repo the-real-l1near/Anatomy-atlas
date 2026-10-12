@@ -6,6 +6,10 @@ LEFT/RIGHT GASTRIC NODES
 On the lesser curvature of stomach, they follow the path of the left/right gastric arteries.
 
 they drain the stomach and evacuate in the coeliac nodes.
+;;;VI;;;
+
+Các hạch vị trái nằm dọc động mạch vị trái, nhận bạch huyết từ phần trên dạ dày và đoạn dưới thực quản.
+
 ;;;ES;;;
 
 

@@ -54,6 +54,10 @@ Each pulvinar nucleus (nucleus pulvinaris) has its own set of cortical connectio
 
 
 https://en.wikipedia.org/wiki/Pulvinar_nuclei
+;;;VI;;;
+
+Các nhân gối đệm tạo thành phần sau của đồi thị. Chúng tham gia xử lý và kết hợp thông tin thị giác với sự chú ý và các chức năng nhận thức.
+
 ;;;ES;;;
 
 

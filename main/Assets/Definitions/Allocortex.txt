@@ -35,6 +35,10 @@ Because the number of laminae that compose a type of cortical tissue seems to be
 
 
 https://en.wikipedia.org/wiki/Allocortex
+;;;VI;;;
+
+Vỏ não dị loại là phần vỏ não có ít lớp hơn vỏ não mới, bao gồm các vùng như hồi hải mã và vỏ khứu giác.
+
 ;;;ES;;;
 
 

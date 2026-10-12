@@ -8,6 +8,12 @@ Vertical line passing by the top of the transverse processes, determined only by
 
 
 Feneis 4.58
+;;;VI;;;
+
+ĐƯỜNG CẠNH SỐNG
+
+Đường cạnh sống là đường quy ước chạy dọc gần cột sống trên thành ngực sau. Đây là mốc bề mặt được dùng trong khám lâm sàng và khi mô tả vị trí tổn thương hoặc âm phổi.
+
 ;;;ES;;;
 
 

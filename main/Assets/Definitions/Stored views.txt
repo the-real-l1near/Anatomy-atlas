@@ -10,6 +10,10 @@ Press 'N'
 In 'Stored Views',
     the cube-icons activate the Stored Views
 
+;;;VI;;;
+
+Các góc nhìn đã lưu cho phép mở lại những hướng quan sát mô hình trước đó.
+
 ;;;ES;;;
 
 

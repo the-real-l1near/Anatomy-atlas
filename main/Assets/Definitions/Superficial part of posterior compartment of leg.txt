@@ -35,6 +35,10 @@ SUPERFICIAL PART OF COMPARTMENT OF LEG:
     
     Main action: 
         Plantarflexes ankle independent of position of knee; steadies leg on foot 
+;;;VI;;;
+
+Phần nông khoang sau cẳng chân gồm cơ bụng chân, cơ dép và cơ gan chân, chủ yếu gấp lòng bàn chân.
+
 ;;;ES;;;
 
 

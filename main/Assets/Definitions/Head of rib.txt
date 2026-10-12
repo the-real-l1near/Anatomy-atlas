@@ -22,6 +22,10 @@ This plane joint is known as the articulation of the head of the rib.
 The other costovertebral joint is that between the tubercle on the neck and the transverse process of the joining thoracic vertebra of the same rib number, and this is known as the costotransverse joint. 
 
 The superior costotransverse ligament attaches from the non-articular facet of the tubercle to the transverse process of the vertebra.
+;;;VI;;;
+
+Chỏm xương sườn là đầu sau của xương sườn, tiếp khớp với thân các đốt sống ngực.
+
 ;;;ES;;;
 
 

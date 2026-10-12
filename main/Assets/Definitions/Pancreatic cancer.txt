@@ -657,6 +657,10 @@ Galectin-specific mechanisms of the tumor microenvironment are under study.
 
 
 https://en.wikipedia.org/wiki/Pancreatic_cancer
+;;;VI;;;
+
+Ung thư tụy là khối u ác tính phát sinh từ mô tụy, thường gặp nhất ở biểu mô ống tụy.
+
 ;;;ES;;;
 
 

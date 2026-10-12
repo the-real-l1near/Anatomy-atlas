@@ -7,6 +7,10 @@ It divides the jugular foramen into a posterolateral part for the jugular vein a
 
 
 Feneis 32.25
+;;;VI;;;
+
+Mỏm trong tĩnh mạch cảnh xương thái dương cùng mỏm tương ứng xương chẩm chia lỗ tĩnh mạch cảnh thành các phần.
+
 ;;;ES;;;
 
 

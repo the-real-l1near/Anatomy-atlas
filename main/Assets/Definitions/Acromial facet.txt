@@ -10,6 +10,10 @@ The area surrounding the joint gives an attachment to the joint capsule.
 
 
 https://en.wikipedia.org/wiki/Clavicle#Lateral_end
+;;;VI;;;
+
+Diện khớp cùng vai ở đầu ngoài xương đòn tiếp xúc với diện khớp trên mỏm cùng vai.
+
 ;;;ES;;;
 
 

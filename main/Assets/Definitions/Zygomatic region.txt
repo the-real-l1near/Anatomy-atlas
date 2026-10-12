@@ -6,6 +6,12 @@ ZYGOMATIC REGION
 Above the buccal region and the parotid region.
 
 It corresponds to the zygomatic bone and the zygomatic arch.
+;;;VI;;;
+
+VÙNG GÒ MÁ
+
+Vùng gò má nằm ở phần nhô bên của mặt, phủ lên xương gò má. Vùng tạo đường nét má và liên quan đến ổ mắt, cung gò má và cơ cắn.
+
 ;;;ES;;;
 
 

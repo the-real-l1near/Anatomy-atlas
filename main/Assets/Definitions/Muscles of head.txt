@@ -10,6 +10,12 @@ MUSCLES OF HEAD
 -Masticatory muscles
 -Muscles of tongue
 -Muscles of soft palate
+;;;VI;;;
+
+CÁC CƠ ĐẦU
+
+Các cơ đầu bao gồm cơ biểu cảm mặt, cơ nhai, cơ vận nhãn và các cơ liên quan lưỡi, khẩu cái. Chúng tạo biểu cảm, nhai, nhìn, nuốt và phát âm.
+
 ;;;ES;;;
 
 

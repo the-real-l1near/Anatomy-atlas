@@ -5,6 +5,10 @@ APICOPOSTERIOR SEGMENTAL BRONCHUS OF LEFT LUNG (BI+BII)
 
 For the segment located in the superior and posterior part of the superior lobe of left lung.
 
+;;;VI;;;
+
+Phế quản phân thùy đỉnh-sau trái thông khí các phân thùy đỉnh và sau của thùy trên phổi trái.
+
 ;;;ES;;;
 
 

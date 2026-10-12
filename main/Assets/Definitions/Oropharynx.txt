@@ -14,6 +14,10 @@ Because both food and air pass through the pharynx, a flap of connective tissue 
 The HACEK organisms (Haemophilus, Actinobacillus actinomycetemcomitans, Cardiobacterium hominis, Eikenella corrodens, Kingella) are part of the normal oropharyngeal flora, which grow slowly, prefer a carbon dioxide-enriched atmosphere, and share an enhanced capacity to produce endocardial infections, especially in young children.
 
 Fusobacterium is a pathogen
+;;;VI;;;
+
+Khẩu hầu nằm sau khoang miệng, kéo dài từ khẩu cái mềm đến bờ trên nắp thanh môn.
+
 ;;;ES;;;
 
 

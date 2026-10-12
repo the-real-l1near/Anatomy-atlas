@@ -4,6 +4,12 @@ CERVICAL VERTEBRA
     Anterior tubercle of transverse process
     Posterior tubercle of transverse process
     Groove for spinal nerve
+;;;VI;;;
+
+CÁC MỐC ĐỐT SỐNG CỔ
+
+Các mốc được ghi nhãn trên đốt sống cổ giúp nhận diện thân đốt, lỗ đốt sống, mỏm gai, mỏm ngang, lỗ ngang và các diện khớp. Đặc điểm cụ thể thay đổi giữa đốt đội, đốt trục và các đốt cổ điển hình.
+
 ;;;ES;;;
 
 VERTEBRA CERVICAL

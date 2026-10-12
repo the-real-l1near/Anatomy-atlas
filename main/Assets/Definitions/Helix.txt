@@ -4,6 +4,10 @@ HELIX
 
 
 External curvy border of the auricle
+;;;VI;;;
+
+Gờ luân là bờ ngoài cong của vành tai, chạy từ gốc luân đến phần trên loa tai.
+
 ;;;ES;;;
 
 

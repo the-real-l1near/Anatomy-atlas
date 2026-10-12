@@ -28,6 +28,10 @@ Press 'RMB'
 
 Press 'LMB' twice (fast) 
     to extend the selection to the object's children
+;;;VI;;;
+
+Chế độ chọn cho phép đánh dấu một cấu trúc giải phẫu để xem thông tin hoặc thao tác.
+
 ;;;ES;;;
 
 

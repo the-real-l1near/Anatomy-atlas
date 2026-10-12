@@ -4,6 +4,10 @@ CENTRAL SUPERIOR MESENTERIC NODES
 
 
 Those of the superior mesenteric nodes located at the trunk of the superior mesenteric artery.
+;;;VI;;;
+
+Các hạch mạc treo tràng trên trung tâm nằm dọc thân động mạch mạc treo tràng trên và tiếp nhận bạch huyết từ ruột non, manh tràng và đại tràng lên.
+
 ;;;ES;;;
 
 

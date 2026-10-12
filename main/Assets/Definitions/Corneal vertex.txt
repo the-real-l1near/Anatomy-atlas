@@ -4,6 +4,10 @@ CORNEAL VERTEX
 
 
 Most prominent point of the anterior surface of cornea
+;;;VI;;;
+
+Đỉnh giác mạc là điểm trung tâm nhô nhất trên mặt trước giác mạc.
+
 ;;;ES;;;
 
 

@@ -42,6 +42,10 @@ The Auerbach's nerve plexus (myenteric nerve plexus) is found between longitudin
 
 
 https://en.wikipedia.org/wiki/Muscular_layer
+;;;VI;;;
+
+Lớp cơ tạo thành phần co bóp của thành tạng rỗng, giúp trộn và đẩy chất chứa dọc theo cơ quan.
+
 ;;;ES;;;
 
 

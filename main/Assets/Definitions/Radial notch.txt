@@ -9,6 +9,10 @@ It is concave from before backward, and its prominent extremities serve for the 
 
 
 https://en.wikipedia.org/wiki/Radial_notch
+;;;VI;;;
+
+Khuyết quay xương trụ tiếp khớp với chu vi chỏm xương quay.
+
 ;;;ES;;;
 
 

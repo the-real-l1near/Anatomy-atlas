@@ -4,6 +4,10 @@ SERRATE SUTURE
 
 
 similar to a denticulate suture but the interlocking regions are serrated rather than square. Eg: Coronal suture.
+;;;VI;;;
+
+Khớp răng cưa là khớp sọ có các bờ xương lởm chởm ăn khớp với nhau.
+
 ;;;ES;;;
 
 

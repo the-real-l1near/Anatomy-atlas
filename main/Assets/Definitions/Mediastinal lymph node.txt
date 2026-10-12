@@ -18,6 +18,10 @@ Mediastinal mass
 
 
 https://en.wikipedia.org/wiki/Mediastinal_lymph_node
+;;;VI;;;
+
+Các hạch trung thất nằm quanh khí quản, phế quản, thực quản và các mạch lớn, nhận bạch huyết từ ngực.
+
 ;;;ES;;;
 
 

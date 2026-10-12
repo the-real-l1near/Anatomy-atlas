@@ -127,6 +127,10 @@ Finally, the behaviour of MMGN cells are complicated by the fact that sensory st
 
 
 https://en.wikipedia.org/wiki/Medial_geniculate_nucleus
+;;;VI;;;
+
+Nhân gối trong tiếp nhận tín hiệu từ củ não sinh tư dưới và chuyển đến vỏ não thính giác.
+
 ;;;ES;;;
 
 

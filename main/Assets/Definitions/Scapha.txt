@@ -4,6 +4,10 @@ SCAPHA
 
 
 The depression or groove between the helix and the antihelix.
+;;;VI;;;
+
+Hõm thuyền là rãnh dài giữa gờ luân và gờ đối luân ở vành tai.
+
 ;;;ES;;;
 
 

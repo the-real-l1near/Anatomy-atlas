@@ -4,6 +4,10 @@ BASE OF LUNG
 
 
 Inferior part of the lung, in contact with the diaphragm.
+;;;VI;;;
+
+Đáy phổi là mặt lõm dưới của phổi, áp lên cơ hoành và thay đổi vị trí theo hô hấp.
+
 ;;;ES;;;
 
 

@@ -4,6 +4,10 @@ NASAL SPINE OF FRONTAL BONE
 
 
 Pointy median process of nasal part.
+;;;VI;;;
+
+Gai mũi xương trán là mỏm nhỏ ở đường giữa bờ mũi xương trán.
+
 ;;;ES;;;
 
 

@@ -4,6 +4,10 @@ CYMBA CONCHAE
 
 
 Cymba conchae is the narrowest end of the concha.
+;;;VI;;;
+
+Vòm loa tai là phần trên của hõm loa tai, nằm phía trên gờ ngang loa tai.
+
 ;;;ES;;;
 
 

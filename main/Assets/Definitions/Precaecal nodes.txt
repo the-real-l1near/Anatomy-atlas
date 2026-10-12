@@ -4,6 +4,10 @@ PRECAECAL NODES
 
 
 The precaecal nodes are located along the anterior caecal artery.
+;;;VI;;;
+
+Các hạch trước manh tràng nằm trên mặt trước manh tràng, nhận bạch huyết từ vùng này.
+
 ;;;ES;;;
 
 

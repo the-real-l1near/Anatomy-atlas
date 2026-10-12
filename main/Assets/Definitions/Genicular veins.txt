@@ -6,6 +6,10 @@ GENICULAR VEINS
 Veins coming from the knee.
 
 There are usualy five of them.
+;;;VI;;;
+
+Các tĩnh mạch gối tạo mạng quanh khớp gối và dẫn máu về tĩnh mạch khoeo.
+
 ;;;ES;;;
 
 

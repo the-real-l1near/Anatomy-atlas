@@ -8,6 +8,10 @@ Median line in the median plane of the trunk.
 
 
 Feneis 4.49
+;;;VI;;;
+
+Đường giữa trước là đường dọc tưởng tượng chạy trên mặt trước cơ thể qua đường giữa.
+
 ;;;ES;;;
 
 

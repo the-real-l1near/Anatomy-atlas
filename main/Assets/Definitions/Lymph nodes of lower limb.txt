@@ -14,6 +14,12 @@ All the lymph nodes from the inguinal region to the toes:
 -Anterior tibial node
 -Posterior tibial node
 -Fibular node
+;;;VI;;;
+
+CÁC HẠCH BẠCH HUYẾT CHI DƯỚI
+
+Các hạch bạch huyết chi dưới gồm nhóm khoeo và bẹn nông, sâu. Chúng nhận bạch huyết từ bàn chân, cẳng chân, đùi và dẫn lên các hạch chậu.
+
 ;;;ES;;;
 
 

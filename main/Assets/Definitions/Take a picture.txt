@@ -40,6 +40,10 @@ This step will make sure that what you see is what you get.
 
 
 
+;;;VI;;;
+
+Chức năng chụp ảnh lưu hình ảnh góc nhìn hiện tại của mô hình.
+
 ;;;ES;;;
 
 

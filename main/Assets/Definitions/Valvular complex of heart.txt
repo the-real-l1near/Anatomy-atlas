@@ -8,6 +8,10 @@ VALVULAR COMPLEX OF HEART
 -Left atrioventricular valve
 -Root of aorta
 -Root of pulmonary trunk
+;;;VI;;;
+
+Bộ máy van tim gồm van nhĩ-thất, van bán nguyệt, vòng xơ và các cấu trúc hỗ trợ, định hướng dòng máu một chiều.
+
 ;;;ES;;;
 
 

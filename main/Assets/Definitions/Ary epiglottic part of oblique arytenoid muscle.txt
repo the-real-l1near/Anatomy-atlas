@@ -12,6 +12,10 @@ Support of the ary-epiglottic fold.
 Lower the epiglottis.
 
 
+;;;VI;;;
+
+Phần phễu-nắp thanh môn của cơ phễu chéo tiếp tục vào nếp phễu-nắp, giúp khép lối vào thanh quản.
+
 ;;;ES;;;
 
 

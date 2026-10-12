@@ -14,6 +14,10 @@ The scan will show the area as one with normal activity if it is a pseudotumor o
 
 
 https://en.wikipedia.org/wiki/Renal_column
+;;;VI;;;
+
+Cột thận là phần vỏ thận kéo dài vào giữa các tháp thận.
+
 ;;;ES;;;
 
 

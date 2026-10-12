@@ -9,6 +9,12 @@ Several parts are described within the regions of thorax:
      
     -the anterior region of thorax
     -the lateral region of thorax
+;;;VI;;;
+
+CÁC VÙNG NGỰC
+
+Ngực gồm thành ngực và khoang chứa phổi, tim cùng các cấu trúc trung thất. Các vùng thành ngực được mô tả bằng xương ức, xương sườn, đường giữa đòn, nách và các mốc xương bả vai.
+
 ;;;ES;;;
 
 

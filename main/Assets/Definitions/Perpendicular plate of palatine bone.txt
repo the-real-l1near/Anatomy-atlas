@@ -38,6 +38,10 @@ The inferior border is fused with the lateral edge of the horizontal part, and i
 
 
 https://en.wikipedia.org/wiki/Perpendicular_plate_of_palatine_bone
+;;;VI;;;
+
+Mảnh thẳng xương khẩu cái tạo phần sau thành bên hốc mũi và góp phần tạo hố chân bướm-khẩu cái.
+
 ;;;ES;;;
 
 

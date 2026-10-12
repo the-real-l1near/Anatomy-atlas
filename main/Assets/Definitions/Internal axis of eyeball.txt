@@ -4,6 +4,10 @@ INTERNAL AXIS OF EYEBALL
 
 
 Distance between the posterior surface of the cornea and the internal surface of the retina, measured on the external axis of eyeball.
+;;;VI;;;
+
+Trục trong nhãn cầu là đường tưởng tượng từ mặt sau giác mạc qua thủy tinh thể đến võng mạc.
+
 ;;;ES;;;
 
 

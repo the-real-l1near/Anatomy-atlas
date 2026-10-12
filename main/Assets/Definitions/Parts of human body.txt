@@ -25,6 +25,10 @@ PARTS OF HUMAN BODY
     -Buttock
     -Hip
     -Free part of lower limb
+;;;VI;;;
+
+Cơ thể người được chia thành đầu, cổ, thân mình và các chi; mỗi vùng gồm những cấu trúc giải phẫu chuyên biệt.
+
 ;;;ES;;;
 
 

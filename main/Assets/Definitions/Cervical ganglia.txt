@@ -19,6 +19,10 @@ Unlike all other ganglia, the medial branches of the cervical ganglia are 95% po
 
 
 https://en.wikipedia.org/wiki/Cervical_ganglia
+;;;VI;;;
+
+Các hạch cổ là các hạch của thân giao cảm ở cổ, thường gồm hạch cổ trên, giữa và cổ-ngực, phân phối sợi giao cảm đến đầu, cổ và ngực.
+
 ;;;ES;;;
 
 

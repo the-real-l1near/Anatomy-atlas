@@ -28,6 +28,12 @@ HUMERUS
     Medial epicondyle of humerus
         Groove for ulnar nerve
     Lateral epicondyle of humerus
+;;;VI;;;
+
+CÁC MỐC GIẢI PHẪU XƯƠNG CÁNH TAY
+
+Các mốc trên xương cánh tay gồm chỏm, cổ, các củ, thân xương, lồi cầu và các hố ở đầu dưới. Chúng tạo diện khớp với xương vai, xương quay và xương trụ, đồng thời là nơi bám của cơ và dây chằng.
+
 ;;;ES;;;
 
 HÚMERO

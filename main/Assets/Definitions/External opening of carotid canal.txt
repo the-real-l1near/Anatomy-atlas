@@ -7,6 +7,10 @@ Orifice on the external side of the skull 's base, between the jugular foramen a
 
 
 Feneis 30.27
+;;;VI;;;
+
+Lỗ ngoài ống cảnh nằm ở mặt dưới phần đá xương thái dương, là cửa vào của ống động mạch cảnh.
+
 ;;;ES;;;
 
 

@@ -18,6 +18,12 @@ PALATINE BONE
         Posterior nasal spine
         Nasal crest of palatine bone
         Palatine crest
+;;;VI;;;
+
+CÁC MỐC XƯƠNG KHẨU CÁI
+
+Các mốc xương khẩu cái gồm mảnh ngang, mảnh thẳng và các mỏm tháp, ổ mắt, bướm. Xương góp phần tạo khẩu cái cứng, thành bên hốc mũi và một phần ổ mắt.
+
 ;;;ES;;;
 
 HUESO PALATINO

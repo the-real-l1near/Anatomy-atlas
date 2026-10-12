@@ -8,6 +8,12 @@ Mediastinal lymph nodes are lymph nodes located in the mediastinum.
 
 
 https://en.wikipedia.org/wiki/Mediastinal_lymph_node
+;;;VI;;;
+
+CÁC HẠCH BẠCH HUYẾT TRUNG THẤT
+
+Các hạch trung thất nằm quanh khí quản, phế quản, thực quản và các mạch lớn. Chúng nhận bạch huyết từ phổi, thành ngực và các tạng trung thất.
+
 ;;;ES;;;
 
 

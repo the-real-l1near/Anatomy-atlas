@@ -4,6 +4,12 @@ STERNOCLEIDOMASTOID REGION
 
 
 It corresponds to the sternocleidomastoid muscle.
+;;;VI;;;
+
+VÙNG CƠ ỨC ĐÒN CHŨM
+
+Vùng cơ ức đòn chũm chạy dọc hai bên cổ, tương ứng với vị trí cơ ức đòn chũm. Cơ chia vùng cổ trước và vùng cổ bên, đồng thời là mốc bề mặt quan trọng.
+
 ;;;ES;;;
 
 

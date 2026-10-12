@@ -4,6 +4,10 @@ NODE OF ANTERIOR BORDER OF OMENTAL FORAMEN
 
 
 Large lymph node located at the level of the omental foramen.
+;;;VI;;;
+
+Hạch ở bờ trước lỗ mạc nối là hạch nhỏ gần dây chằng gan-tá tràng và cuống gan.
+
 ;;;ES;;;
 
 

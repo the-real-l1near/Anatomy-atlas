@@ -7,6 +7,12 @@ BONES OF FOOT
 -Metatarsal bones
 -Phalanges of foot
 -Sesamoid bones of foot
+;;;VI;;;
+
+CÁC XƯƠNG BÀN CHÂN
+
+Bộ xương bàn chân gồm 7 xương cổ chân, 5 xương bàn chân và 14 đốt ngón chân. Các xương này tạo vòm bàn chân, nâng đỡ trọng lượng và phân tán lực khi đứng, đi hoặc chạy. Xương gót và xương sên là những thành phần quan trọng ở phía sau bàn chân; các xương bàn chân và đốt ngón tạo phần trước.
+
 ;;;ES;;;
 
 

@@ -4,6 +4,10 @@ BRANCHES OF HEPATIC PORTAL VEIN
 
 
 
+;;;VI;;;
+
+Các nhánh tĩnh mạch cửa trong gan phân phối máu đến các vùng gan và đi cùng các nhánh động mạch gan, đường mật trong các khoảng cửa.
+
 ;;;ES;;;
 
 

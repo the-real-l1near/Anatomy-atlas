@@ -22,6 +22,10 @@ It is responsible for the autonomic functions of the oculomotor nerve, including
 
 
 https://en.wikipedia.org/wiki/Oculomotor_nucleus
+;;;VI;;;
+
+Phức hợp nhân vận nhãn ở trung não gồm nhân vận động và nhân phó giao cảm điều khiển cơ mắt, đồng tử.
+
 ;;;ES;;;
 
 

@@ -10,6 +10,10 @@ Branches of the deep fibular nerve for the
 -Extensor hallucis longus,
 -Extensor digitorum brevis,
 -Extensor digitorum longus.
+;;;VI;;;
+
+Các nhánh cơ của thần kinh mác sâu vận động các cơ khoang trước cẳng chân và cơ duỗi ngắn mu chân.
+
 ;;;ES;;;
 
 

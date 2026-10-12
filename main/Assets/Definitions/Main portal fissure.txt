@@ -6,6 +6,10 @@ MAIN PORTAL FISSURE
 The main portal fissure divides the liver into the left lobe of liver and the right lobe of liver.
 
 It is in contact with the inferior vena cava and the middle of the fossa for gallbladder and corresponds to the projection of the intermediate hepatic vein on the surface of the liver.
+;;;VI;;;
+
+Khe cửa chính của gan là mặt phẳng giải phẫu chức năng phân chia gan thành phần phải và trái, đi gần tĩnh mạch gan giữa.
+
 ;;;ES;;;
 
 

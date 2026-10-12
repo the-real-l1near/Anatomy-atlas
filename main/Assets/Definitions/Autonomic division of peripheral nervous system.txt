@@ -299,6 +299,12 @@ Caffeine may influence autonomic activity differently for individuals who are mo
 
 
 https://en.wikipedia.org/wiki/Autonomic_nervous_system
+;;;VI;;;
+
+PHẦN THẦN KINH TỰ CHỦ CỦA HỆ NGOẠI BIÊN
+
+Hệ thần kinh tự chủ điều hòa các chức năng không chủ ý của cơ quan nội tạng, cơ trơn, cơ tim và tuyến. Hệ gồm các nhánh giao cảm, phó giao cảm và hệ thần kinh ruột.
+
 ;;;ES;;;
 
 

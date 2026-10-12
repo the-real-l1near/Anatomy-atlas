@@ -18,6 +18,10 @@ The palmar ulnocarpal ligament is one of the major ligaments of the radiocarpal 
 and the
 -Ulnar collateral ligament of wrist joint
 -Radial collateral ligament of wrist joint
+;;;VI;;;
+
+Dây chằng trụ-đậu nối phức hợp sụn sợi tam giác với xương đậu.
+
 ;;;ES;;;
 
 

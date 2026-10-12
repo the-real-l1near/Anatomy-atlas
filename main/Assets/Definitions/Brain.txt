@@ -787,6 +787,14 @@ A prion disease called kuru has been traced to this.
 
 
 https://en.wikipedia.org/wiki/Brain
+;;;VI;;;
+
+NÃO
+
+Não là trung tâm điều khiển của hệ thần kinh ở người và nhiều loài động vật. Não nằm trong hộp sọ, gần các cơ quan cảm giác, tiếp nhận và xử lý thông tin rồi phối hợp hoạt động của cơ thể.
+
+Não người gồm nhiều vùng có chức năng chuyên biệt, trong đó có đại não, tiểu não và thân não. Các tế bào thần kinh liên lạc với nhau qua các khớp thần kinh; những kết nối này tạo nên các mạng xử lý cảm giác, vận động, trí nhớ và nhiều chức năng khác.
+
 ;;;ES;;;
 
 ! ¡Confusión entre las últimas definiciones (TA2-2019) de cerebro, cerebro y telencéfalo!

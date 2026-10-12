@@ -42,6 +42,10 @@ These include
 
 
 https://en.wikipedia.org/wiki/Prevertebral_ganglia
+;;;VI;;;
+
+Các hạch trước cột sống nằm quanh động mạch chủ bụng, gồm hạch tạng và các hạch mạc treo.
+
 ;;;ES;;;
 
 

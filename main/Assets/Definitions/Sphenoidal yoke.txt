@@ -7,6 +7,10 @@ Structure that unites the two lesser wings of the sphenoid bone.
 
 
 Feneis 28.3
+;;;VI;;;
+
+Gờ nối cánh bé xương bướm là vùng xương ngang liên kết hai cánh bé ở phía trước rãnh giao thoa.
+
 ;;;ES;;;
 
 

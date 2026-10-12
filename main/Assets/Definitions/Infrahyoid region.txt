@@ -6,6 +6,12 @@ INFRAHYOID REGION
 Part of the anterior regions of the neck located beneath the hyoid bone.
 
 It includes the carotid triangle and the muscular triangle.
+;;;VI;;;
+
+VÙNG DƯỚI MÓNG
+
+Vùng dưới móng nằm giữa xương móng và xương ức ở phía trước cổ. Vùng này chứa các cơ dưới móng, tuyến giáp, thanh quản và khí quản.
+
 ;;;ES;;;
 
 

@@ -11,6 +11,12 @@ The lymph nodes of the head gather:
 -the deep parotid nodes
 -the facial nodes
 -the lingual nodes
+;;;VI;;;
+
+CÁC HẠCH BẠCH HUYẾT ĐẦU
+
+Các hạch vùng đầu gồm các nhóm chẩm, chũm, trước tai, mang tai, mặt và dưới hàm. Chúng thu nhận bạch huyết từ da đầu, mặt, mắt, mũi và khoang miệng.
+
 ;;;ES;;;
 
 

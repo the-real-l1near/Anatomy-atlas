@@ -10,6 +10,10 @@ Made of two segments:
 the left lateral division of liver is one of the two parts of the left part of liver; the other one is the left medial division of liver.
     
     
+;;;VI;;;
+
+Phần bên trái gan gồm các phân thùy II và III theo phân chia chức năng Couinaud.
+
 ;;;ES;;;
 
 

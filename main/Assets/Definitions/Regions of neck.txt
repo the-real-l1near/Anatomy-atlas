@@ -9,6 +9,12 @@ Beneath the regions of head, above the regions of thorax and the regions of back
 -Sternocleidomastoid region
 -Lateral region of neck
 -Posterior region of neck
+;;;VI;;;
+
+CÁC VÙNG CỔ
+
+Cổ nối đầu với thân mình và chứa đường thở, đường tiêu hóa, mạch máu lớn, thần kinh, tuyến giáp và các cơ. Các tam giác cổ trước và sau là mốc thường dùng để mô tả cấu trúc vùng cổ.
+
 ;;;ES;;;
 
 

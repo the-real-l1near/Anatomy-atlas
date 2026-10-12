@@ -4,6 +4,10 @@ APEX OF LUNG
 
 
 Superior extremity of the lung, reaching the superior thoracic aperture.
+;;;VI;;;
+
+Đỉnh phổi là phần trên cùng của phổi, nhô lên qua lỗ trên lồng ngực vào vùng nền cổ.
+
 ;;;ES;;;
 
 

@@ -10,6 +10,10 @@ The proximal tibiofibular joint is a small plane joint.
 The joint is formed between the undersurface of the lateral tibial condyle and the head of fibula. 
 
 The joint capsule is reinforced by anterior and posterior ligament of the head of the fibula.
+;;;VI;;;
+
+Diện khớp mác ở xương chày tiếp khớp với đầu dưới xương mác tại khớp chày-mác dưới.
+
 ;;;ES;;;
 
 

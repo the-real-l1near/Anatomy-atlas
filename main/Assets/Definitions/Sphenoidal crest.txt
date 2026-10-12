@@ -7,6 +7,10 @@ Median edge at the anterior surface of the body of the sphenoid bone, where the 
 
 
 Feneis 28.14
+;;;VI;;;
+
+Mào bướm là gờ xương ở mặt trước thân xương bướm, tiếp khớp với mảnh thẳng xương sàng.
+
 ;;;ES;;;
 
 

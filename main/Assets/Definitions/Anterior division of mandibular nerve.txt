@@ -14,6 +14,10 @@ The anterior division gives off branches to three major muscles of mastication a
 -the deep temporal nerves,
 -the nerve to lateral pterygoid muscle,
 -and the buccal nerve
+;;;VI;;;
+
+Ngành trước thần kinh hàm dưới chủ yếu cho các nhánh vận động đến cơ nhai, cùng nhánh cảm giác má.
+
 ;;;ES;;;
 
 

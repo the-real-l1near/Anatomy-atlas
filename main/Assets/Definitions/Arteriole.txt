@@ -97,6 +97,10 @@ A "metarteriole" is an arteriole which bypasses capillary circulation.
 
 
 https://en.wikipedia.org/wiki/Arteriole
+;;;VI;;;
+
+Tiểu động mạch là nhánh nhỏ của động mạch điều chỉnh lượng máu đi vào mao mạch và góp phần kiểm soát sức cản mạch ngoại biên.
+
 ;;;ES;;;
 
 

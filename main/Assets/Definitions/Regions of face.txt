@@ -15,6 +15,12 @@ The facial region encompasses the lower half of the head beginning below the ear
 -Oral region
 -Mentolabial sulcus
 -Mental region
+;;;VI;;;
+
+CÁC VÙNG MẶT
+
+Các vùng mặt được xác định theo các mốc như ổ mắt, mũi, miệng, má, cằm và vùng mang tai. Cách chia vùng giúp định vị cấu trúc, tổn thương và đường đi của thần kinh, mạch máu.
+
 ;;;ES;;;
 
 

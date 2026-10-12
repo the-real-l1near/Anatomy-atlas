@@ -4,6 +4,10 @@ LATERAL BORDER OF KIDNEY
 
 
 Convex lateral border.
+;;;VI;;;
+
+Bờ ngoài thận lồi và hướng ra ngoài, đối diện với bờ trong lõm có rốn thận.
+
 ;;;ES;;;
 
 

@@ -9,6 +9,10 @@ CARTILAGINOUS JOINTS OF THORAX
     -Xiphisternal joint
     -Manubriosternal joint
     -Manubriosternal synchondrosis
+;;;VI;;;
+
+Các khớp sụn lồng ngực gồm khớp sụn-sườn và các liên kết sụn giữa xương sườn với xương ức.
+
 ;;;ES;;;
 
 

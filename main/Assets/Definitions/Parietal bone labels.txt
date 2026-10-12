@@ -14,6 +14,12 @@ PARIETAL BONE
     Sphenoidal angle of parietal bone
     Mastoid angle of parietal bone
     Parietal foramen
+;;;VI;;;
+
+CÁC MỐC XƯƠNG ĐỈNH
+
+Các mốc xương đỉnh gồm bốn bờ, bốn góc, mặt ngoài và mặt trong. Xương tạo phần lớn vòm sọ hai bên và khớp với xương trán, chẩm, thái dương cùng xương đỉnh đối bên.
+
 ;;;ES;;;
 
 HUESO PARIETAL

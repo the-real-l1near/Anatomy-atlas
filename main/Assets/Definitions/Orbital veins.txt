@@ -6,6 +6,10 @@ ORBITAL VEINS
 The orbital veins are the superior ophthalmic vein and the inferior ophthalmic vein.
 
 They orbital veins are part of the cranial veins.
+;;;VI;;;
+
+Các tĩnh mạch ổ mắt dẫn máu từ nhãn cầu và mô ổ mắt về xoang hang cùng các đám rối vùng mặt.
+
 ;;;ES;;;
 
 

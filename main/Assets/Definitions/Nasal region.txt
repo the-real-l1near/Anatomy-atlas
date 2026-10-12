@@ -4,6 +4,12 @@ NASAL REGION
 
 
 The nose is referred to as the nasal region.
+;;;VI;;;
+
+VÙNG MŨI
+
+Vùng mũi nằm ở trung tâm mặt, gồm phần ngoài của mũi và các cấu trúc nâng đỡ bằng xương, sụn. Vùng này mở ra trước qua hai lỗ mũi và thông với hốc mũi.
+
 ;;;ES;;;
 
 

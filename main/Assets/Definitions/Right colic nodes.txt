@@ -8,6 +8,10 @@ The left colic nodes follow the path of the left colic artery.
 The middle colic nodes follow the path of the middle colic artery.
 
 The right colic nodes follow the path of the right colic artery.
+;;;VI;;;
+
+Các hạch đại tràng phải nằm dọc động mạch đại tràng phải, nhận bạch huyết từ đại tràng lên.
+
 ;;;ES;;;
 
 

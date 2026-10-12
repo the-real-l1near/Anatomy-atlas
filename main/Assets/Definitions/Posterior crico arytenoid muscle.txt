@@ -41,6 +41,10 @@ Clinical significance
 Paralysis of the posterior cricoarytenoid muscles may lead to asphyxia, as they are the only laryngeal muscles to open the vocal cords (allowing breathing).
 
 Denervation leads to a slow fibrosis that worsens over many months
+;;;VI;;;
+
+Cơ nhẫn-phễu sau là cơ duy nhất dạng dây thanh, mở khe thanh môn khi hít vào.
+
 ;;;ES;;;
 
 

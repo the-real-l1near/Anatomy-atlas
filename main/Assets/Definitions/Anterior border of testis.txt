@@ -4,6 +4,10 @@ ANTERIOR BORDER OF TESTIS
 
 
 Free anterior border.
+;;;VI;;;
+
+Bờ trước tinh hoàn là bờ lồi hướng ra trước, được phủ bởi các lớp bao tinh hoàn.
+
 ;;;ES;;;
 
 

@@ -67,6 +67,8 @@ public class NamesManagement : MonoBehaviour
                 splittedTranslations[words[0].ToLower()] = words;
             }
 
+            MergeVietnameseTranslations();
+
             //Foreach object in scene
             foreach (var nameScript in GlobalVariables.Instance.allNameScripts)
             {
@@ -129,6 +131,39 @@ public class NamesManagement : MonoBehaviour
         }
      
 
+    }
+
+    private void MergeVietnameseTranslations()
+    {
+        TextAsset vietnameseFile = Resources.Load<TextAsset>("TranslationsVI");
+        if (vietnameseFile == null)
+            return;
+
+        string[] lines = vietnameseFile.text.Split(new[] { "\r\n", "\r", "\n" }, StringSplitOptions.None);
+        foreach (string line in lines)
+        {
+            if (string.IsNullOrWhiteSpace(line) || line.StartsWith("#"))
+                continue;
+
+            string[] words = line.Split(';');
+            if (words.Length < 2 || string.IsNullOrWhiteSpace(words[0]))
+                continue;
+
+            string key = words[0].Trim().ToLower();
+            string[] baseColumns;
+            splittedTranslations.TryGetValue(key, out baseColumns);
+
+            // Keep the existing five language pairs intact and add Vietnamese as pair six.
+            string[] merged = new string[12];
+            if (baseColumns != null)
+                Array.Copy(baseColumns, merged, Math.Min(baseColumns.Length, 10));
+            else
+                merged[0] = words[0].Trim();
+
+            merged[10] = words[1].Trim();
+            merged[11] = words.Length > 2 ? words[2].Trim() : string.Empty;
+            splittedTranslations[key] = merged;
+        }
     }
 
     private void SetLeftRightName()

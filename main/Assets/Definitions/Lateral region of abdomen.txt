@@ -4,6 +4,12 @@ LATERAL REGION OF ABDOMEN
 
 
 Region located laterally to the medioclavicular line, between the subcostal plane and the supracristal crest.
+;;;VI;;;
+
+VÙNG BÊN BỤNG
+
+Hai vùng bên bụng nằm hai bên vùng rốn, giữa vùng hạ sườn và vùng bẹn. Các vùng này phủ lên đại tràng lên ở bên phải và đại tràng xuống ở bên trái, cùng các quai ruột.
+
 ;;;ES;;;
 
 

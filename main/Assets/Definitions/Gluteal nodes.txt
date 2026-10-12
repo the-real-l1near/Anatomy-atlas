@@ -6,6 +6,10 @@ GLUTEAL NODES
 The gluteal nodes are part of the internal iliac nodes, as the lateral sacral nodes.
 
 They are divided between the superior gluteal ndoes and the inferior gluteal nodes.
+;;;VI;;;
+
+Các hạch mông thuộc nhóm hạch chậu trong, gồm nhóm mông trên và mông dưới. Chúng dẫn lưu bạch huyết từ vùng mông và các cấu trúc lân cận.
+
 ;;;ES;;;
 
 

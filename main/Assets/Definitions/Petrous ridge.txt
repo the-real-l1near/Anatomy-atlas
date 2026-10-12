@@ -7,6 +7,10 @@ Superior border of the petrous part of temporal bone.
 
 
 Feneis 30.9
+;;;VI;;;
+
+Bờ trên phần đá xương thái dương là gờ xương ngăn hố sọ giữa với hố sọ sau, nơi bám lều tiểu não.
+
 ;;;ES;;;
 
 

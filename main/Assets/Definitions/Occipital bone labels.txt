@@ -30,6 +30,12 @@ OCCIPITAL BONE
         Cerebral fossa
         Cerebellar fossa
         Vermian fossa
+;;;VI;;;
+
+CÁC MỐC XƯƠNG CHẨM
+
+Các mốc xương chẩm gồm lỗ lớn, lồi cầu chẩm, phần nền, phần trai và các đường gáy. Các mốc này liên quan đến khớp với đốt đội và nơi bám của cơ vùng gáy.
+
 ;;;ES;;;
 
 HUESO OCCIPITAL

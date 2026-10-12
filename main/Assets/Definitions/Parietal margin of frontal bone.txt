@@ -3,6 +3,10 @@
 
 
 PARIETAL MARGIN OF FRONTAL BONE
+;;;VI;;;
+
+Bờ đỉnh xương trán tiếp khớp với bờ trán của xương đỉnh tại khớp vành.
+
 ;;;ES;;;
 
 

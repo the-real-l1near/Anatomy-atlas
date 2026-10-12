@@ -8,6 +8,10 @@ Vertical line passing through the middle of the clavicle.
 
 
 Feneis 4.52
+;;;VI;;;
+
+Đường giữa đòn là đường dọc tưởng tượng đi qua trung điểm xương đòn, dùng làm mốc khám lồng ngực.
+
 ;;;ES;;;
 
 

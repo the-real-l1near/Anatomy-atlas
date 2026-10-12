@@ -4,6 +4,10 @@ GENION
 
 
 The point at the tip of the mental spine of the mandible.
+;;;VI;;;
+
+Điểm genion là mốc giải phẫu ở vùng cằm trước, gần các gai cằm trên và dưới mặt trong xương hàm dưới.
+
 ;;;ES;;;
 
 

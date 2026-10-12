@@ -8,6 +8,10 @@ In the direction opposite to the head.
 
 
 Feneis 4.21
+;;;VI;;;
+
+Phía đuôi là hướng về phần dưới hoặc đầu tận cùng của cơ thể, đối lập với hướng đầu.
+
 ;;;ES;;;
 
 

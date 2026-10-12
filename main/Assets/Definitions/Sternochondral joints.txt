@@ -4,6 +4,10 @@ STERNOCHONDRAL JOINTS
 
 
 Joints between the bony ribs and the costal cartilages on the anterior sides of the thorax.
+;;;VI;;;
+
+Các khớp ức-sụn sườn nối sụn sườn với xương ức, có kiểu khớp khác nhau theo từng xương sườn.
+
 ;;;ES;;;
 
 

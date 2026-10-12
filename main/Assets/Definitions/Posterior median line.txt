@@ -8,6 +8,10 @@ Median vertical line at the back of the trunk.
 
 
 Feneis 4.58
+;;;VI;;;
+
+Đường giữa sau là đường dọc tưởng tượng trên mặt sau cơ thể qua đường giữa.
+
 ;;;ES;;;
 
 

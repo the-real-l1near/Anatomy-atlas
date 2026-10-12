@@ -27,6 +27,10 @@ An example of an Ellipsoid joint is the wrist; it functions similarly to the bal
 
 
 https://en.wikipedia.org/wiki/Condyloid_joint
+;;;VI;;;
+
+Khớp lưỡng lồi cầu có hai diện lồi cầu tiếp khớp, như khớp gối, cho phép gấp-duỗi và vận động phụ.
+
 ;;;ES;;;
 
 

@@ -4,6 +4,10 @@ PYLORIC NODES
 
 
 The pyloric lymph nodes are located around the pyloric part of the stomach; they evacuate into the hepatic nodes and the coeliac nodes.
+;;;VI;;;
+
+Các hạch môn vị nằm quanh môn vị và nhận bạch huyết từ đoạn cuối dạ dày.
+
 ;;;ES;;;
 
 

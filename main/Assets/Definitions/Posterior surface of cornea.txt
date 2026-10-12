@@ -4,6 +4,10 @@ POSTERIOR SURFACE OF CORNEA
 
 
 Surface of cornea oriented towards the anterior chamber of the eye.
+;;;VI;;;
+
+Mặt sau giác mạc tiếp xúc với thủy dịch tiền phòng và được lót bởi nội mô giác mạc.
+
 ;;;ES;;;
 
 

@@ -6,6 +6,10 @@ ARTICULAR RECESS
 Extension of the articular cavity.
 
 Example: the subpopliteal recess
+;;;VI;;;
+
+Ngách khớp là phần kéo dài của khoang khớp ra ngoài phần chính của ổ khớp, thường tạo chỗ trượt cho gân hoặc mô quanh khớp.
+
 ;;;ES;;;
 
 

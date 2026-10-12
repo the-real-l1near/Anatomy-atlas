@@ -85,6 +85,10 @@ The apneustic center delays the end of a burst in the DRG, extending periods of 
 
 
 https://en.wikipedia.org/wiki/Pontine_tegmentum
+;;;VI;;;
+
+Tegmentum cầu não là phần sau cầu não, chứa các nhân thần kinh sọ, đường cảm giác và hệ lưới.
+
 ;;;ES;;;
 
 

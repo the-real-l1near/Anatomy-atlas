@@ -11,6 +11,10 @@ The limen insulae translates as the threshold to the insula, and is the point at
 
 
 https://en.wikipedia.org/wiki/Limen_insulae
+;;;VI;;;
+
+Ngưỡng đảo là vùng chuyển tiếp ở đầu trước thùy đảo, nằm gần chất thủng trước.
+
 ;;;ES;;;
 
 

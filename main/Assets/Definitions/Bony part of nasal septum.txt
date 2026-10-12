@@ -3,6 +3,10 @@
 BONY PART OF NASAL SEPTUM
 
 The bony part of the nasal septum if made of the vomer and the perpendicular plate of the ethmoid bone.
+;;;VI;;;
+
+Phần xương của vách mũi chủ yếu gồm mảnh thẳng xương sàng ở trên và xương lá mía ở dưới-sau.
+
 ;;;ES;;;
 
 

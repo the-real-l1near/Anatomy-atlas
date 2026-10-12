@@ -4,6 +4,10 @@ INTERVERTEBRAL SURFACE
 
 
 Part of the vertebral body facing the adjacent vertebra.
+;;;VI;;;
+
+Diện gian đốt sống là mặt trên hoặc dưới thân đốt sống tiếp xúc với đĩa gian đốt sống.
+
 ;;;ES;;;
 
 

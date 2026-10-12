@@ -5,6 +5,10 @@ GNATHION
 
 The lowest point of the midline of the lower jaw: 
     a reference point in craniometry.
+;;;VI;;;
+
+Điểm gnathion là mốc ở đường giữa bờ dưới cằm, nằm trên xương hàm dưới.
+
 ;;;ES;;;
 
 

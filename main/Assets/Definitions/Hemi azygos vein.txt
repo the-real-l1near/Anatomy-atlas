@@ -51,6 +51,10 @@ This vein mirrors the bottom half of the azygos vein.
 
 
 https://en.wikipedia.org/wiki/hemi-azygos_vein
+;;;VI;;;
+
+Tĩnh mạch bán đơn nằm bên trái cột sống ngực dưới, thu máu từ các tĩnh mạch gian sườn sau thấp và đổ vào tĩnh mạch đơn.
+
 ;;;ES;;;
 
 

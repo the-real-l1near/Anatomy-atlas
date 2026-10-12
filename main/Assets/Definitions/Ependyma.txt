@@ -60,6 +60,10 @@ Ependymoma is a tumor of the ependymal cells most commonly found in the fourth v
 
 
 https://en.wikipedia.org/wiki/Ependyma
+;;;VI;;;
+
+Lớp nội tủy là lớp tế bào lót não thất và ống trung tâm tủy sống, tiếp giáp với dịch não tủy.
+
 ;;;ES;;;
 
 

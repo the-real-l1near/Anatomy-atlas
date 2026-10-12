@@ -6,6 +6,10 @@ FOLDS OF IRIS
 Folds starting from the pupillary border of iris on the anterior surface of iris.
 
 They induce a small indentation of the pupillary border of iris.
+;;;VI;;;
+
+Các nếp mống mắt là những gờ và nếp nhỏ trên bề mặt mống mắt, thay đổi theo độ co giãn đồng tử.
+
 ;;;ES;;;
 
 

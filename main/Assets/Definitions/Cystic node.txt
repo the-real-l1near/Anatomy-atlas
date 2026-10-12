@@ -8,6 +8,10 @@ Big lympatic node next to the gallbladder.
 
 
 Feneis 306.31
+;;;VI;;;
+
+Hạch túi mật là hạch nằm gần cổ túi mật. Hạch này nhận bạch huyết từ túi mật và thường dẫn lưu về các hạch gan.
+
 ;;;ES;;;
 
 

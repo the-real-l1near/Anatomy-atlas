@@ -20,6 +20,10 @@ Total: 21 bones
 
 
 See: Cranium
+;;;VI;;;
+
+Các xương sọ tạo thành hộp sọ bảo vệ não, gồm các xương sọ não và xương mặt liên kết với nhau bằng khớp khớp sọ.
+
 ;;;ES;;;
 
 

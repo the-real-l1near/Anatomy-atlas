@@ -37,6 +37,10 @@ Subcutaneous bursa of medial malleolus
 Subtendinous bursa of tibialis anterior
 Subcutaneous calcaneal bursa
 Subtendinous calcaneal bursa
+;;;VI;;;
+
+Tệp cụm từ bách khoa chứa các cụm mô tả dùng làm dữ liệu tham khảo cho mục giải phẫu.
+
 ;;;ES;;;
 
 Bolsa subtendinosa del músculo trapecio

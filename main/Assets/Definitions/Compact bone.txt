@@ -28,6 +28,10 @@ The primary anatomical and functional unit of cortical bone is the osteon.
 
 
 https://en.wikipedia.org/wiki/Bone#Cortex
+;;;VI;;;
+
+Xương đặc là lớp xương cứng, đậm đặc ở phía ngoài xương. Các đơn vị cấu trúc hình trụ của nó giúp xương chịu lực.
+
 ;;;ES;;;
 
 

@@ -4,6 +4,10 @@ PRECAVAL NODES
 
 
 They are located in front of the inferior vena cava.
+;;;VI;;;
+
+Các hạch trước tĩnh mạch chủ nằm trước tĩnh mạch chủ dưới, nhận bạch huyết từ thận và thành bụng.
+
 ;;;ES;;;
 
 

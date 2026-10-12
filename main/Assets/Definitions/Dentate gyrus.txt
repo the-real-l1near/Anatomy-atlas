@@ -161,6 +161,10 @@ Every time a rat entered the maze, the rat behaved as if it was seeing the maze 
 
 
 https://en.wikipedia.org/wiki/Dentate_gyrus
+;;;VI;;;
+
+Hồi răng cưa là phần của hồi cạnh hải mã trong thùy thái dương giữa. Hồi này tham gia hình thành và phân biệt ký ức.
+
 ;;;ES;;;
 
 

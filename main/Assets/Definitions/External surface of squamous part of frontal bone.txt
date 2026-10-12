@@ -2,6 +2,10 @@
 
 
 EXTERNAL SURFACE OF SQUAMOUS PART OF FRONTAL BONE
+;;;VI;;;
+
+Mặt ngoài phần vảy xương trán tạo trán, thường có các ụ trán và cung mày.
+
 ;;;ES;;;
 
 

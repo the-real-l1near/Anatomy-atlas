@@ -5,6 +5,10 @@ EXTRACRANIAL BONES OF HEAD
 
 -Mandible
 -Hyoid bone
+;;;VI;;;
+
+Các xương ngoài sọ là những xương đầu nằm ngoài hộp sọ, chủ yếu tạo khung xương mặt.
+
 ;;;ES;;;
 
 

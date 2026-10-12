@@ -1,0 +1,137 @@
+# English name;Vietnamese name
+Vertical;Thẳng đứng
+Horizontal;Ngang
+Median;Giữa
+Coronal;Trán
+Sagittal;Dọc
+Right;Phải
+Left;Trái
+Intermediate;Trung gian
+Medial;Trong
+Lateral;Ngoài
+Anterior;Trước
+Posterior;Sau
+Ventral;Bụng
+Dorsal;Lưng
+Frontal;Trán
+Superior;Trên
+Inferior;Dưới
+Cranial;Đầu
+Caudal;Đuôi
+Rostral;Phía mũi
+Apical;Đỉnh
+Basal;Đáy
+Middle;Giữa
+Transverse;Ngang
+Longitudinal;Dọc
+Axial;Trục
+External;Ngoài
+Internal;Trong
+Superficial;Nông
+Deep;Sâu
+Proximal;Gần
+Distal;Xa
+Central;Trung tâm
+Peripheral;Ngoại vi
+Radial;Phía xương quay
+Ulnar;Phía xương trụ
+Tibial;Phía xương chày
+Palmar;Gan tay
+Plantar;Gan chân
+Flexor;Cơ gấp
+Extensor;Cơ duỗi
+Reference planes;Các mặt phẳng tham chiếu
+Sagittal planes;Các mặt phẳng dọc
+Coronal planes;Các mặt phẳng trán
+Transverse planes;Các mặt phẳng ngang
+Planes;Mặt phẳng
+Cartilages;Sụn
+Bones of left foot;Xương bàn chân trái
+Bones of right foot;Xương bàn chân phải
+Bones of left hand;Xương bàn tay trái
+Bones of right hand;Xương bàn tay phải
+Skeletal system;Hệ xương
+Muscular insertions;Điểm bám cơ
+Joints;Khớp
+Muscular system;Hệ cơ
+Fasciae;Mạc
+Arterial system;Hệ động mạch
+Venous system;Hệ tĩnh mạch
+Lymphoid organs;Cơ quan lympho
+Nervous system;Hệ thần kinh
+Visceral systems;Các hệ tạng
+Regions of human body;Các vùng cơ thể người
+References and movements;Mốc giải phẫu và vận động
+Parietal bone;Xương đỉnh
+Musculoskeletal systems;Các hệ cơ xương
+Axial skeleton;Bộ xương trục
+Neurocranium;Hộp sọ não
+Viscerocranium;Khối sọ mặt
+Facial bones;Các xương mặt
+Chondrocranium;Sọ sụn
+Desmocranium;Sọ màng
+Appendicular skeleton;Bộ xương chi
+Skeleton of upper limbs;Bộ xương chi trên
+Skeleton of lower limbs;Bộ xương chi dưới
+Pectoral girdle;Đai vai
+Pelvic girdle;Đai chậu
+Bone;Xương
+Bones;Các xương
+Long bone;Xương dài
+Short bone;Xương ngắn
+Flat bone;Xương dẹt
+Irregular bone;Xương bất định hình
+Pneumatic bone;Xương rỗng chứa khí
+Sesamoid bone;Xương vừng
+Compact bone;Xương đặc
+Spongy bone;Xương xốp
+Articular cartilage;Sụn khớp
+Periosteum;Màng xương
+Medullary cavity;Ổ tủy xương
+Endosteum;Màng trong xương
+Bone marrow;Tủy xương
+Diaphysis;Thân xương
+Metaphysis;Hành xương
+Epiphysis;Đầu xương
+Articular surface;Diện khớp
+Nutrient foramen;Lỗ nuôi xương
+Nutrient canal;Ống nuôi xương
+Ossification centre;Trung tâm cốt hóa
+Cranium;Hộp sọ
+Frontal bone;Xương trán
+Occipital bone;Xương chẩm
+Temporal bone;Xương thái dương
+Sphenoid bone;Xương bướm
+Ethmoid bone;Xương sàng
+Nasal bone;Xương mũi
+Lacrimal bone;Xương lệ
+Zygomatic bone;Xương gò má
+Maxilla;Xương hàm trên
+Mandible;Xương hàm dưới
+Orbit;Ổ mắt
+Orbital cavity;Hốc mắt
+Calvaria;Vòm sọ
+Diploë;Lớp xốp giữa hai bản xương sọ
+Fontanelle;Thóp
+Frontal sinus;Xoang trán
+Supraorbital margin;Bờ trên ổ mắt
+Supraorbital notch;Khuyết trên ổ mắt
+Supraorbital foramen;Lỗ trên ổ mắt
+Glabella;Ụ gian mày
+Brow ridge;Cung mày
+Squamous part of frontal bone;Phần trai xương trán
+Orbital part of frontal bone;Phần ổ mắt xương trán
+Nasal part of frontal bone;Phần mũi xương trán
+Frontal suture;Đường khớp trán
+Sphenoidal angle;Góc bướm
+Parietal angle;Góc đỉnh
+Occipital angle;Góc chẩm
+Mastoid angle;Góc chũm
+External surface;Mặt ngoài
+Internal surface;Mặt trong
+Superior border;Bờ trên
+Inferior border;Bờ dưới
+Anterior border;Bờ trước
+Posterior border;Bờ sau
+Medial border;Bờ trong
+Lateral border;Bờ ngoài

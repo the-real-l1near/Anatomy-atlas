@@ -24,6 +24,10 @@ The common iliac nodes are divided into the following sub-groups:
     -the subaortic nodes,
     -and the median sacral nodes.
     
+;;;VI;;;
+
+Các hạch chậu chung nằm dọc các động mạch chậu chung. Chúng nhận bạch huyết từ hạch chậu trong, chậu ngoài và vùng chậu.
+
 ;;;ES;;;
 
 

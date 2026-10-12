@@ -17,6 +17,12 @@ ETHMOID BONE
     Uncinate process of ethmoid bone
     Bony ethmoidal infundibulum
     Bony semilunar hiatus
+;;;VI;;;
+
+CÁC MỐC XƯƠNG SÀNG
+
+Các mốc xương sàng gồm mảnh sàng, mào gà, mảnh thẳng, các mê đạo sàng và xoăn mũi. Các cấu trúc này góp phần tạo nền sọ trước, hốc mũi và thành trong ổ mắt.
+
 ;;;ES;;;
 
 HUESO ETMOIDAL

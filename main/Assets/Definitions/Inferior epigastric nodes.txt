@@ -8,6 +8,10 @@ Three or four lymph nodes along the inferior epigastric artery for its territory
 
 
 Feneis 306.13
+;;;VI;;;
+
+Các hạch thượng vị dưới nhận bạch huyết từ thành bụng trước dưới, thường dọc theo mạch thượng vị dưới.
+
 ;;;ES;;;
 
 

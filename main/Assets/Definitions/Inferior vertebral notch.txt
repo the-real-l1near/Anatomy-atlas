@@ -4,6 +4,10 @@ INFERIOR VERTEBRAL NOTCH
 
 
 Inferior incisure on the pedicle of vertebral arch, forming the intervertebral foramen with the superior vertebral notch of the following vertebra.
+;;;VI;;;
+
+Khuyết đốt sống dưới nằm ở mặt dưới cuống cung đốt sống. Cùng khuyết trên của đốt sống kế cận, nó tạo nên lỗ gian đốt sống cho thần kinh sống đi qua.
+
 ;;;ES;;;
 
 

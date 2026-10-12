@@ -294,6 +294,12 @@ The appendix contains lymphoid tissue and is therefore believed to play a role n
 
 
 https://en.wikipedia.org/wiki/Lymph_node
+;;;VI;;;
+
+HẠCH BẠCH HUYẾT
+
+Hạch bạch huyết là cơ quan nhỏ nằm trên đường đi của mạch bạch huyết. Hạch lọc bạch huyết và tạo môi trường để tế bào miễn dịch nhận diện kháng nguyên.
+
 ;;;ES;;;
 
 

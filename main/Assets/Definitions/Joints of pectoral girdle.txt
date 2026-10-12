@@ -11,6 +11,10 @@ JOINTS OF PECTORAL GIRDLE
 -Synovial joints of pectoral girdle
     -Acromioclavicular joint
     -Sternoclavicular joint
+;;;VI;;;
+
+Các khớp đai vai gồm khớp ức-đòn và cùng-đòn, nối chi trên với bộ xương trục.
+
 ;;;ES;;;
 
 

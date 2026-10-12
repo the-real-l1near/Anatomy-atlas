@@ -4,6 +4,10 @@ INTERILIAC NODES
 
 
 Lymph nodes located in the bifurcation between the internal iliac artery and the external iliac artery.
+;;;VI;;;
+
+Các hạch gian chậu nằm gần chỗ phân đôi giữa động mạch chậu trong và động mạch chậu ngoài.
+
 ;;;ES;;;
 
 

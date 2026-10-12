@@ -6,6 +6,10 @@ LATERAL BASAL SEGMENT OF LEFT LUNG (SIX)
 Between the anterior basal segment (SVIII) and the posterior basal segment (SX).
 
 
+;;;VI;;;
+
+Phân thùy đáy ngoài của phổi trái (SIX) nằm giữa phân thùy đáy trước và phân thùy đáy sau.
+
 ;;;ES;;;
 
 

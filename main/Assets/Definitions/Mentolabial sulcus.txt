@@ -4,6 +4,10 @@ MENTOLABIAL SULCUS
 
 
 Depression between the lower lip and the chin.
+;;;VI;;;
+
+Rãnh môi-cằm là rãnh ngang giữa môi dưới và cằm.
+
 ;;;ES;;;
 
 

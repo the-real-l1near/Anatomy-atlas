@@ -11,6 +11,10 @@ It is composed of:
     -the perivascular plexuses
     
 Together with the craniosacral part of autonomic division and the visceral part of autonomic division, they form the autonomic division of peripheral nervous system.
+;;;VI;;;
+
+Phần ngực-thắt lưng của hệ thần kinh tự chủ là hệ giao cảm, có neuron trước hạch từ T1 đến L2.
+
 ;;;ES;;;
 
 

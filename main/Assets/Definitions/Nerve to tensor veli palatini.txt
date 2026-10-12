@@ -8,6 +8,10 @@ The nerve to tensor veli palatini is a small nerve which is unique in that it is
 
 
 https://en.wikipedia.org/wiki/Nerve_to_tensor_veli_palatini
+;;;VI;;;
+
+Thần kinh cơ căng màn hầu thường xuất phát từ nhánh thần kinh đến cơ chân bướm trong của thần kinh hàm dưới. Nó vận động cơ căng màn hầu.
+
 ;;;ES;;;
 
 

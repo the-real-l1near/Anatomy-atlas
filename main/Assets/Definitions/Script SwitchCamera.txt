@@ -68,6 +68,10 @@ def unregister():
 
 if __name__ == "__main__":
     register()
+;;;VI;;;
+
+Chức năng đổi camera chuyển góc quan sát giữa các chế độ nhìn trong mô hình.
+
 ;;;ES;;;
 
 bl_info = {

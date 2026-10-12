@@ -13,6 +13,8 @@ public class MultilanguageText : MonoBehaviour
     public string portugueseText;
     [TextArea(2, 20)]
     public string frenchText;
+    [TextArea(2, 20)]
+    public string vietnameseText;
     private TextMeshProUGUI textField;
     private ExpandTextUI expandableText;
     private void Awake()
@@ -36,6 +38,9 @@ public class MultilanguageText : MonoBehaviour
                 break;
             case SystemLanguage.French:
                 textField.text = frenchText;
+                break;
+            case SystemLanguage.Vietnamese:
+                textField.text = vietnameseText;
                 break;
             default:
                 textField.text = defaultText;

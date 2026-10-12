@@ -14,6 +14,10 @@ FASCIAE OF THORAX
         -Suprapleural membrane
         -Phrenicopleural fascia
             -Superior phrenico-oesophageal ligament
+;;;VI;;;
+
+Các mạc ngực bao bọc cơ thành ngực và lót mặt trong lồng ngực, liên tục với mạc cổ và mạc bụng.
+
 ;;;ES;;;
 
 

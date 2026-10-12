@@ -6,6 +6,10 @@ RETRO-OLIVARY GROOVE
 Groove behind the oliva, where the glossopharyngeal nerve (IX) and the vagus nerve (X) emerge.
 
 In its prolongation on the medulla oblongata emerge the roots of the accessory nerve (XI).
+;;;VI;;;
+
+Rãnh sau ôliu ở hành não là nơi các rễ thần kinh lang thang và phụ đi ra.
+
 ;;;ES;;;
 
 

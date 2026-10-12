@@ -4,6 +4,10 @@ SUPERIOR POLE OF TESTIS
 
 
 Superior extremity of the testis.
+;;;VI;;;
+
+Cực trên tinh hoàn tiếp giáp đầu trên mào tinh và thừng tinh.
+
 ;;;ES;;;
 
 

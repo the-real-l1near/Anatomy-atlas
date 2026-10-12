@@ -10,6 +10,10 @@ It is composed of:
     -and the posterior lateral segment of liver (VII)
 
 It forms the right part of liver with the right medial division of liver.
+;;;VI;;;
+
+Phần bên phải gan gồm các phân thùy VI và VII theo phân chia chức năng.
+
 ;;;ES;;;
 
 

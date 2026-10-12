@@ -28,6 +28,10 @@ This bends the stereocilia, which is interpreted by the brain as vertical linear
 
 
 https://en.wikipedia.org/wiki/Macula_of_saccule
+;;;VI;;;
+
+Vết soan nang là vùng tế bào cảm giác trong soan nang, phát hiện gia tốc thẳng đứng và tư thế đầu.
+
 ;;;ES;;;
 
 

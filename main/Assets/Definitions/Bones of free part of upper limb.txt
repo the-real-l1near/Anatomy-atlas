@@ -4,6 +4,10 @@ BONES OF FREE PART OF UPPER LIMB
 
 
 Bones of the arm, forearm and of the hand.
+;;;VI;;;
+
+Bộ xương phần tự do chi trên gồm xương cánh tay, quay, trụ, các xương cổ tay, bàn tay và đốt ngón.
+
 ;;;ES;;;
 
 

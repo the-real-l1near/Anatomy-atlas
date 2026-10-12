@@ -97,6 +97,10 @@ Thereby, the receptive fields in inferior colliculus can be seen as well adapted
 
 
 https://en.wikipedia.org/wiki/Inferior_colliculus
+;;;VI;;;
+
+Củ não sinh tư dưới ở trung não là trung tâm tiếp nhận và chuyển tiếp tín hiệu thính giác.
+
 ;;;ES;;;
 
 

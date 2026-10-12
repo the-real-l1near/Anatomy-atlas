@@ -14,6 +14,10 @@ In this function, the accessory cuneate nucleus is the upper extremity equivalen
 
 
 https://en.wikipedia.org/wiki/Accessory_cuneate_nucleus 
+;;;VI;;;
+
+Nhân chêm phụ là nhóm neuron ở hành não liên quan đến tiếp nhận và chuyển tiếp thông tin cảm giác sâu từ chi trên.
+
 ;;;ES;;;
 
 

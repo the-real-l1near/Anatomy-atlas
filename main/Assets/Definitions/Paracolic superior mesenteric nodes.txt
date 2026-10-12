@@ -4,6 +4,10 @@ PARACOLIC SUPERIOR MESENTERIC NODES
 
 
 Those of the superior mesenteric nodes located next to the colon.
+;;;VI;;;
+
+Các hạch cạnh đại tràng thuộc vùng mạc treo tràng trên nhận bạch huyết từ đại tràng phải.
+
 ;;;ES;;;
 
 

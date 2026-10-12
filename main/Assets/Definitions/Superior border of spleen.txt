@@ -12,6 +12,10 @@ Feneis 298.26
 
 
 
+;;;VI;;;
+
+Bờ trên lách có các khía đặc trưng và hướng về cơ hoành.
+
 ;;;ES;;;
 
 

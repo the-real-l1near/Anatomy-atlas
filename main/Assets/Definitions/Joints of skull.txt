@@ -21,6 +21,10 @@ JOINTS OF SKULL
     
     
 https://ta2viewer.openanatomy.org/?id=1563
+;;;VI;;;
+
+Các khớp sọ chủ yếu là khớp sợi bất động; ngoại lệ vận động chính là khớp thái dương-hàm.
+
 ;;;ES;;;
 
 

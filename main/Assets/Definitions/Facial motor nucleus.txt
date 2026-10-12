@@ -94,6 +94,10 @@ Thus, the main distinction between an UMN and LMN lesion is that in the former, 
 
 
 https://en.wikipedia.org/wiki/Facial_motor_nucleus
+;;;VI;;;
+
+Nhân vận động thần kinh mặt nằm ở cầu não, chứa neuron chi phối các cơ biểu cảm mặt.
+
 ;;;ES;;;
 
 

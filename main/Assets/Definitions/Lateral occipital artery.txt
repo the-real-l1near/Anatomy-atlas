@@ -13,6 +13,10 @@ Feneis 248.14
 
 
 
+;;;VI;;;
+
+Động mạch chẩm bên là nhánh cấp máu cho da đầu vùng chẩm và cơ gáy.
+
 ;;;ES;;;
 
 

@@ -12,6 +12,10 @@ The medulla can be thought of as being in two parts:
     
     
 https://en.wikipedia.org/wiki/Medulla_oblongata
+;;;VI;;;
+
+Phần trên hành não tiếp giáp cầu não và chứa các nhân cùng đường dẫn truyền của thân não.
+
 ;;;ES;;;
 
 

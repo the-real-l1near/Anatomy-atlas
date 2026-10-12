@@ -6,6 +6,10 @@ PUPILLARY MARGIN OF IRIS
 Internal border of the iris, surrounding the iris.
 
 
+;;;VI;;;
+
+Bờ đồng tử là bờ trong tự do của mống mắt bao quanh lỗ đồng tử.
+
 ;;;ES;;;
 
 

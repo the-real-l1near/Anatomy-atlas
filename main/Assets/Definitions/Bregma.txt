@@ -4,6 +4,10 @@ BREGMA
 
 The bregma is the intersection between the sagittal and the coronal sutures.
 
+;;;VI;;;
+
+Điểm bregma là mốc sọ tại nơi đường khớp vành gặp đường khớp dọc giữa, tương ứng vị trí thóp trước ở trẻ nhỏ.
+
 ;;;ES;;;
 
 

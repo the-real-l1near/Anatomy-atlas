@@ -14,6 +14,10 @@ Cartilaginous joints of thorax
 -Costovertebral joints
 -Sternochondral joints
 -Interchondral joints
+;;;VI;;;
+
+Các khớp lồng ngực gồm khớp sườn-đốt sống, khớp sườn-mỏm ngang, khớp ức-sườn và các khớp sụn sườn.
+
 ;;;ES;;;
 
 

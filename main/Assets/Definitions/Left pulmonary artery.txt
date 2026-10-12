@@ -8,6 +8,10 @@ The main pulmonary artery splits into the right and the left main pulmonary arte
 The left main pulmonary artery is shorter and somewhat smaller than the right, passes horizontally in front of the descending aorta and left bronchus to the root of the left lung.
 
 The left main pulmonary artery then divides into two lobar arteries, one for each lobe of the left lung.
+;;;VI;;;
+
+Động mạch phổi trái đi từ thân động mạch phổi đến rốn phổi trái, đưa máu nghèo oxy đến phổi.
+
 ;;;ES;;;
 
 

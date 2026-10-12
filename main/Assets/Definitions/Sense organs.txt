@@ -7,6 +7,12 @@ SENSE ORGANS
 -Eye
 -Ear
 -Gustatory organ
+;;;VI;;;
+
+CÁC CƠ QUAN CẢM GIÁC
+
+Các cơ quan cảm giác tiếp nhận thông tin từ môi trường và cơ thể. Những hệ cảm giác chính gồm thị giác, thính giác, tiền đình, khứu giác, vị giác và cảm giác thân thể.
+
 ;;;ES;;;
 
 

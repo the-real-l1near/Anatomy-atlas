@@ -4,6 +4,10 @@ INFRACLAVICULAR PART OF BRACHIAL PLEXUS
 
 
 Inferior segment of brahial plexus, going from the superior border of clavicle until the ramification of the bundles of individualized nerves.
+;;;VI;;;
+
+Phần dưới đòn đám rối cánh tay gồm các bó và nhánh nằm phía dưới xương đòn, phân phối thần kinh cho chi trên.
+
 ;;;ES;;;
 
 

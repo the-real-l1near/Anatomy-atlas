@@ -15,6 +15,10 @@ You can affect only the selected objects by clicking on the upper X/Y/Z buttons
 Select a plane with LMB (Left Mouse Button)
 and press 'G' to move it.
 
+;;;VI;;;
+
+Các mặt cắt giải phẫu cho thấy cấu trúc bên trong cơ thể theo những mặt phẳng cắt khác nhau.
+
 ;;;ES;;;
 
 

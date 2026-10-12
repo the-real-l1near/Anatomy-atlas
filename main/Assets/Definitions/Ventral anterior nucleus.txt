@@ -28,6 +28,10 @@ It helps to function in movement by providing feedback for the outputs of the ba
 
 
 https://en.wikipedia.org/wiki/Ventral_anterior_nucleus
+;;;VI;;;
+
+Nhân bụng trước đồi thị nhận tín hiệu từ hạch nền và tiểu não, chuyển đến vùng vận động vỏ não.
+
 ;;;ES;;;
 
 

@@ -4,6 +4,12 @@ SIMPLE JOINT
 
 
 Simple joint: two articulation surfaces (e.g. shoulder joint, hip joint)
+;;;VI;;;
+
+KHỚP ĐƠN
+
+Khớp đơn là khớp hoạt dịch có hai xương tham gia tạo diện khớp. Bao khớp và dây chằng bao quanh khớp, cho phép vận động phù hợp với hình dạng các diện khớp.
+
 ;;;ES;;;
 
 

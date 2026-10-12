@@ -21,6 +21,10 @@ In the human skull, the facial skeleton consists of fourteen bones in the face:
     
     
 https://en.wikipedia.org/wiki/Facial_skeleton
+;;;VI;;;
+
+Các xương mặt tạo khung cho hốc mắt, hốc mũi và khoang miệng, đồng thời nâng đỡ các mô mềm mặt.
+
 ;;;ES;;;
 
 

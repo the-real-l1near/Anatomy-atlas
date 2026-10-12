@@ -4,6 +4,10 @@ NECK OF MALLEUS
 
 
 Middle part of the malleus, between the head and the handle.
+;;;VI;;;
+
+Cổ xương búa là đoạn hẹp nối chỏm với cán xương búa.
+
 ;;;ES;;;
 
 

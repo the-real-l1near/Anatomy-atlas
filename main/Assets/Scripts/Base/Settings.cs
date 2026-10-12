@@ -181,6 +181,8 @@ public class Settings : MonoBehaviour
                 return 3;
             case SystemLanguage.Portuguese:
                 return 4;
+            case SystemLanguage.Vietnamese:
+                return 5;
         }
 
         return 0;
@@ -227,6 +229,10 @@ public class Settings : MonoBehaviour
             case 4:
                 language = SystemLanguage.Portuguese;
                 languageIndex = 4;
+                break;
+            case 5:
+                language = SystemLanguage.Vietnamese;
+                languageIndex = 5;
                 break;
         }
 

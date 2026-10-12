@@ -5,6 +5,10 @@ EXTERNAL PART OF THYRO-ARYTENOID MUSCLE
 
 Main external part of the thyro-arytenoid muscle, by opposition to the thyro-epiglottic part of thyro-arytenoid muscle and the
 vocalis muscle.
+;;;VI;;;
+
+Phần ngoài cơ giáp-phễu kéo sụn phễu về phía sụn giáp, góp phần khép và làm ngắn dây thanh.
+
 ;;;ES;;;
 
 

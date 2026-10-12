@@ -4,6 +4,10 @@ TUBERCLE
 
 Small bony prominence.
     For exemple: the minor tubercle of the humerus.
+;;;VI;;;
+
+Củ là mỏm xương nhỏ, thường làm điểm bám cho cơ hoặc dây chằng.
+
 ;;;ES;;;
 
 

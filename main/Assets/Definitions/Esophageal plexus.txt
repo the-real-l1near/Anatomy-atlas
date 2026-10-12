@@ -30,6 +30,10 @@ Afferent fibers - These fibers are primarily concerned with pain and have cell b
 
 
 https://en.wikipedia.org/wiki/Esophageal_plexus
+;;;VI;;;
+
+Đám rối thực quản được tạo bởi các nhánh thần kinh phế vị và giao cảm quanh thực quản; các sợi này hợp thành thân phế vị trước và sau ở đoạn dưới.
+
 ;;;ES;;;
 
 

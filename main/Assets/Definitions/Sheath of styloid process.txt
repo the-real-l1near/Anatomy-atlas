@@ -7,6 +7,10 @@ Bony curvature for the base of the styloid process, formed by the tympanic part.
 
 
 Feneis 34.9
+;;;VI;;;
+
+Bao mỏm trâm là cấu trúc cân-dây chằng quanh mỏm trâm xương thái dương, liên quan với các cơ và dây chằng trâm.
+
 ;;;ES;;;
 
 

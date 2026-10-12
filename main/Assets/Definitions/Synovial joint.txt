@@ -57,6 +57,12 @@ In ascending order of mobility, they are:
 
 
 https://en.wikipedia.org/wiki/Synovial_joint
+;;;VI;;;
+
+KHỚP HOẠT DỊCH
+
+Khớp hoạt dịch có khoang khớp chứa dịch, các diện khớp phủ sụn khớp và được bao quanh bởi bao khớp. Đa số khớp vận động tự do của cơ thể thuộc loại này.
+
 ;;;ES;;;
 
 

@@ -15,6 +15,10 @@ Feneis 306.8
 
 
 
+;;;VI;;;
+
+Các hạch thắt lưng phải nằm quanh tĩnh mạch chủ dưới. Chúng nhận bạch huyết từ thận, tuyến thượng thận, niệu quản, cơ quan sinh dục và thành bụng, đồng thời tiếp nhận bạch huyết từ các hạch thấp hơn.
+
 ;;;ES;;;
 
 

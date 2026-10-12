@@ -10,6 +10,10 @@ The joints of foot are:
     -the intermetatarsal joints
     -the metatarsophalangeal joints
     -the interphalangeal joints of foot
+;;;VI;;;
+
+Các khớp bàn chân gồm khớp cổ chân, dưới sên, giữa các xương cổ chân, cổ chân-bàn chân, gian bàn và các khớp ngón.
+
 ;;;ES;;;
 
 

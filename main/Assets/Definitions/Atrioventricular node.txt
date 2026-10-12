@@ -82,6 +82,10 @@ Cystic tumour of atrioventricular nodal region (CTAVN) CTAVN is of endodermal or
 
 
 https://en.wikipedia.org/wiki/Atrioventricular_node
+;;;VI;;;
+
+Nút nhĩ-thất nằm ở phần dưới vách liên nhĩ, gần lỗ xoang vành. Nút làm chậm dẫn truyền điện từ tâm nhĩ xuống tâm thất trước khi xung đến bó nhĩ-thất.
+
 ;;;ES;;;
 
 

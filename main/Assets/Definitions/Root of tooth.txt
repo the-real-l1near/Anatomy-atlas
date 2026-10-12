@@ -4,6 +4,12 @@ ROOT OF TOOTH
 
 
 Part of the tooth covered by cement.
+;;;VI;;;
+
+CHÂN RĂNG
+
+Chân răng là phần nằm trong ổ răng, được phủ bởi xê-măng và nối với xương ổ qua dây chằng nha chu. Chân răng có thể có một hoặc nhiều ống tủy.
+
 ;;;ES;;;
 
 

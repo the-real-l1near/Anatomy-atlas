@@ -6,6 +6,10 @@ INFERIOR PANCREATICODUODENAL NODES
 Inferior part of the pancreaticoduodenal nodes.
 
 They evacuate in the mesenteric nodes.
+;;;VI;;;
+
+Các hạch tụy-tá tràng dưới nhận bạch huyết từ đầu tụy và tá tràng, nằm quanh các mạch cùng tên.
+
 ;;;ES;;;
 
 

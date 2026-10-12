@@ -33,6 +33,12 @@ The saddle joint is also known as the sellar joint.
 
 
 https://en.wikipedia.org/wiki/Saddle_joint
+;;;VI;;;
+
+KHỚP YÊN NGỰA
+
+Khớp yên ngựa có hai mặt khớp lõm-lồi bổ sung cho nhau theo hai chiều. Khớp cổ-bàn tay ngón cái cho phép dạng-khép, gấp-duỗi và động tác đối chiếu ngón cái.
+
 ;;;ES;;;
 
 

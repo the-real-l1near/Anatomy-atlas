@@ -7,6 +7,10 @@ Orifice of the nutrient canal at the bone's superficy.
 
 
 Feneis 14.19
+;;;VI;;;
+
+Lỗ nuôi xương là lỗ trên thân xương cho động mạch nuôi đi vào.
+
 ;;;ES;;;
 
 

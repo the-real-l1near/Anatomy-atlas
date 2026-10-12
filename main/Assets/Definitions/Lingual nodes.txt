@@ -10,6 +10,10 @@ The lingual nodes drain the inferior part of the tongue, the lateral borders and
 
 Feneis 300.15
 
+;;;VI;;;
+
+Các hạch lưỡi nằm trong mô lưỡi, nhận bạch huyết từ lưỡi và dẫn lưu về các hạch cổ sâu.
+
 ;;;ES;;;
 
 

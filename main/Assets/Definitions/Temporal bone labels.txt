@@ -78,6 +78,12 @@ TEMPORAL BONE
     Petrosquamous fissure
     Tympanosquamous fissure
     Tympanomastoid fissure
+;;;VI;;;
+
+CÁC MỐC XƯƠNG THÁI DƯƠNG
+
+Các mốc xương thái dương gồm phần trai, phần đá, phần chũm, phần nhĩ, mỏm trâm và mỏm gò má. Xương chứa các cấu trúc tai và góp phần tạo khớp thái dương-hàm.
+
 ;;;ES;;;
 
 HUESO TEMPORAL

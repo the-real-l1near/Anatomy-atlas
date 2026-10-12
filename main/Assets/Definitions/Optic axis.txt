@@ -16,6 +16,10 @@ For an optical fiber, the optical axis is along the center of the fiber core, an
 
 
 https://en.wikipedia.org/wiki/Optical_axis
+;;;VI;;;
+
+Trục thị giác là đường từ điểm nhìn qua các môi trường khúc xạ của mắt đến võng mạc.
+
 ;;;ES;;;
 
 

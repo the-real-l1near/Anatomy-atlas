@@ -6,6 +6,10 @@ ILEOCOLIC NODES
 The ileocolic nodes are located along the ileocolic artery.
 
 Evacuation: Coeliac nodes
+;;;VI;;;
+
+Các hạch hồi-đại tràng nằm dọc theo động mạch hồi-đại tràng. Chúng dẫn lưu bạch huyết từ đoạn cuối hồi tràng, manh tràng và phần đầu đại tràng lên.
+
 ;;;ES;;;
 
 

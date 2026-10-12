@@ -11,6 +11,10 @@ It communicates with the medial brachial cutaneous, the dorsal antebrachial cuta
 
 
 https://en.wikipedia.org/wiki/Medial_cutaneous_nerve_of_forearm
+;;;VI;;;
+
+Nhánh sau thần kinh bì cẳng tay trong chi phối da mặt sau-trong cẳng tay.
+
 ;;;ES;;;
 
 

@@ -27,6 +27,10 @@ In some cases, defects can be identified with an echocardiogram.Incomplete forma
 
 
 https://en.wikipedia.org/wiki/Atrioventricular_septum
+;;;VI;;;
+
+Vách nhĩ-thất là phần mô ngăn cách tâm nhĩ với tâm thất, bao gồm thành phần cơ và mô sợi quanh các van nhĩ-thất.
+
 ;;;ES;;;
 
 

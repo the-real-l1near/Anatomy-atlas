@@ -65,6 +65,10 @@ Visible from below or inside
     Petrosquamous suture
     Sphenoethmoidal suture
     Sphenopetrosal suture
+;;;VI;;;
+
+Các khớp khớp sọ là khớp sợi bất động nối các xương sọ, thường có bờ răng cưa.
+
 ;;;ES;;;
 
 

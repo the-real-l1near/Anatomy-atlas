@@ -4,6 +4,10 @@ LATERAL ROTATION
 
 
 External rotation (lateral rotation or extorsion) is rotation (of the front part) away from the center of the body.
+;;;VI;;;
+
+Xoay ngoài là động tác xoay một xương quanh trục dọc để mặt trước hướng ra ngoài.
+
 ;;;ES;;;
 
 
